@@ -1,0 +1,96 @@
+EventId,Category,AthleteId,Name,Value,Display
+,passingYards,4915980,John Mateer,1038,"90/135, 1038 YDS, 8 TD, 4 INT"
+,rushingYards,5079298,Lloyd Avant,236,"52 CAR, 236 YDS, 2 TD"
+,receivingYards,5080703,Isaiah Sategna III,331,"25 REC, 331 YDS, 2 TD"
+,totalTackles,5081928,Owen Heinecke,37,37
+,sacks,4899363,Adepoju Adebawore,2.5,2.5
+,interceptions,4870625,Peyton Bowen,1,1
+401752675,passingYards,4915980,John Mateer,392,"30/37, 392 YDS, 3 TD, 1 INT"
+401752675,rushingYards,5141386,Tory Blaylock,42,"8 CAR, 42 YDS, 1 TD"
+401752675,receivingYards,4431646,Keontez Lewis,119,"9 REC, 119 YDS, 2 TD"
+401752675,totalTackles,4899483,Sammy Omosigho,8,8
+401752675,sacks,4899483,Sammy Omosigho,1,1
+401752690,passingYards,4915980,John Mateer,270,"21/34, 270 YDS, 1 TD, 1 INT"
+401752690,rushingYards,4915980,John Mateer,74,"19 CAR, 74 YDS, 2 TD"
+401752690,receivingYards,4683151,Deion Burks,101,"7 REC, 101 YDS, 1 TD"
+401752690,totalTackles,5081928,Owen Heinecke,7,7
+401752690,sacks,4899483,Sammy Omosigho,0.5,0.5
+401752703,passingYards,4915980,John Mateer,282,"20/34, 282 YDS, 1 TD, 1 INT"
+401752703,rushingYards,5141386,Tory Blaylock,100,"14 CAR, 100 YDS, 2 TD"
+401752703,receivingYards,5080703,Isaiah Sategna III,97,"7 REC, 97 YDS"
+401752703,totalTackles,5125365,Taylor Heim,4,4
+401752703,sacks,5143274,Reggie Powers III,1,1
+401752714,passingYards,4915980,John Mateer,271,"24/36, 271 YDS, 1 TD"
+401752714,rushingYards,4915980,John Mateer,29,"10 CAR, 29 YDS, 1 TD"
+401752714,receivingYards,5080703,Isaiah Sategna III,127,"9 REC, 127 YDS, 1 TD"
+401752714,totalTackles,4711065,Kip Lewis,10,10
+401752714,sacks,5132635,Jayden Jackson,2.5,2.5
+401752729,passingYards,5079465,Michael Hawkins Jr.,162,"14/24, 162 YDS, 3 TD"
+401752729,rushingYards,5141386,Tory Blaylock,78,"15 CAR, 78 YDS"
+401752729,receivingYards,5080703,Isaiah Sategna III,75,"4 REC, 75 YDS, 2 TD"
+401752729,totalTackles,5079711,David Stone,6,6
+401752729,sacks,5081927,R Mason Thomas,1,1
+401752736,passingYards,4915980,John Mateer,202,"20/38, 202 YDS, 3 INT"
+401752736,rushingYards,5141386,Tory Blaylock,33,"11 CAR, 33 YDS"
+401752736,receivingYards,4683151,Deion Burks,64,"5 REC, 64 YDS"
+401752736,totalTackles,4595343,Kendal Daniels,6,6
+401752736,sacks,5081927,R Mason Thomas,1,1
+401752744,passingYards,4915980,John Mateer,150,"18/26, 150 YDS, 1 TD"
+401752744,rushingYards,5141386,Tory Blaylock,101,"19 CAR, 101 YDS, 1 TD"
+401752744,receivingYards,5080703,Isaiah Sategna III,73,"7 REC, 73 YDS, 1 TD"
+401752744,totalTackles,4820584,Robert Spears-Jennings,8,8
+401752744,sacks,4899363,Adepoju Adebawore,1.5,1.5
+401752750,passingYards,4915980,John Mateer,223,"17/31, 223 YDS, 1 TD"
+401752750,rushingYards,5122554,Xavier Robinson,109,"9 CAR, 109 YDS, 2 TD"
+401752750,receivingYards,5080703,Isaiah Sategna III,131,"6 REC, 131 YDS, 1 TD"
+401752750,totalTackles,4711065,Kip Lewis,12,12
+401752750,sacks,4685425,Marvin Jones Jr.,1,1
+401752757,passingYards,4915980,John Mateer,159,"19/29, 159 YDS, 1 INT"
+401752757,rushingYards,5122554,Xavier Robinson,115,"16 CAR, 115 YDS, 1 TD"
+401752757,receivingYards,5080703,Isaiah Sategna III,68,"6 REC, 68 YDS"
+401752757,totalTackles,5081928,Owen Heinecke,13,13
+401752757,sacks,5081927,R Mason Thomas,1,1
+401752765,passingYards,4915980,John Mateer,138,"15/23, 138 YDS"
+401752765,rushingYards,5122554,Xavier Robinson,34,"10 CAR, 34 YDS"
+401752765,receivingYards,5155000,Jer'Michael Carter,36,"3 REC, 36 YDS"
+401752765,totalTackles,4711065,Kip Lewis,7,7
+401752765,sacks,4711065,Kip Lewis,2,2
+401752778,passingYards,4915980,John Mateer,173,"14/30, 173 YDS, 2 TD"
+401752778,rushingYards,4915980,John Mateer,60,"18 CAR, 60 YDS"
+401752778,receivingYards,5080703,Isaiah Sategna III,109,"3 REC, 109 YDS, 1 TD"
+401752778,totalTackles,5081928,Owen Heinecke,10,10
+401752778,sacks,5114314,Taylor Wein,1.5,1.5
+401752789,passingYards,4915980,John Mateer,318,"23/38, 318 YDS, 2 TD, 3 INT"
+401752789,rushingYards,5141386,Tory Blaylock,42,"11 CAR, 42 YDS"
+401752789,receivingYards,5080703,Isaiah Sategna III,121,"9 REC, 121 YDS, 1 TD"
+401752789,totalTackles,4595343,Kendal Daniels,7,7
+401779840,passingYards,4915980,John Mateer,307,"26/41, 307 YDS, 2 TD, 1 INT"
+401779840,rushingYards,5141386,Tory Blaylock,36,"11 CAR, 36 YDS"
+401779840,receivingYards,4683151,Deion Burks,107,"7 REC, 107 YDS, 1 TD"
+401779840,totalTackles,5081928,Owen Heinecke,7,7
+401779840,sacks,4685425,Marvin Jones Jr.,1,1
+401856664,passingYards,4915980,John Mateer,225,"11/17, 225 YDS, 3 TD"
+401856664,rushingYards,5079298,Lloyd Avant,79,"15 CAR, 79 YDS, 1 TD"
+401856664,receivingYards,5080703,Isaiah Sategna III,76,"4 REC, 76 YDS, 1 TD"
+401856664,totalTackles,5081928,Owen Heinecke,7,7
+401856664,sacks,4899363,Adepoju Adebawore,1,1
+401856679,passingYards,4915980,John Mateer,189,"17/33, 189 YDS, 1 TD, 1 INT"
+401856679,rushingYards,4915980,John Mateer,45,"13 CAR, 45 YDS"
+401856679,receivingYards,4907786,Rocky Beers,94,"6 REC, 94 YDS"
+401856679,totalTackles,5081928,Owen Heinecke,9,9
+401856679,sacks,5114314,Taylor Wein,1,1
+401856690,passingYards,4915980,John Mateer,238,"19/25, 238 YDS, 2 TD, 2 INT"
+401856690,rushingYards,5079298,Lloyd Avant,27,"8 CAR, 27 YDS"
+401856690,receivingYards,5080703,Isaiah Sategna III,101,"6 REC, 101 YDS, 1 TD"
+401856690,totalTackles,5079711,David Stone,8,8
+401856690,sacks,4899363,Adepoju Adebawore,1.5,1.5
+401856700,passingYards,4915980,John Mateer,231,"25/34, 231 YDS, 2 TD, 1 INT"
+401856700,rushingYards,5079298,Lloyd Avant,23,"10 CAR, 23 YDS"
+401856700,receivingYards,4907786,Rocky Beers,84,"8 REC, 84 YDS, 1 TD"
+401856700,totalTackles,4711065,Kip Lewis,5,5
+401856700,sacks,4711065,Kip Lewis,0.5,0.5
+401856717,passingYards,4915980,John Mateer,155,"18/26, 155 YDS"
+401856717,rushingYards,5079298,Lloyd Avant,72,"10 CAR, 72 YDS, 1 TD"
+401856717,receivingYards,5080703,Isaiah Sategna III,64,"5 REC, 64 YDS"
+401856717,totalTackles,5081928,Owen Heinecke,9,9
+401856717,sacks,5114314,Taylor Wein,1,1
