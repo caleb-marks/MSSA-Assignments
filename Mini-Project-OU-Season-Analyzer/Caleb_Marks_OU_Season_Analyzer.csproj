@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <RootNamespace>Caleb_Marks_OU_Season_Analyzer</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <!-- LibVLC for 64-bit Windows only (the x86 & ARM copies add about 200 MB) -->
+    <VlcWindowsX86Enabled>false</VlcWindowsX86Enabled>
+    <VlcWindowsArm64Enabled>false</VlcWindowsArm64Enabled>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Highlight clips play from Assets\clips beside the exe; posters & credits are built in, so posts never lose their picture -->
+    <None Remove="Assets\clips\*.jpg;Assets\clips\CREDITS.md;Assets\clips\highlights.csv" />
+    <EmbeddedResource Include="Assets\clips\*.jpg" LogicalName="clips.%(Filename)%(Extension)" />
+    <EmbeddedResource Include="Assets\clips\CREDITS.md" LogicalName="clips.CREDITS.md" />
+    <EmbeddedResource Include="Assets\clips\highlights.csv" LogicalName="clips.highlights.csv" />
+    <None Update="Assets\clips\*.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="GameData\**\*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LibVLCSharp.WinForms" Version="3.10.2" />
+    <PackageReference Include="VideoLAN.LibVLC.Windows" Version="3.0.24" />
+  </ItemGroup>
+
+</Project>

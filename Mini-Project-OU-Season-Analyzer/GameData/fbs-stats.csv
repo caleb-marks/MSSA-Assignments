@@ -1,0 +1,3175 @@
+TeamId,TeamName,Color,Key,Value,Rank
+2,Auburn,002b5c,pointsFor,26.8,85
+2,Auburn,002b5c,pointsAgainst,21.4,49
+2,Auburn,002b5c,rushYds,180,50
+2,Auburn,002b5c,rushYdsAllowed,149,81
+2,Auburn,002b5c,passYds,219.8,80
+2,Auburn,002b5c,passYdsAllowed,208.2,72
+2,Auburn,002b5c,totalYds,399.8,67
+2,Auburn,002b5c,totalYdsAllowed,357.2,80
+2,Auburn,002b5c,thirdDownPct,46.667,32
+2,Auburn,002b5c,thirdDownPctAllowed,31.707,31
+2,Auburn,002b5c,rushYpc,4.8,46
+2,Auburn,002b5c,rushYpcAllowed,3.498,39
+2,Auburn,002b5c,sacksMade,14,40
+2,Auburn,002b5c,gamesPlayed,5,0
+2,Auburn,002b5c,yardsPerPlay,5.711,83
+2,Auburn,002b5c,yardsPerPlayAllowed,4.763,28
+5,UAB,1a5632,pointsFor,22.17,108
+5,UAB,1a5632,pointsAgainst,25.833,93
+5,UAB,1a5632,rushYds,179.5,51
+5,UAB,1a5632,rushYdsAllowed,190.833,123
+5,UAB,1a5632,passYds,155.8,129
+5,UAB,1a5632,passYdsAllowed,126,2
+5,UAB,1a5632,totalYds,335.3,110
+5,UAB,1a5632,totalYdsAllowed,316.833,38
+5,UAB,1a5632,thirdDownPct,42.697,58
+5,UAB,1a5632,thirdDownPctAllowed,39.726,92
+5,UAB,1a5632,rushYpc,4.1,92
+5,UAB,1a5632,rushYpcAllowed,4.562,104
+5,UAB,1a5632,sacksMade,13,45
+5,UAB,1a5632,gamesPlayed,6,0
+5,UAB,1a5632,yardsPerPlay,5.03,117
+5,UAB,1a5632,yardsPerPlayAllowed,5.138,55
+6,South Alabama,00205b,pointsFor,38.83,21
+6,South Alabama,00205b,pointsAgainst,34.5,128
+6,South Alabama,00205b,rushYds,220.3,22
+6,South Alabama,00205b,rushYdsAllowed,164.167,99
+6,South Alabama,00205b,passYds,217.5,83
+6,South Alabama,00205b,passYdsAllowed,264.833,129
+6,South Alabama,00205b,totalYds,437.8,40
+6,South Alabama,00205b,totalYdsAllowed,429,128
+6,South Alabama,00205b,thirdDownPct,44.186,45
+6,South Alabama,00205b,thirdDownPctAllowed,43.333,112
+6,South Alabama,00205b,rushYpc,4.8,46
+6,South Alabama,00205b,rushYpcAllowed,5.76,133
+6,South Alabama,00205b,sacksMade,10,81
+6,South Alabama,00205b,gamesPlayed,6,0
+6,South Alabama,00205b,yardsPerPlay,6.152,55
+6,South Alabama,00205b,yardsPerPlayAllowed,7.271,137
+8,Arkansas,a32136,pointsFor,19.33,119
+8,Arkansas,a32136,pointsAgainst,27.667,103
+8,Arkansas,a32136,rushYds,99,131
+8,Arkansas,a32136,rushYdsAllowed,149.5,83
+8,Arkansas,a32136,passYds,228.2,73
+8,Arkansas,a32136,passYdsAllowed,202.833,60
+8,Arkansas,a32136,totalYds,327.2,116
+8,Arkansas,a32136,totalYdsAllowed,352.333,70
+8,Arkansas,a32136,thirdDownPct,40.964,70
+8,Arkansas,a32136,thirdDownPctAllowed,42.466,110
+8,Arkansas,a32136,rushYpc,3,135
+8,Arkansas,a32136,rushYpcAllowed,4.419,93
+8,Arkansas,a32136,sacksMade,9,94
+8,Arkansas,a32136,gamesPlayed,6,0
+8,Arkansas,a32136,yardsPerPlay,4.8,127
+8,Arkansas,a32136,yardsPerPlayAllowed,5.938,106
+9,Arizona St,ffc627,pointsFor,32.6,54
+9,Arizona St,ffc627,pointsAgainst,27.8,106
+9,Arizona St,ffc627,rushYds,165.4,61
+9,Arizona St,ffc627,rushYdsAllowed,136.2,57
+9,Arizona St,ffc627,passYds,256,46
+9,Arizona St,ffc627,passYdsAllowed,211.2,76
+9,Arizona St,ffc627,totalYds,421.4,48
+9,Arizona St,ffc627,totalYdsAllowed,347.4,63
+9,Arizona St,ffc627,thirdDownPct,29.688,128
+9,Arizona St,ffc627,thirdDownPctAllowed,37.838,76
+9,Arizona St,ffc627,rushYpc,5,40
+9,Arizona St,ffc627,rushYpcAllowed,4.283,85
+9,Arizona St,ffc627,sacksMade,10,81
+9,Arizona St,ffc627,gamesPlayed,5,0
+9,Arizona St,ffc627,yardsPerPlay,6.29,49
+9,Arizona St,ffc627,yardsPerPlayAllowed,5.185,57
+12,Arizona,cc0033,pointsFor,35.67,34
+12,Arizona,cc0033,pointsAgainst,19,34
+12,Arizona,cc0033,rushYds,149.8,79
+12,Arizona,cc0033,rushYdsAllowed,116.333,37
+12,Arizona,cc0033,passYds,306.7,12
+12,Arizona,cc0033,passYdsAllowed,214.167,81
+12,Arizona,cc0033,totalYds,456.5,30
+12,Arizona,cc0033,totalYdsAllowed,330.5,49
+12,Arizona,cc0033,thirdDownPct,54.795,3
+12,Arizona,cc0033,thirdDownPctAllowed,39.56,90
+12,Arizona,cc0033,rushYpc,4.5,64
+12,Arizona,cc0033,rushYpcAllowed,3.34,35
+12,Arizona,cc0033,sacksMade,19,4
+12,Arizona,cc0033,gamesPlayed,6,0
+12,Arizona,cc0033,yardsPerPlay,6.83,18
+12,Arizona,cc0033,yardsPerPlayAllowed,4.872,33
+16,Sacramento St,00573C,pointsFor,16.33,130
+16,Sacramento St,00573C,pointsAgainst,30.167,118
+16,Sacramento St,00573C,rushYds,104.3,128
+16,Sacramento St,00573C,rushYdsAllowed,161.333,96
+16,Sacramento St,00573C,passYds,204.3,95
+16,Sacramento St,00573C,passYdsAllowed,186.5,39
+16,Sacramento St,00573C,totalYds,308.7,125
+16,Sacramento St,00573C,totalYdsAllowed,347.833,64
+16,Sacramento St,00573C,thirdDownPct,34.118,108
+16,Sacramento St,00573C,thirdDownPctAllowed,36.232,66
+16,Sacramento St,00573C,rushYpc,3.3,123
+16,Sacramento St,00573C,rushYpcAllowed,4.632,110
+16,Sacramento St,00573C,sacksMade,8,105
+16,Sacramento St,00573C,gamesPlayed,6,0
+16,Sacramento St,00573C,yardsPerPlay,4.584,134
+16,Sacramento St,00573C,yardsPerPlayAllowed,5.895,103
+21,San Diego St,a6192e,pointsFor,22.83,104
+21,San Diego St,a6192e,pointsAgainst,35,131
+21,San Diego St,a6192e,rushYds,134,102
+21,San Diego St,a6192e,rushYdsAllowed,178.667,114
+21,San Diego St,a6192e,passYds,143.7,130
+21,San Diego St,a6192e,passYdsAllowed,299.167,137
+21,San Diego St,a6192e,totalYds,277.7,135
+21,San Diego St,a6192e,totalYdsAllowed,477.833,135
+21,San Diego St,a6192e,thirdDownPct,26.923,133
+21,San Diego St,a6192e,thirdDownPctAllowed,45.263,120
+21,San Diego St,a6192e,rushYpc,3.9,99
+21,San Diego St,a6192e,rushYpcAllowed,3.956,66
+21,San Diego St,a6192e,sacksMade,10,81
+21,San Diego St,a6192e,gamesPlayed,6,0
+21,San Diego St,a6192e,yardsPerPlay,4.577,135
+21,San Diego St,a6192e,yardsPerPlayAllowed,5.899,104
+23,San José St,0038a8,pointsFor,21,114
+23,San José St,0038a8,pointsAgainst,23.5,71
+23,San José St,0038a8,rushYds,123,114
+23,San José St,0038a8,rushYdsAllowed,141.333,68
+23,San José St,0038a8,passYds,254.8,47
+23,San José St,0038a8,passYdsAllowed,234.167,101
+23,San José St,0038a8,totalYds,377.8,81
+23,San José St,0038a8,totalYdsAllowed,375.5,93
+23,San José St,0038a8,thirdDownPct,32.53,114
+23,San José St,0038a8,thirdDownPctAllowed,35.227,56
+23,San José St,0038a8,rushYpc,3.7,111
+23,San José St,0038a8,rushYpcAllowed,4.019,70
+23,San José St,0038a8,sacksMade,16,19
+23,San José St,0038a8,gamesPlayed,6,0
+23,San José St,0038a8,yardsPerPlay,5.543,96
+23,San José St,0038a8,yardsPerPlayAllowed,5.352,66
+24,Stanford,8c1515,pointsFor,15.67,134
+24,Stanford,8c1515,pointsAgainst,41.5,136
+24,Stanford,8c1515,rushYds,83.7,137
+24,Stanford,8c1515,rushYdsAllowed,192.667,124
+24,Stanford,8c1515,passYds,230.5,69
+24,Stanford,8c1515,passYdsAllowed,289.333,134
+24,Stanford,8c1515,totalYds,314.2,121
+24,Stanford,8c1515,totalYdsAllowed,482,136
+24,Stanford,8c1515,thirdDownPct,32.143,116
+24,Stanford,8c1515,thirdDownPctAllowed,53.247,137
+24,Stanford,8c1515,rushYpc,2.9,137
+24,Stanford,8c1515,rushYpcAllowed,5.327,125
+24,Stanford,8c1515,sacksMade,4,134
+24,Stanford,8c1515,gamesPlayed,6,0
+24,Stanford,8c1515,yardsPerPlay,4.974,122
+24,Stanford,8c1515,yardsPerPlayAllowed,6.805,133
+25,California,041e42,pointsFor,26.67,86
+25,California,041e42,pointsAgainst,25.5,85
+25,California,041e42,rushYds,92.8,134
+25,California,041e42,rushYdsAllowed,175,109
+25,California,041e42,passYds,304.3,14
+25,California,041e42,passYdsAllowed,192.5,47
+25,California,041e42,totalYds,397.2,68
+25,California,041e42,totalYdsAllowed,367.5,86
+25,California,041e42,thirdDownPct,37.079,91
+25,California,041e42,thirdDownPctAllowed,39.535,89
+25,California,041e42,rushYpc,3.3,123
+25,California,041e42,rushYpcAllowed,4.93,119
+25,California,041e42,sacksMade,13,45
+25,California,041e42,gamesPlayed,6,0
+25,California,041e42,yardsPerPlay,5.581,91
+25,California,041e42,yardsPerPlayAllowed,5.596,87
+26,UCLA,2774ae,pointsFor,39.2,18
+26,UCLA,2774ae,pointsAgainst,18,30
+26,UCLA,2774ae,rushYds,253.2,6
+26,UCLA,2774ae,rushYdsAllowed,87.6,15
+26,UCLA,2774ae,passYds,205,93
+26,UCLA,2774ae,passYdsAllowed,220.4,89
+26,UCLA,2774ae,totalYds,458.2,27
+26,UCLA,2774ae,totalYdsAllowed,308,32
+26,UCLA,2774ae,thirdDownPct,42.857,57
+26,UCLA,2774ae,thirdDownPctAllowed,25.352,4
+26,UCLA,2774ae,rushYpc,6.1,5
+26,UCLA,2774ae,rushYpcAllowed,2.687,10
+26,UCLA,2774ae,sacksMade,10,81
+26,UCLA,2774ae,gamesPlayed,5,0
+26,UCLA,2774ae,yardsPerPlay,6.88,15
+26,UCLA,2774ae,yardsPerPlayAllowed,4.625,21
+30,USC,9d2235,pointsFor,36.43,31
+30,USC,9d2235,pointsAgainst,25.143,80
+30,USC,9d2235,rushYds,152.3,76
+30,USC,9d2235,rushYdsAllowed,111,33
+30,USC,9d2235,passYds,310.1,10
+30,USC,9d2235,passYdsAllowed,239,108
+30,USC,9d2235,totalYds,462.4,21
+30,USC,9d2235,totalYdsAllowed,350,68
+30,USC,9d2235,thirdDownPct,51.22,13
+30,USC,9d2235,thirdDownPctAllowed,32.051,34
+30,USC,9d2235,rushYpc,4.3,79
+30,USC,9d2235,rushYpcAllowed,3.665,46
+30,USC,9d2235,sacksMade,15,26
+30,USC,9d2235,gamesPlayed,7,0
+30,USC,9d2235,yardsPerPlay,6.674,24
+30,USC,9d2235,yardsPerPlayAllowed,5.947,107
+36,Colorado St,004c23,pointsFor,37.4,27
+36,Colorado St,004c23,pointsAgainst,38.6,133
+36,Colorado St,004c23,rushYds,175.2,55
+36,Colorado St,004c23,rushYdsAllowed,228.6,136
+36,Colorado St,004c23,passYds,273.2,26
+36,Colorado St,004c23,passYdsAllowed,264.6,128
+36,Colorado St,004c23,totalYds,448.4,36
+36,Colorado St,004c23,totalYdsAllowed,493.2,137
+36,Colorado St,004c23,thirdDownPct,47.222,30
+36,Colorado St,004c23,thirdDownPctAllowed,47.273,129
+36,Colorado St,004c23,rushYpc,5.8,14
+36,Colorado St,004c23,rushYpcAllowed,5.953,137
+36,Colorado St,004c23,sacksMade,7,113
+36,Colorado St,004c23,gamesPlayed,5,0
+36,Colorado St,004c23,yardsPerPlay,6.673,25
+36,Colorado St,004c23,yardsPerPlayAllowed,7.779,138
+38,Colorado,cfb87c,pointsFor,18.6,122
+38,Colorado,cfb87c,pointsAgainst,25.4,84
+38,Colorado,cfb87c,rushYds,140.8,92
+38,Colorado,cfb87c,rushYdsAllowed,130.2,51
+38,Colorado,cfb87c,passYds,253.4,49
+38,Colorado,cfb87c,passYdsAllowed,216.6,83
+38,Colorado,cfb87c,totalYds,394.2,71
+38,Colorado,cfb87c,totalYdsAllowed,346.8,61
+38,Colorado,cfb87c,thirdDownPct,35.616,105
+38,Colorado,cfb87c,thirdDownPctAllowed,37.5,75
+38,Colorado,cfb87c,rushYpc,3.7,111
+38,Colorado,cfb87c,rushYpcAllowed,3.577,43
+38,Colorado,cfb87c,sacksMade,10,81
+38,Colorado,cfb87c,gamesPlayed,5,0
+38,Colorado,cfb87c,yardsPerPlay,5.298,113
+38,Colorado,cfb87c,yardsPerPlayAllowed,5.026,49
+41,UConn,0c2340,pointsFor,35.67,34
+41,UConn,0c2340,pointsAgainst,25.167,81
+41,UConn,0c2340,rushYds,192.7,40
+41,UConn,0c2340,rushYdsAllowed,116.667,38
+41,UConn,0c2340,passYds,256.5,44
+41,UConn,0c2340,passYdsAllowed,290.5,135
+41,UConn,0c2340,totalYds,449.2,35
+41,UConn,0c2340,totalYdsAllowed,407.167,118
+41,UConn,0c2340,thirdDownPct,41.096,68
+41,UConn,0c2340,thirdDownPctAllowed,43.333,112
+41,UConn,0c2340,rushYpc,5.3,24
+41,UConn,0c2340,rushYpcAllowed,3.431,37
+41,UConn,0c2340,sacksMade,11,69
+41,UConn,0c2340,gamesPlayed,6,0
+41,UConn,0c2340,yardsPerPlay,6.823,19
+41,UConn,0c2340,yardsPerPlayAllowed,5.629,90
+48,Delaware,00539f,pointsFor,21.4,112
+48,Delaware,00539f,pointsAgainst,25.6,87
+48,Delaware,00539f,rushYds,98.8,132
+48,Delaware,00539f,rushYdsAllowed,136.8,60
+48,Delaware,00539f,passYds,261,38
+48,Delaware,00539f,passYdsAllowed,252.8,121
+48,Delaware,00539f,totalYds,359.8,96
+48,Delaware,00539f,totalYdsAllowed,389.6,106
+48,Delaware,00539f,thirdDownPct,29.851,127
+48,Delaware,00539f,thirdDownPctAllowed,37.838,76
+48,Delaware,00539f,rushYpc,3.3,123
+48,Delaware,00539f,rushYpcAllowed,3.677,47
+48,Delaware,00539f,sacksMade,16,19
+48,Delaware,00539f,gamesPlayed,5,0
+48,Delaware,00539f,yardsPerPlay,5.604,89
+48,Delaware,00539f,yardsPerPlayAllowed,5.457,73
+52,Florida St,782f40,pointsFor,31,62
+52,Florida St,782f40,pointsAgainst,25.333,83
+52,Florida St,782f40,rushYds,187.2,43
+52,Florida St,782f40,rushYdsAllowed,165.5,102
+52,Florida St,782f40,passYds,222.3,79
+52,Florida St,782f40,passYdsAllowed,244.667,114
+52,Florida St,782f40,totalYds,409.5,56
+52,Florida St,782f40,totalYdsAllowed,410.167,122
+52,Florida St,782f40,thirdDownPct,42.308,62
+52,Florida St,782f40,thirdDownPctAllowed,40.964,100
+52,Florida St,782f40,rushYpc,4.8,46
+52,Florida St,782f40,rushYpcAllowed,4.597,109
+52,Florida St,782f40,sacksMade,18,8
+52,Florida St,782f40,gamesPlayed,6,0
+52,Florida St,782f40,yardsPerPlay,6.332,45
+52,Florida St,782f40,yardsPerPlayAllowed,6.122,117
+55,Jax State,cc0000,pointsFor,27.33,82
+55,Jax State,cc0000,pointsAgainst,22.5,62
+55,Jax State,cc0000,rushYds,146.3,83
+55,Jax State,cc0000,rushYdsAllowed,161.833,97
+55,Jax State,cc0000,passYds,244.8,55
+55,Jax State,cc0000,passYdsAllowed,174.5,29
+55,Jax State,cc0000,totalYds,391.2,73
+55,Jax State,cc0000,totalYdsAllowed,336.333,54
+55,Jax State,cc0000,thirdDownPct,46.479,33
+55,Jax State,cc0000,thirdDownPctAllowed,44.444,116
+55,Jax State,cc0000,rushYpc,4.3,79
+55,Jax State,cc0000,rushYpcAllowed,4.278,84
+55,Jax State,cc0000,sacksMade,11,69
+55,Jax State,cc0000,gamesPlayed,6,0
+55,Jax State,cc0000,yardsPerPlay,6.242,51
+55,Jax State,cc0000,yardsPerPlayAllowed,5.242,61
+57,Florida,0021a5,pointsFor,41.67,12
+57,Florida,0021a5,pointsAgainst,29,113
+57,Florida,0021a5,rushYds,200.3,34
+57,Florida,0021a5,rushYdsAllowed,124.333,46
+57,Florida,0021a5,passYds,273.5,25
+57,Florida,0021a5,passYdsAllowed,268.667,131
+57,Florida,0021a5,totalYds,473.8,18
+57,Florida,0021a5,totalYdsAllowed,393,109
+57,Florida,0021a5,thirdDownPct,45.205,36
+57,Florida,0021a5,thirdDownPctAllowed,46.237,124
+57,Florida,0021a5,rushYpc,5,40
+57,Florida,0021a5,rushYpcAllowed,3.865,57
+57,Florida,0021a5,sacksMade,17,14
+57,Florida,0021a5,gamesPlayed,6,0
+57,Florida,0021a5,yardsPerPlay,6.785,21
+57,Florida,0021a5,yardsPerPlayAllowed,5.641,91
+58,South Florida,006747,pointsFor,26.17,88
+58,South Florida,006747,pointsAgainst,17.333,25
+58,South Florida,006747,rushYds,152.5,75
+58,South Florida,006747,rushYdsAllowed,157.667,94
+58,South Florida,006747,passYds,182.3,115
+58,South Florida,006747,passYdsAllowed,183.667,35
+58,South Florida,006747,totalYds,334.8,111
+58,South Florida,006747,totalYdsAllowed,341.333,59
+58,South Florida,006747,thirdDownPct,42.424,61
+58,South Florida,006747,thirdDownPctAllowed,37.037,71
+58,South Florida,006747,rushYpc,4.6,63
+58,South Florida,006747,rushYpcAllowed,4.32,89
+58,South Florida,006747,sacksMade,11,69
+58,South Florida,006747,gamesPlayed,6,0
+58,South Florida,006747,yardsPerPlay,5.627,88
+58,South Florida,006747,yardsPerPlayAllowed,5.375,68
+59,Georgia Tech,b3a369,pointsFor,27.2,83
+59,Georgia Tech,b3a369,pointsAgainst,25.8,91
+59,Georgia Tech,b3a369,rushYds,134,102
+59,Georgia Tech,b3a369,rushYdsAllowed,183,117
+59,Georgia Tech,b3a369,passYds,238.6,61
+59,Georgia Tech,b3a369,passYdsAllowed,205.8,67
+59,Georgia Tech,b3a369,totalYds,372.6,89
+59,Georgia Tech,b3a369,totalYdsAllowed,388.8,104
+59,Georgia Tech,b3a369,thirdDownPct,36.207,98
+59,Georgia Tech,b3a369,thirdDownPctAllowed,45.333,121
+59,Georgia Tech,b3a369,rushYpc,4.2,87
+59,Georgia Tech,b3a369,rushYpcAllowed,4.316,88
+59,Georgia Tech,b3a369,sacksMade,6,122
+59,Georgia Tech,b3a369,gamesPlayed,5,0
+59,Georgia Tech,b3a369,yardsPerPlay,5.914,71
+59,Georgia Tech,b3a369,yardsPerPlayAllowed,5.523,81
+61,Georgia,ba0c2f,pointsFor,46.17,2
+61,Georgia,ba0c2f,pointsAgainst,14,11
+61,Georgia,ba0c2f,rushYds,211.8,29
+61,Georgia,ba0c2f,rushYdsAllowed,74.667,6
+61,Georgia,ba0c2f,passYds,263,35
+61,Georgia,ba0c2f,passYdsAllowed,186.833,40
+61,Georgia,ba0c2f,totalYds,474.8,16
+61,Georgia,ba0c2f,totalYdsAllowed,261.5,11
+61,Georgia,ba0c2f,thirdDownPct,54.688,4
+61,Georgia,ba0c2f,thirdDownPctAllowed,35.632,60
+61,Georgia,ba0c2f,rushYpc,6.3,1
+61,Georgia,ba0c2f,rushYpcAllowed,2.503,6
+61,Georgia,ba0c2f,sacksMade,17,14
+61,Georgia,ba0c2f,gamesPlayed,6,0
+61,Georgia,ba0c2f,yardsPerPlay,7.848,2
+61,Georgia,ba0c2f,yardsPerPlayAllowed,4.195,8
+62,Hawai'i,005737,pointsFor,16.67,129
+62,Hawai'i,005737,pointsAgainst,25.667,88
+62,Hawai'i,005737,rushYds,82.3,138
+62,Hawai'i,005737,rushYdsAllowed,170.333,107
+62,Hawai'i,005737,passYds,271.2,28
+62,Hawai'i,005737,passYdsAllowed,220.167,88
+62,Hawai'i,005737,totalYds,353.5,101
+62,Hawai'i,005737,totalYdsAllowed,390.5,107
+62,Hawai'i,005737,thirdDownPct,38.384,84
+62,Hawai'i,005737,thirdDownPctAllowed,39.744,94
+62,Hawai'i,005737,rushYpc,3.3,123
+62,Hawai'i,005737,rushYpcAllowed,4.776,115
+62,Hawai'i,005737,sacksMade,10,81
+62,Hawai'i,005737,gamesPlayed,6,0
+62,Hawai'i,005737,yardsPerPlay,4.979,121
+62,Hawai'i,005737,yardsPerPlayAllowed,6.117,116
+66,Iowa State,ae192d,pointsFor,29.67,67
+66,Iowa State,ae192d,pointsAgainst,21.667,53
+66,Iowa State,ae192d,rushYds,181.5,49
+66,Iowa State,ae192d,rushYdsAllowed,153.833,90
+66,Iowa State,ae192d,passYds,178.2,119
+66,Iowa State,ae192d,passYdsAllowed,198.5,54
+66,Iowa State,ae192d,totalYds,359.7,97
+66,Iowa State,ae192d,totalYdsAllowed,352.333,70
+66,Iowa State,ae192d,thirdDownPct,30.986,121
+66,Iowa State,ae192d,thirdDownPctAllowed,31.579,30
+66,Iowa State,ae192d,rushYpc,5,40
+66,Iowa State,ae192d,rushYpcAllowed,4.438,95
+66,Iowa State,ae192d,sacksMade,9,94
+66,Iowa State,ae192d,gamesPlayed,6,0
+66,Iowa State,ae192d,yardsPerPlay,5.832,79
+66,Iowa State,ae192d,yardsPerPlayAllowed,5.84,101
+68,Boise St,0033a0,pointsFor,35,39
+68,Boise St,0033a0,pointsAgainst,22.333,61
+68,Boise St,0033a0,rushYds,234.5,9
+68,Boise St,0033a0,rushYdsAllowed,106.833,31
+68,Boise St,0033a0,passYds,216,85
+68,Boise St,0033a0,passYdsAllowed,261.333,126
+68,Boise St,0033a0,totalYds,450.5,34
+68,Boise St,0033a0,totalYdsAllowed,368.167,88
+68,Boise St,0033a0,thirdDownPct,50.617,19
+68,Boise St,0033a0,thirdDownPctAllowed,27.419,8
+68,Boise St,0033a0,rushYpc,5.4,19
+68,Boise St,0033a0,rushYpcAllowed,4.451,97
+68,Boise St,0033a0,sacksMade,14,40
+68,Boise St,0033a0,gamesPlayed,6,0
+68,Boise St,0033a0,yardsPerPlay,6.36,42
+68,Boise St,0033a0,yardsPerPlayAllowed,6.797,132
+77,Northwestern,492f92,pointsFor,35.4,37
+77,Northwestern,492f92,pointsAgainst,16.2,22
+77,Northwestern,492f92,rushYds,203,32
+77,Northwestern,492f92,rushYdsAllowed,147.2,78
+77,Northwestern,492f92,passYds,234.4,64
+77,Northwestern,492f92,passYdsAllowed,233.4,100
+77,Northwestern,492f92,totalYds,437.4,41
+77,Northwestern,492f92,totalYdsAllowed,380.6,98
+77,Northwestern,492f92,thirdDownPct,40.351,75
+77,Northwestern,492f92,thirdDownPctAllowed,39.744,94
+77,Northwestern,492f92,rushYpc,5.2,28
+77,Northwestern,492f92,rushYpcAllowed,4.434,94
+77,Northwestern,492f92,sacksMade,8,105
+77,Northwestern,492f92,gamesPlayed,5,0
+77,Northwestern,492f92,yardsPerPlay,7.078,11
+77,Northwestern,492f92,yardsPerPlayAllowed,5.286,64
+84,Indiana,970310,pointsFor,40.17,14
+84,Indiana,970310,pointsAgainst,11.833,5
+84,Indiana,970310,rushYds,221.3,19
+84,Indiana,970310,rushYdsAllowed,75,7
+84,Indiana,970310,passYds,241.3,60
+84,Indiana,970310,passYdsAllowed,188.5,41
+84,Indiana,970310,totalYds,462.7,20
+84,Indiana,970310,totalYdsAllowed,263.5,12
+84,Indiana,970310,thirdDownPct,45.312,35
+84,Indiana,970310,thirdDownPctAllowed,31.818,33
+84,Indiana,970310,rushYpc,6.1,5
+84,Indiana,970310,rushYpcAllowed,2.308,4
+84,Indiana,970310,sacksMade,20,3
+84,Indiana,970310,gamesPlayed,6,0
+84,Indiana,970310,yardsPerPlay,7.82,3
+84,Indiana,970310,yardsPerPlayAllowed,4.273,10
+87,Notre Dame,062340,pointsFor,44,4
+87,Notre Dame,062340,pointsAgainst,11,4
+87,Notre Dame,062340,rushYds,194.8,37
+87,Notre Dame,062340,rushYdsAllowed,58.333,3
+87,Notre Dame,062340,passYds,261.8,37
+87,Notre Dame,062340,passYdsAllowed,155.833,12
+87,Notre Dame,062340,totalYds,456.7,28
+87,Notre Dame,062340,totalYdsAllowed,214.167,1
+87,Notre Dame,062340,thirdDownPct,44.615,43
+87,Notre Dame,062340,thirdDownPctAllowed,34.667,52
+87,Notre Dame,062340,rushYpc,5.1,32
+87,Notre Dame,062340,rushYpcAllowed,2.096,3
+87,Notre Dame,062340,sacksMade,15,26
+87,Notre Dame,062340,gamesPlayed,6,0
+87,Notre Dame,062340,yardsPerPlay,6.867,16
+87,Notre Dame,062340,yardsPerPlayAllowed,4.079,4
+96,Kentucky,0033a0,pointsFor,34.67,44
+96,Kentucky,0033a0,pointsAgainst,28,108
+96,Kentucky,0033a0,rushYds,181.8,47
+96,Kentucky,0033a0,rushYdsAllowed,135.833,55
+96,Kentucky,0033a0,passYds,232.3,67
+96,Kentucky,0033a0,passYdsAllowed,246.333,116
+96,Kentucky,0033a0,totalYds,414.2,55
+96,Kentucky,0033a0,totalYdsAllowed,382.167,100
+96,Kentucky,0033a0,thirdDownPct,26.866,134
+96,Kentucky,0033a0,thirdDownPctAllowed,47.126,128
+96,Kentucky,0033a0,rushYpc,5.1,32
+96,Kentucky,0033a0,rushYpcAllowed,3.937,65
+96,Kentucky,0033a0,sacksMade,13,45
+96,Kentucky,0033a0,gamesPlayed,6,0
+96,Kentucky,0033a0,yardsPerPlay,6.323,47
+96,Kentucky,0033a0,yardsPerPlayAllowed,5.308,65
+97,Louisville,c9001f,pointsFor,39.5,16
+97,Louisville,c9001f,pointsAgainst,27.667,103
+97,Louisville,c9001f,rushYds,231.7,11
+97,Louisville,c9001f,rushYdsAllowed,155.667,91
+97,Louisville,c9001f,passYds,262.8,36
+97,Louisville,c9001f,passYdsAllowed,257.167,123
+97,Louisville,c9001f,totalYds,494.5,10
+97,Louisville,c9001f,totalYdsAllowed,412.833,123
+97,Louisville,c9001f,thirdDownPct,44.776,41
+97,Louisville,c9001f,thirdDownPctAllowed,37.079,73
+97,Louisville,c9001f,rushYpc,6.3,1
+97,Louisville,c9001f,rushYpcAllowed,3.924,62
+97,Louisville,c9001f,sacksMade,12,56
+97,Louisville,c9001f,gamesPlayed,6,0
+97,Louisville,c9001f,yardsPerPlay,7.787,4
+97,Louisville,c9001f,yardsPerPlayAllowed,5.604,88
+98,Western KY,e13a3e,pointsFor,22.17,108
+98,Western KY,e13a3e,pointsAgainst,35.167,132
+98,Western KY,e13a3e,rushYds,134.7,100
+98,Western KY,e13a3e,rushYdsAllowed,204,128
+98,Western KY,e13a3e,passYds,231.8,68
+98,Western KY,e13a3e,passYdsAllowed,204,64
+98,Western KY,e13a3e,totalYds,366.5,92
+98,Western KY,e13a3e,totalYdsAllowed,408,121
+98,Western KY,e13a3e,thirdDownPct,40.816,72
+98,Western KY,e13a3e,thirdDownPctAllowed,34.211,49
+98,Western KY,e13a3e,rushYpc,3.8,106
+98,Western KY,e13a3e,rushYpcAllowed,6,138
+98,Western KY,e13a3e,sacksMade,6,122
+98,Western KY,e13a3e,gamesPlayed,6,0
+98,Western KY,e13a3e,yardsPerPlay,5.09,115
+98,Western KY,e13a3e,yardsPerPlayAllowed,6.476,125
+99,LSU,461d76,pointsFor,42,9
+99,LSU,461d76,pointsAgainst,18.5,32
+99,LSU,461d76,rushYds,213.7,27
+99,LSU,461d76,rushYdsAllowed,74.5,5
+99,LSU,461d76,passYds,311.2,8
+99,LSU,461d76,passYdsAllowed,176.167,30
+99,LSU,461d76,totalYds,524.8,4
+99,LSU,461d76,totalYdsAllowed,250.667,7
+99,LSU,461d76,thirdDownPct,52.174,9
+99,LSU,461d76,thirdDownPctAllowed,27.711,10
+99,LSU,461d76,rushYpc,4.7,54
+99,LSU,461d76,rushYpcAllowed,2.525,8
+99,LSU,461d76,sacksMade,23,2
+99,LSU,461d76,gamesPlayed,6,0
+99,LSU,461d76,yardsPerPlay,6.479,36
+99,LSU,461d76,yardsPerPlayAllowed,4.285,11
+103,Boston College,8c2232,pointsFor,19,120
+103,Boston College,8c2232,pointsAgainst,23.4,68
+103,Boston College,8c2232,rushYds,153,72
+103,Boston College,8c2232,rushYdsAllowed,151.6,86
+103,Boston College,8c2232,passYds,193.4,100
+103,Boston College,8c2232,passYdsAllowed,164.6,19
+103,Boston College,8c2232,totalYds,346.4,104
+103,Boston College,8c2232,totalYdsAllowed,316.2,37
+103,Boston College,8c2232,thirdDownPct,31.818,118
+103,Boston College,8c2232,thirdDownPctAllowed,39.706,91
+103,Boston College,8c2232,rushYpc,4.3,79
+103,Boston College,8c2232,rushYpcAllowed,3.887,60
+103,Boston College,8c2232,sacksMade,12,56
+103,Boston College,8c2232,gamesPlayed,5,0
+103,Boston College,8c2232,yardsPerPlay,5.412,106
+103,Boston College,8c2232,yardsPerPlayAllowed,4.734,27
+113,UMass,881c1c,pointsFor,29.67,67
+113,UMass,881c1c,pointsAgainst,18.167,31
+113,UMass,881c1c,rushYds,158.3,68
+113,UMass,881c1c,rushYdsAllowed,109.333,32
+113,UMass,881c1c,passYds,180.8,116
+113,UMass,881c1c,passYdsAllowed,191.333,46
+113,UMass,881c1c,totalYds,339.2,109
+113,UMass,881c1c,totalYdsAllowed,300.667,27
+113,UMass,881c1c,thirdDownPct,35.821,103
+113,UMass,881c1c,thirdDownPctAllowed,35.366,57
+113,UMass,881c1c,rushYpc,4.9,44
+113,UMass,881c1c,rushYpcAllowed,3.216,32
+113,UMass,881c1c,sacksMade,13,45
+113,UMass,881c1c,gamesPlayed,6,0
+113,UMass,881c1c,yardsPerPlay,6.111,58
+113,UMass,881c1c,yardsPerPlayAllowed,4.602,20
+120,Maryland,ce1126,pointsFor,28,76
+120,Maryland,ce1126,pointsAgainst,32.667,124
+120,Maryland,ce1126,rushYds,136,96
+120,Maryland,ce1126,rushYdsAllowed,148.333,80
+120,Maryland,ce1126,passYds,241.7,58
+120,Maryland,ce1126,passYdsAllowed,205.667,66
+120,Maryland,ce1126,totalYds,377.7,82
+120,Maryland,ce1126,totalYdsAllowed,354,74
+120,Maryland,ce1126,thirdDownPct,33.735,111
+120,Maryland,ce1126,thirdDownPctAllowed,37.975,79
+120,Maryland,ce1126,rushYpc,4.5,64
+120,Maryland,ce1126,rushYpcAllowed,4.027,71
+120,Maryland,ce1126,sacksMade,16,19
+120,Maryland,ce1126,gamesPlayed,6,0
+120,Maryland,ce1126,yardsPerPlay,5.5,99
+120,Maryland,ce1126,yardsPerPlayAllowed,5.531,83
+127,Michigan St,173f35,pointsFor,21.33,113
+127,Michigan St,173f35,pointsAgainst,25.667,88
+127,Michigan St,173f35,rushYds,124.2,111
+127,Michigan St,173f35,rushYdsAllowed,141.833,72
+127,Michigan St,173f35,passYds,187.5,109
+127,Michigan St,173f35,passYdsAllowed,197.833,53
+127,Michigan St,173f35,totalYds,311.7,123
+127,Michigan St,173f35,totalYdsAllowed,339.667,57
+127,Michigan St,173f35,thirdDownPct,42.5,60
+127,Michigan St,173f35,thirdDownPctAllowed,40.541,97
+127,Michigan St,173f35,rushYpc,3.3,123
+127,Michigan St,173f35,rushYpcAllowed,4.151,77
+127,Michigan St,173f35,sacksMade,7,113
+127,Michigan St,173f35,gamesPlayed,6,0
+127,Michigan St,173f35,yardsPerPlay,4.77,129
+127,Michigan St,173f35,yardsPerPlayAllowed,5.661,92
+130,Michigan,00274c,pointsFor,23,101
+130,Michigan,00274c,pointsAgainst,15.8,20
+130,Michigan,00274c,rushYds,135,98
+130,Michigan,00274c,rushYdsAllowed,94.6,17
+130,Michigan,00274c,passYds,180.8,116
+130,Michigan,00274c,passYdsAllowed,146.8,5
+130,Michigan,00274c,totalYds,315.8,120
+130,Michigan,00274c,totalYdsAllowed,241.4,3
+130,Michigan,00274c,thirdDownPct,40.678,73
+130,Michigan,00274c,thirdDownPctAllowed,32.394,37
+130,Michigan,00274c,rushYpc,3.8,106
+130,Michigan,00274c,rushYpcAllowed,2.766,13
+130,Michigan,00274c,sacksMade,12,56
+130,Michigan,00274c,gamesPlayed,5,0
+130,Michigan,00274c,yardsPerPlay,5.389,108
+130,Michigan,00274c,yardsPerPlayAllowed,4.023,3
+135,Minnesota,5e0a2f,pointsFor,28.83,71
+135,Minnesota,5e0a2f,pointsAgainst,21.833,56
+135,Minnesota,5e0a2f,rushYds,104.8,127
+135,Minnesota,5e0a2f,rushYdsAllowed,129.167,50
+135,Minnesota,5e0a2f,passYds,236.5,63
+135,Minnesota,5e0a2f,passYdsAllowed,159.667,16
+135,Minnesota,5e0a2f,totalYds,341.3,108
+135,Minnesota,5e0a2f,totalYdsAllowed,288.833,20
+135,Minnesota,5e0a2f,thirdDownPct,37.349,90
+135,Minnesota,5e0a2f,thirdDownPctAllowed,30.882,25
+135,Minnesota,5e0a2f,rushYpc,3.7,111
+135,Minnesota,5e0a2f,rushYpcAllowed,3.934,64
+135,Minnesota,5e0a2f,sacksMade,14,40
+135,Minnesota,5e0a2f,gamesPlayed,6,0
+135,Minnesota,5e0a2f,yardsPerPlay,5.432,105
+135,Minnesota,5e0a2f,yardsPerPlayAllowed,5.009,45
+142,Missouri,f1b82d,pointsFor,35.83,33
+142,Missouri,f1b82d,pointsAgainst,17.667,29
+142,Missouri,f1b82d,rushYds,181.7,48
+142,Missouri,f1b82d,rushYdsAllowed,78.333,8
+142,Missouri,f1b82d,passYds,256.5,44
+142,Missouri,f1b82d,passYdsAllowed,224.167,91
+142,Missouri,f1b82d,totalYds,438.2,39
+142,Missouri,f1b82d,totalYdsAllowed,302.5,29
+142,Missouri,f1b82d,thirdDownPct,42.169,64
+142,Missouri,f1b82d,thirdDownPctAllowed,31.522,29
+142,Missouri,f1b82d,rushYpc,4.7,54
+142,Missouri,f1b82d,rushYpcAllowed,2.435,5
+142,Missouri,f1b82d,sacksMade,18,8
+142,Missouri,f1b82d,gamesPlayed,6,0
+142,Missouri,f1b82d,yardsPerPlay,6.397,40
+142,Missouri,f1b82d,yardsPerPlayAllowed,4.583,18
+145,Ole Miss,13294b,pointsFor,38.8,22
+145,Ole Miss,13294b,pointsAgainst,28,108
+145,Ole Miss,13294b,rushYds,133.2,105
+145,Ole Miss,13294b,rushYdsAllowed,176.4,111
+145,Ole Miss,13294b,passYds,300.6,15
+145,Ole Miss,13294b,passYdsAllowed,216,82
+145,Ole Miss,13294b,totalYds,433.8,43
+145,Ole Miss,13294b,totalYdsAllowed,392.4,108
+145,Ole Miss,13294b,thirdDownPct,43.103,56
+145,Ole Miss,13294b,thirdDownPctAllowed,45.946,123
+145,Ole Miss,13294b,rushYpc,4.4,72
+145,Ole Miss,13294b,rushYpcAllowed,4.302,86
+145,Ole Miss,13294b,sacksMade,9,94
+145,Ole Miss,13294b,gamesPlayed,5,0
+145,Ole Miss,13294b,yardsPerPlay,6.475,37
+145,Ole Miss,13294b,yardsPerPlayAllowed,5.622,89
+150,Duke,00539b,pointsFor,34,48
+150,Duke,00539b,pointsAgainst,14.4,13
+150,Duke,00539b,rushYds,226.6,16
+150,Duke,00539b,rushYdsAllowed,84,11
+150,Duke,00539b,passYds,230,71
+150,Duke,00539b,passYdsAllowed,202,58
+150,Duke,00539b,totalYds,456.6,29
+150,Duke,00539b,totalYdsAllowed,286,19
+150,Duke,00539b,thirdDownPct,47.059,31
+150,Duke,00539b,thirdDownPctAllowed,28.333,11
+150,Duke,00539b,rushYpc,5.6,16
+150,Duke,00539b,rushYpcAllowed,3.088,22
+150,Duke,00539b,sacksMade,11,69
+150,Duke,00539b,gamesPlayed,5,0
+150,Duke,00539b,yardsPerPlay,6.467,38
+150,Duke,00539b,yardsPerPlayAllowed,4.948,41
+151,East Carolina,582c83,pointsFor,24.8,95
+151,East Carolina,582c83,pointsAgainst,22.6,63
+151,East Carolina,582c83,rushYds,148.8,81
+151,East Carolina,582c83,rushYdsAllowed,146.8,77
+151,East Carolina,582c83,passYds,195.2,99
+151,East Carolina,582c83,passYdsAllowed,172.6,26
+151,East Carolina,582c83,totalYds,344,106
+151,East Carolina,582c83,totalYdsAllowed,319.4,39
+151,East Carolina,582c83,thirdDownPct,27.419,132
+151,East Carolina,582c83,thirdDownPctAllowed,32.468,38
+151,East Carolina,582c83,rushYpc,4.5,64
+151,East Carolina,582c83,rushYpcAllowed,3.191,29
+151,East Carolina,582c83,sacksMade,15,26
+151,East Carolina,582c83,gamesPlayed,5,0
+151,East Carolina,582c83,yardsPerPlay,5.443,102
+151,East Carolina,582c83,yardsPerPlayAllowed,4.537,16
+152,NC State,cc0000,pointsFor,33,51
+152,NC State,cc0000,pointsAgainst,27.667,103
+152,NC State,cc0000,rushYds,168.5,58
+152,NC State,cc0000,rushYdsAllowed,133.5,53
+152,NC State,cc0000,passYds,257.8,43
+152,NC State,cc0000,passYdsAllowed,230.333,98
+152,NC State,cc0000,totalYds,426.3,47
+152,NC State,cc0000,totalYdsAllowed,363.833,83
+152,NC State,cc0000,thirdDownPct,51.136,15
+152,NC State,cc0000,thirdDownPctAllowed,34.667,52
+152,NC State,cc0000,rushYpc,4.5,64
+152,NC State,cc0000,rushYpcAllowed,4.306,87
+152,NC State,cc0000,sacksMade,8,105
+152,NC State,cc0000,gamesPlayed,6,0
+152,NC State,cc0000,yardsPerPlay,6.005,67
+152,NC State,cc0000,yardsPerPlayAllowed,6.064,111
+153,North Carolina,7bafd4,pointsFor,23.4,100
+153,North Carolina,7bafd4,pointsAgainst,19,34
+153,North Carolina,7bafd4,rushYds,112.4,123
+153,North Carolina,7bafd4,rushYdsAllowed,152,88
+153,North Carolina,7bafd4,passYds,218.2,82
+153,North Carolina,7bafd4,passYdsAllowed,204.2,65
+153,North Carolina,7bafd4,totalYds,330.6,115
+153,North Carolina,7bafd4,totalYdsAllowed,356.2,79
+153,North Carolina,7bafd4,thirdDownPct,38.182,87
+153,North Carolina,7bafd4,thirdDownPctAllowed,43.056,111
+153,North Carolina,7bafd4,rushYpc,3.9,99
+153,North Carolina,7bafd4,rushYpcAllowed,3.878,59
+153,North Carolina,7bafd4,sacksMade,12,56
+153,North Carolina,7bafd4,gamesPlayed,5,0
+153,North Carolina,7bafd4,yardsPerPlay,5.883,73
+153,North Carolina,7bafd4,yardsPerPlayAllowed,4.906,37
+154,Wake Forest,ceb888,pointsFor,36.83,29
+154,Wake Forest,ceb888,pointsAgainst,21.5,51
+154,Wake Forest,ceb888,rushYds,144.8,84
+154,Wake Forest,ceb888,rushYdsAllowed,95.333,19
+154,Wake Forest,ceb888,passYds,290.5,18
+154,Wake Forest,ceb888,passYdsAllowed,236.667,104
+154,Wake Forest,ceb888,totalYds,435.3,42
+154,Wake Forest,ceb888,totalYdsAllowed,332,50
+154,Wake Forest,ceb888,thirdDownPct,47.297,29
+154,Wake Forest,ceb888,thirdDownPctAllowed,41.573,104
+154,Wake Forest,ceb888,rushYpc,4.2,87
+154,Wake Forest,ceb888,rushYpcAllowed,2.777,14
+154,Wake Forest,ceb888,sacksMade,17,14
+154,Wake Forest,ceb888,gamesPlayed,6,0
+154,Wake Forest,ceb888,yardsPerPlay,6.613,30
+154,Wake Forest,ceb888,yardsPerPlayAllowed,4.698,24
+158,Nebraska,e31937,pointsFor,39.17,19
+158,Nebraska,e31937,pointsAgainst,15.167,17
+158,Nebraska,e31937,rushYds,213.8,26
+158,Nebraska,e31937,rushYdsAllowed,94.667,18
+158,Nebraska,e31937,passYds,247.8,53
+158,Nebraska,e31937,passYdsAllowed,181.5,34
+158,Nebraska,e31937,totalYds,461.7,22
+158,Nebraska,e31937,totalYdsAllowed,276.167,16
+158,Nebraska,e31937,thirdDownPct,51.807,10
+158,Nebraska,e31937,thirdDownPctAllowed,19.444,1
+158,Nebraska,e31937,rushYpc,5.4,19
+158,Nebraska,e31937,rushYpcAllowed,3.156,24
+158,Nebraska,e31937,sacksMade,18,8
+158,Nebraska,e31937,gamesPlayed,6,0
+158,Nebraska,e31937,yardsPerPlay,6.339,44
+158,Nebraska,e31937,yardsPerPlayAllowed,4.859,32
+164,Rutgers,ce0e2d,pointsFor,30,66
+164,Rutgers,ce0e2d,pointsAgainst,32.2,121
+164,Rutgers,ce0e2d,rushYds,134.8,99
+164,Rutgers,ce0e2d,rushYdsAllowed,199.2,127
+164,Rutgers,ce0e2d,passYds,260.8,39
+164,Rutgers,ce0e2d,passYdsAllowed,208.2,72
+164,Rutgers,ce0e2d,totalYds,395.6,70
+164,Rutgers,ce0e2d,totalYdsAllowed,407.4,120
+164,Rutgers,ce0e2d,thirdDownPct,36.667,95
+164,Rutgers,ce0e2d,thirdDownPctAllowed,38.889,84
+164,Rutgers,ce0e2d,rushYpc,3.7,111
+164,Rutgers,ce0e2d,rushYpcAllowed,5.791,136
+164,Rutgers,ce0e2d,sacksMade,6,122
+164,Rutgers,ce0e2d,gamesPlayed,5,0
+164,Rutgers,ce0e2d,yardsPerPlay,6.049,61
+164,Rutgers,ce0e2d,yardsPerPlayAllowed,6.723,130
+166,New Mexico St,7e141b,pointsFor,23.67,99
+166,New Mexico St,7e141b,pointsAgainst,25.667,88
+166,New Mexico St,7e141b,rushYds,142.8,87
+166,New Mexico St,7e141b,rushYdsAllowed,125.5,47
+166,New Mexico St,7e141b,passYds,230.5,69
+166,New Mexico St,7e141b,passYdsAllowed,222.333,90
+166,New Mexico St,7e141b,totalYds,373.3,87
+166,New Mexico St,7e141b,totalYdsAllowed,347.833,64
+166,New Mexico St,7e141b,thirdDownPct,41.026,69
+166,New Mexico St,7e141b,thirdDownPctAllowed,41.379,103
+166,New Mexico St,7e141b,rushYpc,4.5,64
+166,New Mexico St,7e141b,rushYpcAllowed,3.519,41
+166,New Mexico St,7e141b,sacksMade,15,26
+166,New Mexico St,7e141b,gamesPlayed,6,0
+166,New Mexico St,7e141b,yardsPerPlay,5.833,77
+166,New Mexico St,7e141b,yardsPerPlayAllowed,5.204,58
+167,New Mexico,ba0c2f,pointsFor,43.4,5
+167,New Mexico,ba0c2f,pointsAgainst,10.6,3
+167,New Mexico,ba0c2f,rushYds,208.8,31
+167,New Mexico,ba0c2f,rushYdsAllowed,100.8,27
+167,New Mexico,ba0c2f,passYds,177.4,120
+167,New Mexico,ba0c2f,passYdsAllowed,154.8,10
+167,New Mexico,ba0c2f,totalYds,386.2,74
+167,New Mexico,ba0c2f,totalYdsAllowed,255.6,10
+167,New Mexico,ba0c2f,thirdDownPct,42.188,63
+167,New Mexico,ba0c2f,thirdDownPctAllowed,32.308,36
+167,New Mexico,ba0c2f,rushYpc,4.7,54
+167,New Mexico,ba0c2f,rushYpcAllowed,3.19,28
+167,New Mexico,ba0c2f,sacksMade,16,19
+167,New Mexico,ba0c2f,gamesPlayed,5,0
+167,New Mexico,ba0c2f,yardsPerPlay,5.942,70
+167,New Mexico,ba0c2f,yardsPerPlayAllowed,4.516,14
+183,Syracuse,000e54,pointsFor,32.8,53
+183,Syracuse,000e54,pointsAgainst,24,74
+183,Syracuse,000e54,rushYds,165.8,59
+183,Syracuse,000e54,rushYdsAllowed,144.4,76
+183,Syracuse,000e54,passYds,281.6,20
+183,Syracuse,000e54,passYdsAllowed,167,20
+183,Syracuse,000e54,totalYds,447.4,37
+183,Syracuse,000e54,totalYdsAllowed,311.4,33
+183,Syracuse,000e54,thirdDownPct,45.57,34
+183,Syracuse,000e54,thirdDownPctAllowed,30.508,23
+183,Syracuse,000e54,rushYpc,3.9,99
+183,Syracuse,000e54,rushYpcAllowed,4.349,91
+183,Syracuse,000e54,sacksMade,12,56
+183,Syracuse,000e54,gamesPlayed,5,0
+183,Syracuse,000e54,yardsPerPlay,5.551,94
+183,Syracuse,000e54,yardsPerPlayAllowed,5.039,50
+189,Bowling Green,fd5000,pointsFor,15.83,132
+189,Bowling Green,fd5000,pointsAgainst,29.167,114
+189,Bowling Green,fd5000,rushYds,107,126
+189,Bowling Green,fd5000,rushYdsAllowed,204.5,129
+189,Bowling Green,fd5000,passYds,167.7,125
+189,Bowling Green,fd5000,passYdsAllowed,170.833,25
+189,Bowling Green,fd5000,totalYds,274.7,136
+189,Bowling Green,fd5000,totalYdsAllowed,375.333,92
+189,Bowling Green,fd5000,thirdDownPct,36.111,100
+189,Bowling Green,fd5000,thirdDownPctAllowed,30.159,20
+189,Bowling Green,fd5000,rushYpc,3.3,123
+189,Bowling Green,fd5000,rushYpcAllowed,5.453,127
+189,Bowling Green,fd5000,sacksMade,18,8
+189,Bowling Green,fd5000,gamesPlayed,6,0
+189,Bowling Green,fd5000,yardsPerPlay,4.763,131
+189,Bowling Green,fd5000,yardsPerPlayAllowed,6.221,120
+193,Miami OH,c41230,pointsFor,25.67,90
+193,Miami OH,c41230,pointsAgainst,27.5,100
+193,Miami OH,c41230,rushYds,111,124
+193,Miami OH,c41230,rushYdsAllowed,102.333,29
+193,Miami OH,c41230,passYds,241.7,58
+193,Miami OH,c41230,passYdsAllowed,284,133
+193,Miami OH,c41230,totalYds,352.7,102
+193,Miami OH,c41230,totalYdsAllowed,386.333,102
+193,Miami OH,c41230,thirdDownPct,35.714,104
+193,Miami OH,c41230,thirdDownPctAllowed,42.105,106
+193,Miami OH,c41230,rushYpc,3.5,121
+193,Miami OH,c41230,rushYpcAllowed,3.699,48
+193,Miami OH,c41230,sacksMade,11,69
+193,Miami OH,c41230,gamesPlayed,6,0
+193,Miami OH,c41230,yardsPerPlay,6.133,57
+193,Miami OH,c41230,yardsPerPlayAllowed,6.068,112
+194,Ohio State,ba0c2f,pointsFor,42.67,7
+194,Ohio State,ba0c2f,pointsAgainst,13.167,8
+194,Ohio State,ba0c2f,rushYds,165.7,60
+194,Ohio State,ba0c2f,rushYdsAllowed,96.167,21
+194,Ohio State,ba0c2f,passYds,337.8,4
+194,Ohio State,ba0c2f,passYdsAllowed,150.667,8
+194,Ohio State,ba0c2f,totalYds,503.5,8
+194,Ohio State,ba0c2f,totalYdsAllowed,246.833,5
+194,Ohio State,ba0c2f,thirdDownPct,45.205,36
+194,Ohio State,ba0c2f,thirdDownPctAllowed,36.145,64
+194,Ohio State,ba0c2f,rushYpc,4.3,79
+194,Ohio State,ba0c2f,rushYpcAllowed,3.206,30
+194,Ohio State,ba0c2f,sacksMade,9,94
+194,Ohio State,ba0c2f,gamesPlayed,6,0
+194,Ohio State,ba0c2f,yardsPerPlay,7.333,6
+194,Ohio State,ba0c2f,yardsPerPlayAllowed,4.003,1
+195,Ohio,154734,pointsFor,27.5,79
+195,Ohio,154734,pointsAgainst,24.667,78
+195,Ohio,154734,rushYds,197.3,36
+195,Ohio,154734,rushYdsAllowed,140.667,66
+195,Ohio,154734,passYds,158,128
+195,Ohio,154734,passYdsAllowed,208.167,71
+195,Ohio,154734,totalYds,355.3,99
+195,Ohio,154734,totalYdsAllowed,348.833,66
+195,Ohio,154734,thirdDownPct,51.22,13
+195,Ohio,154734,thirdDownPctAllowed,44.578,117
+195,Ohio,154734,rushYpc,4.8,46
+195,Ohio,154734,rushYpcAllowed,3.836,55
+195,Ohio,154734,sacksMade,10,81
+195,Ohio,154734,gamesPlayed,6,0
+195,Ohio,154734,yardsPerPlay,5.567,93
+195,Ohio,154734,yardsPerPlayAllowed,5.566,85
+197,Oklahoma St,fe5c00,pointsFor,38.2,24
+197,Oklahoma St,fe5c00,pointsAgainst,21.4,49
+197,Oklahoma St,fe5c00,rushYds,199,35
+197,Oklahoma St,fe5c00,rushYdsAllowed,149,81
+197,Oklahoma St,fe5c00,passYds,322.4,6
+197,Oklahoma St,fe5c00,passYdsAllowed,179.8,32
+197,Oklahoma St,fe5c00,totalYds,521.4,6
+197,Oklahoma St,fe5c00,totalYdsAllowed,328.8,46
+197,Oklahoma St,fe5c00,thirdDownPct,33.898,109
+197,Oklahoma St,fe5c00,thirdDownPctAllowed,30.986,26
+197,Oklahoma St,fe5c00,rushYpc,5.1,32
+197,Oklahoma St,fe5c00,rushYpcAllowed,3.86,56
+197,Oklahoma St,fe5c00,sacksMade,9,94
+197,Oklahoma St,fe5c00,gamesPlayed,5,0
+197,Oklahoma St,fe5c00,yardsPerPlay,7.046,12
+197,Oklahoma St,fe5c00,yardsPerPlayAllowed,4.937,40
+201,Oklahoma,990000,pointsFor,23,101
+201,Oklahoma,990000,pointsAgainst,17.6,28
+201,Oklahoma,990000,rushYds,95.8,133
+201,Oklahoma,990000,rushYdsAllowed,116.8,39
+201,Oklahoma,990000,passYds,208.8,92
+201,Oklahoma,990000,passYdsAllowed,150,7
+201,Oklahoma,990000,totalYds,304.6,128
+201,Oklahoma,990000,totalYdsAllowed,266.8,14
+201,Oklahoma,990000,thirdDownPct,30.303,125
+201,Oklahoma,990000,thirdDownPctAllowed,22.727,3
+201,Oklahoma,990000,rushYpc,2.9,137
+201,Oklahoma,990000,rushYpcAllowed,3.337,34
+201,Oklahoma,990000,sacksMade,15,26
+201,Oklahoma,990000,gamesPlayed,5,0
+201,Oklahoma,990000,yardsPerPlay,5.01,118
+201,Oklahoma,990000,yardsPerPlayAllowed,4.648,22
+202,Tulsa,003595,pointsFor,27.5,79
+202,Tulsa,003595,pointsAgainst,23.333,67
+202,Tulsa,003595,rushYds,160.8,65
+202,Tulsa,003595,rushYdsAllowed,175.333,110
+202,Tulsa,003595,passYds,197,97
+202,Tulsa,003595,passYdsAllowed,242.667,111
+202,Tulsa,003595,totalYds,357.8,98
+202,Tulsa,003595,totalYdsAllowed,418,124
+202,Tulsa,003595,thirdDownPct,28.409,131
+202,Tulsa,003595,thirdDownPctAllowed,41.304,101
+202,Tulsa,003595,rushYpc,4.7,54
+202,Tulsa,003595,rushYpcAllowed,4.125,74
+202,Tulsa,003595,sacksMade,14,40
+202,Tulsa,003595,gamesPlayed,6,0
+202,Tulsa,003595,yardsPerPlay,5.341,111
+202,Tulsa,003595,yardsPerPlayAllowed,5.452,72
+204,Oregon St,dc4405,pointsFor,41.83,10
+204,Oregon St,dc4405,pointsAgainst,22,57
+204,Oregon St,dc4405,rushYds,131.2,108
+204,Oregon St,dc4405,rushYdsAllowed,135.833,55
+204,Oregon St,dc4405,passYds,391.2,1
+204,Oregon St,dc4405,passYdsAllowed,190.5,44
+204,Oregon St,dc4405,totalYds,522.3,5
+204,Oregon St,dc4405,totalYdsAllowed,326.333,43
+204,Oregon St,dc4405,thirdDownPct,49.333,22
+204,Oregon St,dc4405,thirdDownPctAllowed,37.037,71
+204,Oregon St,dc4405,rushYpc,4.4,72
+204,Oregon St,dc4405,rushYpcAllowed,3.956,66
+204,Oregon St,dc4405,sacksMade,15,26
+204,Oregon St,dc4405,gamesPlayed,6,0
+204,Oregon St,dc4405,yardsPerPlay,7.271,8
+204,Oregon St,dc4405,yardsPerPlayAllowed,5.021,47
+213,Penn State,061440,pointsFor,30.5,65
+213,Penn State,061440,pointsAgainst,18.5,32
+213,Penn State,061440,rushYds,141.7,90
+213,Penn State,061440,rushYdsAllowed,165.833,105
+213,Penn State,061440,passYds,251.2,52
+213,Penn State,061440,passYdsAllowed,149.833,6
+213,Penn State,061440,totalYds,392.8,72
+213,Penn State,061440,totalYdsAllowed,315.667,36
+213,Penn State,061440,thirdDownPct,36.145,99
+213,Penn State,061440,thirdDownPctAllowed,25.974,6
+213,Penn State,061440,rushYpc,4.1,92
+213,Penn State,061440,rushYpcAllowed,4.738,113
+213,Penn State,061440,sacksMade,8,105
+213,Penn State,061440,gamesPlayed,6,0
+213,Penn State,061440,yardsPerPlay,6.028,63
+213,Penn State,061440,yardsPerPlayAllowed,5.119,53
+218,Temple,a41e35,pointsFor,24.83,94
+218,Temple,a41e35,pointsAgainst,26.333,96
+218,Temple,a41e35,rushYds,201.5,33
+218,Temple,a41e35,rushYdsAllowed,165.5,102
+218,Temple,a41e35,passYds,172.7,122
+218,Temple,a41e35,passYdsAllowed,231.667,99
+218,Temple,a41e35,totalYds,374.2,86
+218,Temple,a41e35,totalYdsAllowed,397.167,113
+218,Temple,a41e35,thirdDownPct,40.278,76
+218,Temple,a41e35,thirdDownPctAllowed,48.718,133
+218,Temple,a41e35,rushYpc,5.3,24
+218,Temple,a41e35,rushYpcAllowed,4.534,101
+218,Temple,a41e35,sacksMade,8,105
+218,Temple,a41e35,gamesPlayed,6,0
+218,Temple,a41e35,yardsPerPlay,6.414,39
+218,Temple,a41e35,yardsPerPlayAllowed,6.11,115
+221,Pitt,003594,pointsFor,34.83,40
+221,Pitt,003594,pointsAgainst,14.667,15
+221,Pitt,003594,rushYds,160,66
+221,Pitt,003594,rushYdsAllowed,49.667,2
+221,Pitt,003594,passYds,299.8,16
+221,Pitt,003594,passYdsAllowed,241.333,110
+221,Pitt,003594,totalYds,459.8,24
+221,Pitt,003594,totalYdsAllowed,291,21
+221,Pitt,003594,thirdDownPct,45.122,39
+221,Pitt,003594,thirdDownPctAllowed,29.63,18
+221,Pitt,003594,rushYpc,4.5,64
+221,Pitt,003594,rushYpcAllowed,1.84,2
+221,Pitt,003594,sacksMade,15,26
+221,Pitt,003594,gamesPlayed,6,0
+221,Pitt,003594,yardsPerPlay,6.328,46
+221,Pitt,003594,yardsPerPlayAllowed,4.877,35
+228,Clemson,f56600,pointsFor,19.4,118
+228,Clemson,f56600,pointsAgainst,25.8,91
+228,Clemson,f56600,rushYds,137.6,95
+228,Clemson,f56600,rushYdsAllowed,164.6,100
+228,Clemson,f56600,passYds,183.6,113
+228,Clemson,f56600,passYdsAllowed,217.2,84
+228,Clemson,f56600,totalYds,321.2,118
+228,Clemson,f56600,totalYdsAllowed,381.8,99
+228,Clemson,f56600,thirdDownPct,31.507,119
+228,Clemson,f56600,thirdDownPctAllowed,38.571,83
+228,Clemson,f56600,rushYpc,3.8,106
+228,Clemson,f56600,rushYpcAllowed,4.65,111
+228,Clemson,f56600,sacksMade,10,81
+228,Clemson,f56600,gamesPlayed,5,0
+228,Clemson,f56600,yardsPerPlay,4.823,126
+228,Clemson,f56600,yardsPerPlayAllowed,5.486,76
+235,Memphis,004991,pointsFor,38.5,23
+235,Memphis,004991,pointsAgainst,20.833,47
+235,Memphis,004991,rushYds,247,7
+235,Memphis,004991,rushYdsAllowed,176.667,112
+235,Memphis,004991,passYds,269.7,31
+235,Memphis,004991,passYdsAllowed,203.667,62
+235,Memphis,004991,totalYds,516.7,7
+235,Memphis,004991,totalYdsAllowed,380.333,97
+235,Memphis,004991,thirdDownPct,49.296,23
+235,Memphis,004991,thirdDownPctAllowed,32.895,40
+235,Memphis,004991,rushYpc,5.9,12
+235,Memphis,004991,rushYpcAllowed,4.862,118
+235,Memphis,004991,sacksMade,15,26
+235,Memphis,004991,gamesPlayed,6,0
+235,Memphis,004991,yardsPerPlay,7.635,5
+235,Memphis,004991,yardsPerPlayAllowed,5.99,108
+238,Vanderbilt,000000,pointsFor,24,97
+238,Vanderbilt,000000,pointsAgainst,29.5,117
+238,Vanderbilt,000000,rushYds,119.7,118
+238,Vanderbilt,000000,rushYdsAllowed,139.5,64
+238,Vanderbilt,000000,passYds,228.7,72
+238,Vanderbilt,000000,passYdsAllowed,214,80
+238,Vanderbilt,000000,totalYds,348.3,103
+238,Vanderbilt,000000,totalYdsAllowed,353.5,72
+238,Vanderbilt,000000,thirdDownPct,37.647,88
+238,Vanderbilt,000000,thirdDownPctAllowed,38.462,80
+238,Vanderbilt,000000,rushYpc,3.5,121
+238,Vanderbilt,000000,rushYpcAllowed,4.144,76
+238,Vanderbilt,000000,sacksMade,15,26
+238,Vanderbilt,000000,gamesPlayed,6,0
+238,Vanderbilt,000000,yardsPerPlay,5.359,110
+238,Vanderbilt,000000,yardsPerPlayAllowed,5.552,84
+239,Baylor,154734,pointsFor,34.8,41
+239,Baylor,154734,pointsAgainst,14.2,12
+239,Baylor,154734,rushYds,169.4,57
+239,Baylor,154734,rushYdsAllowed,97.4,23
+239,Baylor,154734,passYds,292,17
+239,Baylor,154734,passYdsAllowed,229.2,96
+239,Baylor,154734,totalYds,461.4,23
+239,Baylor,154734,totalYdsAllowed,326.6,45
+239,Baylor,154734,thirdDownPct,43.21,54
+239,Baylor,154734,thirdDownPctAllowed,35,54
+239,Baylor,154734,rushYpc,4.2,87
+239,Baylor,154734,rushYpcAllowed,2.882,18
+239,Baylor,154734,sacksMade,18,8
+239,Baylor,154734,gamesPlayed,5,0
+239,Baylor,154734,yardsPerPlay,5.71,84
+239,Baylor,154734,yardsPerPlayAllowed,4.524,15
+242,Rice,00205b,pointsFor,17,127
+242,Rice,00205b,pointsAgainst,27.5,100
+242,Rice,00205b,rushYds,230.5,13
+242,Rice,00205b,rushYdsAllowed,188.667,121
+242,Rice,00205b,passYds,82.7,136
+242,Rice,00205b,passYdsAllowed,179,31
+242,Rice,00205b,totalYds,313.2,122
+242,Rice,00205b,totalYdsAllowed,367.667,87
+242,Rice,00205b,thirdDownPct,29.487,129
+242,Rice,00205b,thirdDownPctAllowed,42.169,107
+242,Rice,00205b,rushYpc,4.8,46
+242,Rice,00205b,rushYpcAllowed,4.987,120
+242,Rice,00205b,sacksMade,9,94
+242,Rice,00205b,gamesPlayed,6,0
+242,Rice,00205b,yardsPerPlay,4.997,119
+242,Rice,00205b,yardsPerPlayAllowed,5.501,79
+245,Texas A&M,500000,pointsFor,27.5,79
+245,Texas A&M,500000,pointsAgainst,20,42
+245,Texas A&M,500000,rushYds,144,86
+245,Texas A&M,500000,rushYdsAllowed,142,73
+245,Texas A&M,500000,passYds,188.8,108
+245,Texas A&M,500000,passYdsAllowed,184.333,36
+245,Texas A&M,500000,totalYds,332.8,113
+245,Texas A&M,500000,totalYdsAllowed,326.333,43
+245,Texas A&M,500000,thirdDownPct,39.56,79
+245,Texas A&M,500000,thirdDownPctAllowed,28.986,13
+245,Texas A&M,500000,rushYpc,3.9,99
+245,Texas A&M,500000,rushYpcAllowed,4.438,95
+245,Texas A&M,500000,sacksMade,5,128
+245,Texas A&M,500000,gamesPlayed,6,0
+245,Texas A&M,500000,yardsPerPlay,4.766,130
+245,Texas A&M,500000,yardsPerPlayAllowed,5.725,97
+248,Houston,c8102e,pointsFor,40,15
+248,Houston,c8102e,pointsAgainst,19.167,37
+248,Houston,c8102e,rushYds,230,14
+248,Houston,c8102e,rushYdsAllowed,74,4
+248,Houston,c8102e,passYds,251.8,50
+248,Houston,c8102e,passYdsAllowed,248.333,118
+248,Houston,c8102e,totalYds,481.8,12
+248,Houston,c8102e,totalYdsAllowed,322.333,41
+248,Houston,c8102e,thirdDownPct,62.667,1
+248,Houston,c8102e,thirdDownPctAllowed,35.897,61
+248,Houston,c8102e,rushYpc,5.5,18
+248,Houston,c8102e,rushYpcAllowed,2.865,17
+248,Houston,c8102e,sacksMade,12,56
+248,Houston,c8102e,gamesPlayed,6,0
+248,Houston,c8102e,yardsPerPlay,6.818,20
+248,Houston,c8102e,yardsPerPlayAllowed,5.402,70
+249,North Texas,068f33,pointsFor,42.17,8
+249,North Texas,068f33,pointsAgainst,29.167,114
+249,North Texas,068f33,rushYds,186.8,44
+249,North Texas,068f33,rushYdsAllowed,142.667,74
+249,North Texas,068f33,passYds,347,2
+249,North Texas,068f33,passYdsAllowed,213.167,77
+249,North Texas,068f33,totalYds,533.8,2
+249,North Texas,068f33,totalYdsAllowed,355.833,78
+249,North Texas,068f33,thirdDownPct,48.81,24
+249,North Texas,068f33,thirdDownPctAllowed,33.333,42
+249,North Texas,068f33,rushYpc,5.1,32
+249,North Texas,068f33,rushYpcAllowed,3.821,54
+249,North Texas,068f33,sacksMade,15,26
+249,North Texas,068f33,gamesPlayed,6,0
+249,North Texas,068f33,yardsPerPlay,7.296,7
+249,North Texas,068f33,yardsPerPlayAllowed,5.517,80
+251,Texas,af5c37,pointsFor,31.4,59
+251,Texas,af5c37,pointsAgainst,16,21
+251,Texas,af5c37,rushYds,142.2,88
+251,Texas,af5c37,rushYdsAllowed,96,20
+251,Texas,af5c37,passYds,237,62
+251,Texas,af5c37,passYdsAllowed,168.4,23
+251,Texas,af5c37,totalYds,379.2,79
+251,Texas,af5c37,totalYdsAllowed,264.4,13
+251,Texas,af5c37,thirdDownPct,44.595,44
+251,Texas,af5c37,thirdDownPctAllowed,30.435,22
+251,Texas,af5c37,rushYpc,3.7,111
+251,Texas,af5c37,rushYpcAllowed,2.807,15
+251,Texas,af5c37,sacksMade,18,8
+251,Texas,af5c37,gamesPlayed,5,0
+251,Texas,af5c37,yardsPerPlay,5.433,104
+251,Texas,af5c37,yardsPerPlayAllowed,4.224,9
+252,BYU,0047ba,pointsFor,34.6,46
+252,BYU,0047ba,pointsAgainst,13.4,9
+252,BYU,0047ba,rushYds,223.8,17
+252,BYU,0047ba,rushYdsAllowed,80.4,10
+252,BYU,0047ba,passYds,209.6,88
+252,BYU,0047ba,passYdsAllowed,174,27
+252,BYU,0047ba,totalYds,433.4,44
+252,BYU,0047ba,totalYdsAllowed,254.4,8
+252,BYU,0047ba,thirdDownPct,54.386,6
+252,BYU,0047ba,thirdDownPctAllowed,35.385,58
+252,BYU,0047ba,rushYpc,6,8
+252,BYU,0047ba,rushYpcAllowed,2.934,19
+252,BYU,0047ba,sacksMade,11,69
+252,BYU,0047ba,gamesPlayed,5,0
+252,BYU,0047ba,yardsPerPlay,7.105,10
+252,BYU,0047ba,yardsPerPlayAllowed,4.327,12
+254,Utah,be0000,pointsFor,42.8,6
+254,Utah,be0000,pointsAgainst,13,7
+254,Utah,be0000,rushYds,238,8
+254,Utah,be0000,rushYdsAllowed,78.8,9
+254,Utah,be0000,passYds,264,34
+254,Utah,be0000,passYdsAllowed,206.2,68
+254,Utah,be0000,totalYds,502,9
+254,Utah,be0000,totalYdsAllowed,285,18
+254,Utah,be0000,thirdDownPct,54.098,7
+254,Utah,be0000,thirdDownPctAllowed,29.167,14
+254,Utah,be0000,rushYpc,6,8
+254,Utah,be0000,rushYpcAllowed,2.855,16
+254,Utah,be0000,sacksMade,11,69
+254,Utah,be0000,gamesPlayed,5,0
+254,Utah,be0000,yardsPerPlay,7.192,9
+254,Utah,be0000,yardsPerPlayAllowed,4.425,13
+256,James Madison,450084,pointsFor,41.83,10
+256,James Madison,450084,pointsAgainst,15,16
+256,James Madison,450084,rushYds,219.3,23
+256,James Madison,450084,rushYdsAllowed,102,28
+256,James Madison,450084,passYds,232.7,66
+256,James Madison,450084,passYdsAllowed,245,115
+256,James Madison,450084,totalYds,452,33
+256,James Madison,450084,totalYdsAllowed,347,62
+256,James Madison,450084,thirdDownPct,38.961,81
+256,James Madison,450084,thirdDownPctAllowed,38.542,82
+256,James Madison,450084,rushYpc,5.6,16
+256,James Madison,450084,rushYpcAllowed,2.985,20
+256,James Madison,450084,sacksMade,15,26
+256,James Madison,450084,gamesPlayed,6,0
+256,James Madison,450084,yardsPerPlay,6.647,27
+256,James Madison,450084,yardsPerPlayAllowed,4.922,39
+258,Virginia,232d4b,pointsFor,32.83,52
+258,Virginia,232d4b,pointsAgainst,19.167,37
+258,Virginia,232d4b,rushYds,162.8,63
+258,Virginia,232d4b,rushYdsAllowed,151.833,87
+258,Virginia,232d4b,passYds,216.5,84
+258,Virginia,232d4b,passYdsAllowed,161.833,18
+258,Virginia,232d4b,totalYds,379.3,78
+258,Virginia,232d4b,totalYdsAllowed,313.667,35
+258,Virginia,232d4b,thirdDownPct,33.333,112
+258,Virginia,232d4b,thirdDownPctAllowed,34.091,48
+258,Virginia,232d4b,rushYpc,3.9,99
+258,Virginia,232d4b,rushYpcAllowed,3.978,68
+258,Virginia,232d4b,sacksMade,13,45
+258,Virginia,232d4b,gamesPlayed,6,0
+258,Virginia,232d4b,yardsPerPlay,5.524,97
+258,Virginia,232d4b,yardsPerPlayAllowed,4.851,31
+259,Virginia Tech,6a2c3e,pointsFor,37.67,25
+259,Virginia Tech,6a2c3e,pointsAgainst,20.667,45
+259,Virginia Tech,6a2c3e,rushYds,148.2,82
+259,Virginia Tech,6a2c3e,rushYdsAllowed,86.5,14
+259,Virginia Tech,6a2c3e,passYds,310.2,9
+259,Virginia Tech,6a2c3e,passYdsAllowed,209.333,75
+259,Virginia Tech,6a2c3e,totalYds,458.3,26
+259,Virginia Tech,6a2c3e,totalYdsAllowed,295.833,26
+259,Virginia Tech,6a2c3e,thirdDownPct,42.529,59
+259,Virginia Tech,6a2c3e,thirdDownPctAllowed,32.143,35
+259,Virginia Tech,6a2c3e,rushYpc,4,94
+259,Virginia Tech,6a2c3e,rushYpcAllowed,2.732,11
+259,Virginia Tech,6a2c3e,sacksMade,19,4
+259,Virginia Tech,6a2c3e,gamesPlayed,6,0
+259,Virginia Tech,6a2c3e,yardsPerPlay,6.166,54
+259,Virginia Tech,6a2c3e,yardsPerPlayAllowed,4.876,34
+264,Washington,33006f,pointsFor,26.17,88
+264,Washington,33006f,pointsAgainst,22.167,60
+264,Washington,33006f,rushYds,90.3,135
+264,Washington,33006f,rushYdsAllowed,136.667,59
+264,Washington,33006f,passYds,279.5,22
+264,Washington,33006f,passYdsAllowed,193.667,49
+264,Washington,33006f,totalYds,369.8,90
+264,Washington,33006f,totalYdsAllowed,330.333,48
+264,Washington,33006f,thirdDownPct,31.25,120
+264,Washington,33006f,thirdDownPctAllowed,29.487,16
+264,Washington,33006f,rushYpc,3.1,132
+264,Washington,33006f,rushYpcAllowed,3.868,58
+264,Washington,33006f,sacksMade,10,81
+264,Washington,33006f,gamesPlayed,6,0
+264,Washington,33006f,yardsPerPlay,5.675,85
+264,Washington,33006f,yardsPerPlayAllowed,5.257,63
+265,Washington St,a60f2d,pointsFor,18.5,123
+265,Washington St,a60f2d,pointsAgainst,23.667,73
+265,Washington St,a60f2d,rushYds,123.7,113
+265,Washington St,a60f2d,rushYdsAllowed,151.5,85
+265,Washington St,a60f2d,passYds,158.7,127
+265,Washington St,a60f2d,passYdsAllowed,203.833,63
+265,Washington St,a60f2d,totalYds,282.3,133
+265,Washington St,a60f2d,totalYdsAllowed,355.333,77
+265,Washington St,a60f2d,thirdDownPct,25,137
+265,Washington St,a60f2d,thirdDownPctAllowed,36.782,69
+265,Washington St,a60f2d,rushYpc,4,94
+265,Washington St,a60f2d,rushYpcAllowed,4.456,98
+265,Washington St,a60f2d,sacksMade,7,113
+265,Washington St,a60f2d,gamesPlayed,6,0
+265,Washington St,a60f2d,yardsPerPlay,4.641,133
+265,Washington St,a60f2d,yardsPerPlayAllowed,5.495,78
+275,Wisconsin,a00000,pointsFor,31.6,58
+275,Wisconsin,a00000,pointsAgainst,16.6,24
+275,Wisconsin,a00000,rushYds,153,72
+275,Wisconsin,a00000,rushYdsAllowed,114.6,35
+275,Wisconsin,a00000,passYds,226.4,76
+275,Wisconsin,a00000,passYdsAllowed,152.6,9
+275,Wisconsin,a00000,totalYds,379.4,77
+275,Wisconsin,a00000,totalYdsAllowed,267.2,15
+275,Wisconsin,a00000,thirdDownPct,44.118,46
+275,Wisconsin,a00000,thirdDownPctAllowed,30.137,19
+275,Wisconsin,a00000,rushYpc,4.7,54
+275,Wisconsin,a00000,rushYpcAllowed,3.166,25
+275,Wisconsin,a00000,sacksMade,7,113
+275,Wisconsin,a00000,gamesPlayed,5,0
+275,Wisconsin,a00000,yardsPerPlay,6.22,52
+275,Wisconsin,a00000,yardsPerPlayAllowed,4.086,5
+276,Marshall,00b140,pointsFor,22,110
+276,Marshall,00b140,pointsAgainst,33.667,127
+276,Marshall,00b140,rushYds,158.7,67
+276,Marshall,00b140,rushYdsAllowed,193.833,125
+276,Marshall,00b140,passYds,247.8,53
+276,Marshall,00b140,passYdsAllowed,253.5,122
+276,Marshall,00b140,totalYds,406.5,57
+276,Marshall,00b140,totalYdsAllowed,447.333,130
+276,Marshall,00b140,thirdDownPct,40,77
+276,Marshall,00b140,thirdDownPctAllowed,41.772,105
+276,Marshall,00b140,rushYpc,4.4,72
+276,Marshall,00b140,rushYpcAllowed,5.538,130
+276,Marshall,00b140,sacksMade,5,128
+276,Marshall,00b140,gamesPlayed,6,0
+276,Marshall,00b140,yardsPerPlay,5.807,80
+276,Marshall,00b140,yardsPerPlayAllowed,6.778,131
+277,West Virginia,eaaa00,pointsFor,36.33,32
+277,West Virginia,eaaa00,pointsAgainst,32.667,124
+277,West Virginia,eaaa00,rushYds,295.5,4
+277,West Virginia,eaaa00,rushYdsAllowed,163.833,98
+277,West Virginia,eaaa00,passYds,184.8,112
+277,West Virginia,eaaa00,passYdsAllowed,297,136
+277,West Virginia,eaaa00,totalYds,480.3,13
+277,West Virginia,eaaa00,totalYdsAllowed,460.833,131
+277,West Virginia,eaaa00,thirdDownPct,49.474,21
+277,West Virginia,eaaa00,thirdDownPctAllowed,35.211,55
+277,West Virginia,eaaa00,rushYpc,5.1,32
+277,West Virginia,eaaa00,rushYpcAllowed,4.551,103
+277,West Virginia,eaaa00,sacksMade,13,45
+277,West Virginia,eaaa00,gamesPlayed,6,0
+277,West Virginia,eaaa00,yardsPerPlay,6.252,50
+277,West Virginia,eaaa00,yardsPerPlayAllowed,6.93,135
+278,Fresno St,b1102b,pointsFor,28.33,74
+278,Fresno St,b1102b,pointsAgainst,20,42
+278,Fresno St,b1102b,rushYds,139.7,93
+278,Fresno St,b1102b,rushYdsAllowed,165.167,101
+278,Fresno St,b1102b,passYds,224,78
+278,Fresno St,b1102b,passYdsAllowed,219.167,86
+278,Fresno St,b1102b,totalYds,363.7,95
+278,Fresno St,b1102b,totalYdsAllowed,384.333,101
+278,Fresno St,b1102b,thirdDownPct,36.62,96
+278,Fresno St,b1102b,thirdDownPctAllowed,34.211,49
+278,Fresno St,b1102b,rushYpc,4.5,64
+278,Fresno St,b1102b,rushYpcAllowed,4.546,102
+278,Fresno St,b1102b,sacksMade,14,40
+278,Fresno St,b1102b,gamesPlayed,6,0
+278,Fresno St,b1102b,yardsPerPlay,6.028,63
+278,Fresno St,b1102b,yardsPerPlayAllowed,5.722,96
+290,GA Southern,041e42,pointsFor,24.67,96
+290,GA Southern,041e42,pointsAgainst,24.333,76
+290,GA Southern,041e42,rushYds,120,117
+290,GA Southern,041e42,rushYdsAllowed,136.5,58
+290,GA Southern,041e42,passYds,275.8,23
+290,GA Southern,041e42,passYdsAllowed,199.333,56
+290,GA Southern,041e42,totalYds,395.8,69
+290,GA Southern,041e42,totalYdsAllowed,335.833,52
+290,GA Southern,041e42,thirdDownPct,41.667,65
+290,GA Southern,041e42,thirdDownPctAllowed,33.75,46
+290,GA Southern,041e42,rushYpc,4.4,72
+290,GA Southern,041e42,rushYpcAllowed,3.723,50
+290,GA Southern,041e42,sacksMade,15,26
+290,GA Southern,041e42,gamesPlayed,6,0
+290,GA Southern,041e42,yardsPerPlay,5.908,72
+290,GA Southern,041e42,yardsPerPlayAllowed,5.14,56
+295,Old Dominion,003768,pointsFor,18.17,126
+295,Old Dominion,003768,pointsAgainst,27.5,100
+295,Old Dominion,003768,rushYds,122.5,115
+295,Old Dominion,003768,rushYdsAllowed,138.167,63
+295,Old Dominion,003768,passYds,143.5,131
+295,Old Dominion,003768,passYdsAllowed,186,38
+295,Old Dominion,003768,totalYds,266,137
+295,Old Dominion,003768,totalYdsAllowed,324.167,42
+295,Old Dominion,003768,thirdDownPct,33.333,112
+295,Old Dominion,003768,thirdDownPctAllowed,32.979,41
+295,Old Dominion,003768,rushYpc,3.1,132
+295,Old Dominion,003768,rushYpcAllowed,3.483,38
+295,Old Dominion,003768,sacksMade,15,26
+295,Old Dominion,003768,gamesPlayed,6,0
+295,Old Dominion,003768,yardsPerPlay,4.178,138
+295,Old Dominion,003768,yardsPerPlayAllowed,4.675,23
+309,Louisiana,ce181e,pointsFor,29.5,69
+309,Louisiana,ce181e,pointsAgainst,21.5,51
+309,Louisiana,ce181e,rushYds,193,39
+309,Louisiana,ce181e,rushYdsAllowed,100.667,26
+309,Louisiana,ce181e,passYds,189.2,107
+309,Louisiana,ce181e,passYdsAllowed,202.833,60
+309,Louisiana,ce181e,totalYds,382.2,75
+309,Louisiana,ce181e,totalYdsAllowed,303.5,30
+309,Louisiana,ce181e,thirdDownPct,38.235,86
+309,Louisiana,ce181e,thirdDownPctAllowed,44,114
+309,Louisiana,ce181e,rushYpc,4.7,54
+309,Louisiana,ce181e,rushYpcAllowed,3.512,40
+309,Louisiana,ce181e,sacksMade,8,105
+309,Louisiana,ce181e,gamesPlayed,6,0
+309,Louisiana,ce181e,yardsPerPlay,5.849,75
+309,Louisiana,ce181e,yardsPerPlayAllowed,4.989,43
+324,Coastal,006f71,pointsFor,25.17,93
+324,Coastal,006f71,pointsAgainst,24.333,76
+324,Coastal,006f71,rushYds,149,80
+324,Coastal,006f71,rushYdsAllowed,189.667,122
+324,Coastal,006f71,passYds,224.3,77
+324,Coastal,006f71,passYdsAllowed,213.667,79
+324,Coastal,006f71,totalYds,373.3,87
+324,Coastal,006f71,totalYdsAllowed,403.333,116
+324,Coastal,006f71,thirdDownPct,33.784,110
+324,Coastal,006f71,thirdDownPctAllowed,42.308,108
+324,Coastal,006f71,rushYpc,4.2,87
+324,Coastal,006f71,rushYpcAllowed,4.802,117
+324,Coastal,006f71,sacksMade,13,45
+324,Coastal,006f71,gamesPlayed,6,0
+324,Coastal,006f71,yardsPerPlay,5.714,82
+324,Coastal,006f71,yardsPerPlayAllowed,6.205,119
+326,Texas St,501214,pointsFor,34.8,41
+326,Texas St,501214,pointsAgainst,33.2,126
+326,Texas St,501214,rushYds,263.6,5
+326,Texas St,501214,rushYdsAllowed,122.8,44
+326,Texas St,501214,passYds,268,33
+326,Texas St,501214,passYdsAllowed,300.4,138
+326,Texas St,501214,totalYds,531.6,3
+326,Texas St,501214,totalYdsAllowed,423.2,127
+326,Texas St,501214,thirdDownPct,54.667,5
+326,Texas St,501214,thirdDownPctAllowed,41.333,102
+326,Texas St,501214,rushYpc,5.4,19
+326,Texas St,501214,rushYpcAllowed,3.79,52
+326,Texas St,501214,sacksMade,5,128
+326,Texas St,501214,gamesPlayed,5,0
+326,Texas St,501214,yardsPerPlay,6.781,22
+326,Texas St,501214,yardsPerPlayAllowed,5.704,95
+328,Utah State,0f2439,pointsFor,14.5,135
+328,Utah State,0f2439,pointsAgainst,23.5,71
+328,Utah State,0f2439,rushYds,120.2,116
+328,Utah State,0f2439,rushYdsAllowed,140.833,67
+328,Utah State,0f2439,passYds,189.8,106
+328,Utah State,0f2439,passYdsAllowed,218.833,85
+328,Utah State,0f2439,totalYds,310,124
+328,Utah State,0f2439,totalYdsAllowed,359.667,81
+328,Utah State,0f2439,thirdDownPct,37.037,92
+328,Utah State,0f2439,thirdDownPctAllowed,40.426,96
+328,Utah State,0f2439,rushYpc,3.8,106
+328,Utah State,0f2439,rushYpcAllowed,4.142,75
+328,Utah State,0f2439,sacksMade,9,94
+328,Utah State,0f2439,gamesPlayed,6,0
+328,Utah State,0f2439,yardsPerPlay,4.987,120
+328,Utah State,0f2439,yardsPerPlayAllowed,5.126,54
+333,Alabama,9e1b32,pointsFor,44.17,3
+333,Alabama,9e1b32,pointsAgainst,20.667,45
+333,Alabama,9e1b32,rushYds,182.2,46
+333,Alabama,9e1b32,rushYdsAllowed,99.833,25
+333,Alabama,9e1b32,passYds,270.3,30
+333,Alabama,9e1b32,passYdsAllowed,236.5,103
+333,Alabama,9e1b32,totalYds,452.5,32
+333,Alabama,9e1b32,totalYdsAllowed,336.333,54
+333,Alabama,9e1b32,thirdDownPct,48.571,25
+333,Alabama,9e1b32,thirdDownPctAllowed,31.707,31
+333,Alabama,9e1b32,rushYpc,4.9,44
+333,Alabama,9e1b32,rushYpcAllowed,3.025,21
+333,Alabama,9e1b32,sacksMade,17,14
+333,Alabama,9e1b32,gamesPlayed,6,0
+333,Alabama,9e1b32,yardsPerPlay,6.997,13
+333,Alabama,9e1b32,yardsPerPlayAllowed,5.41,71
+338,Kennesaw St,fdbb30,pointsFor,22.6,106
+338,Kennesaw St,fdbb30,pointsAgainst,23.4,68
+338,Kennesaw St,fdbb30,rushYds,157,69
+338,Kennesaw St,fdbb30,rushYdsAllowed,148,79
+338,Kennesaw St,fdbb30,passYds,219.4,81
+338,Kennesaw St,fdbb30,passYdsAllowed,219.4,87
+338,Kennesaw St,fdbb30,totalYds,376.4,83
+338,Kennesaw St,fdbb30,totalYdsAllowed,367.4,85
+338,Kennesaw St,fdbb30,thirdDownPct,43.333,49
+338,Kennesaw St,fdbb30,thirdDownPctAllowed,34.426,51
+338,Kennesaw St,fdbb30,rushYpc,4.7,54
+338,Kennesaw St,fdbb30,rushYpcAllowed,4.253,82
+338,Kennesaw St,fdbb30,sacksMade,5,128
+338,Kennesaw St,fdbb30,gamesPlayed,5,0
+338,Kennesaw St,fdbb30,yardsPerPlay,5.738,81
+338,Kennesaw St,fdbb30,yardsPerPlayAllowed,5.67,93
+344,Mississippi St,5d1725,pointsFor,39,20
+344,Mississippi St,5d1725,pointsAgainst,28,108
+344,Mississippi St,5d1725,rushYds,177.8,54
+344,Mississippi St,5d1725,rushYdsAllowed,119.6,42
+344,Mississippi St,5d1725,passYds,309.2,11
+344,Mississippi St,5d1725,passYdsAllowed,260,124
+344,Mississippi St,5d1725,totalYds,487,11
+344,Mississippi St,5d1725,totalYdsAllowed,379.6,96
+344,Mississippi St,5d1725,thirdDownPct,48.387,27
+344,Mississippi St,5d1725,thirdDownPctAllowed,36.111,63
+344,Mississippi St,5d1725,rushYpc,4.8,46
+344,Mississippi St,5d1725,rushYpcAllowed,3.602,44
+344,Mississippi St,5d1725,sacksMade,13,45
+344,Mississippi St,5d1725,gamesPlayed,5,0
+344,Mississippi St,5d1725,yardsPerPlay,6.84,17
+344,Mississippi St,5d1725,yardsPerPlayAllowed,5.486,76
+349,Army,000000,pointsFor,30.6,64
+349,Army,000000,pointsAgainst,19.2,39
+349,Army,000000,rushYds,333.2,1
+349,Army,000000,rushYdsAllowed,156,92
+349,Army,000000,passYds,82.6,137
+349,Army,000000,passYdsAllowed,199.2,55
+349,Army,000000,totalYds,415.8,50
+349,Army,000000,totalYdsAllowed,355.2,76
+349,Army,000000,thirdDownPct,51.667,11
+349,Army,000000,thirdDownPctAllowed,38.889,84
+349,Army,000000,rushYpc,6.2,3
+349,Army,000000,rushYpcAllowed,5.342,126
+349,Army,000000,sacksMade,4,134
+349,Army,000000,gamesPlayed,5,0
+349,Army,000000,yardsPerPlay,6.319,48
+349,Army,000000,yardsPerPlayAllowed,6.602,128
+356,Illinois,ff5f05,pointsFor,31.83,56
+356,Illinois,ff5f05,pointsAgainst,27.833,107
+356,Illinois,ff5f05,rushYds,150.8,78
+356,Illinois,ff5f05,rushYdsAllowed,126.833,48
+356,Illinois,ff5f05,passYds,254.7,48
+356,Illinois,ff5f05,passYdsAllowed,248.333,118
+356,Illinois,ff5f05,totalYds,405.5,59
+356,Illinois,ff5f05,totalYdsAllowed,375.167,91
+356,Illinois,ff5f05,thirdDownPct,43.284,52
+356,Illinois,ff5f05,thirdDownPctAllowed,44.737,118
+356,Illinois,ff5f05,rushYpc,5.1,32
+356,Illinois,ff5f05,rushYpcAllowed,3.767,51
+356,Illinois,ff5f05,sacksMade,5,128
+356,Illinois,ff5f05,gamesPlayed,6,0
+356,Illinois,ff5f05,yardsPerPlay,6.523,33
+356,Illinois,ff5f05,yardsPerPlayAllowed,5.817,99
+2005,Air Force,003594,pointsFor,28.8,72
+2005,Air Force,003594,pointsAgainst,17.4,27
+2005,Air Force,003594,rushYds,325.6,2
+2005,Air Force,003594,rushYdsAllowed,122,43
+2005,Air Force,003594,passYds,74.4,138
+2005,Air Force,003594,passYdsAllowed,157.6,15
+2005,Air Force,003594,totalYds,400,66
+2005,Air Force,003594,totalYdsAllowed,279.6,17
+2005,Air Force,003594,thirdDownPct,53.846,8
+2005,Air Force,003594,thirdDownPctAllowed,27.586,9
+2005,Air Force,003594,rushYpc,5.1,32
+2005,Air Force,003594,rushYpcAllowed,4.178,78
+2005,Air Force,003594,sacksMade,7,113
+2005,Air Force,003594,gamesPlayed,5,0
+2005,Air Force,003594,yardsPerPlay,5.464,100
+2005,Air Force,003594,yardsPerPlayAllowed,5.377,69
+2006,Akron,041e42,pointsFor,19.67,117
+2006,Akron,041e42,pointsAgainst,32.167,120
+2006,Akron,041e42,rushYds,141.3,91
+2006,Akron,041e42,rushYdsAllowed,179.833,115
+2006,Akron,041e42,passYds,202.3,96
+2006,Akron,041e42,passYdsAllowed,242.667,111
+2006,Akron,041e42,totalYds,343.7,107
+2006,Akron,041e42,totalYdsAllowed,422.5,126
+2006,Akron,041e42,thirdDownPct,38.961,81
+2006,Akron,041e42,thirdDownPctAllowed,40.741,98
+2006,Akron,041e42,rushYpc,4.3,79
+2006,Akron,041e42,rushYpcAllowed,5.477,128
+2006,Akron,041e42,sacksMade,2,137
+2006,Akron,041e42,gamesPlayed,6,0
+2006,Akron,041e42,yardsPerPlay,5.37,109
+2006,Akron,041e42,yardsPerPlayAllowed,6.584,127
+2026,App State,000000,pointsFor,28.4,73
+2026,App State,000000,pointsAgainst,19.8,41
+2026,App State,000000,rushYds,134.2,101
+2026,App State,000000,rushYdsAllowed,137.6,62
+2026,App State,000000,passYds,268.6,32
+2026,App State,000000,passYdsAllowed,197.8,52
+2026,App State,000000,totalYds,402.8,63
+2026,App State,000000,totalYdsAllowed,335.4,51
+2026,App State,000000,thirdDownPct,30.769,124
+2026,App State,000000,thirdDownPctAllowed,36,62
+2026,App State,000000,rushYpc,4,94
+2026,App State,000000,rushYpcAllowed,3.528,42
+2026,App State,000000,sacksMade,9,94
+2026,App State,000000,gamesPlayed,5,0
+2026,App State,000000,yardsPerPlay,5.994,68
+2026,App State,000000,yardsPerPlayAllowed,4.764,29
+2032,Arkansas St,cc092f,pointsFor,28.17,75
+2032,Arkansas St,cc092f,pointsAgainst,28.833,112
+2032,Arkansas St,cc092f,rushYds,132.8,106
+2032,Arkansas St,cc092f,rushYdsAllowed,213.667,132
+2032,Arkansas St,cc092f,passYds,243.5,56
+2032,Arkansas St,cc092f,passYdsAllowed,181.333,33
+2032,Arkansas St,cc092f,totalYds,376.3,84
+2032,Arkansas St,cc092f,totalYdsAllowed,395,111
+2032,Arkansas St,cc092f,thirdDownPct,50.769,17
+2032,Arkansas St,cc092f,thirdDownPctAllowed,47.887,131
+2032,Arkansas St,cc092f,rushYpc,4.4,72
+2032,Arkansas St,cc092f,rushYpcAllowed,5.32,124
+2032,Arkansas St,cc092f,sacksMade,3,136
+2032,Arkansas St,cc092f,gamesPlayed,6,0
+2032,Arkansas St,cc092f,yardsPerPlay,6.343,43
+2032,Arkansas St,cc092f,yardsPerPlayAllowed,6.337,122
+2050,Ball State,ba0c2f,pointsFor,18.33,125
+2050,Ball State,ba0c2f,pointsAgainst,39,134
+2050,Ball State,ba0c2f,rushYds,117.8,120
+2050,Ball State,ba0c2f,rushYdsAllowed,218.833,134
+2050,Ball State,ba0c2f,passYds,190.2,105
+2050,Ball State,ba0c2f,passYdsAllowed,248.5,120
+2050,Ball State,ba0c2f,totalYds,308,126
+2050,Ball State,ba0c2f,totalYdsAllowed,467.333,133
+2050,Ball State,ba0c2f,thirdDownPct,28.947,130
+2050,Ball State,ba0c2f,thirdDownPctAllowed,46.25,125
+2050,Ball State,ba0c2f,rushYpc,3.9,99
+2050,Ball State,ba0c2f,rushYpcAllowed,5.759,132
+2050,Ball State,ba0c2f,sacksMade,8,105
+2050,Ball State,ba0c2f,gamesPlayed,6,0
+2050,Ball State,ba0c2f,yardsPerPlay,4.889,125
+2050,Ball State,ba0c2f,yardsPerPlayAllowed,6.856,134
+2084,Buffalo,005bbb,pointsFor,20.83,115
+2084,Buffalo,005bbb,pointsAgainst,26.833,99
+2084,Buffalo,005bbb,rushYds,156.2,70
+2084,Buffalo,005bbb,rushYdsAllowed,149.833,84
+2084,Buffalo,005bbb,passYds,162.7,126
+2084,Buffalo,005bbb,passYdsAllowed,239.5,109
+2084,Buffalo,005bbb,totalYds,318.8,119
+2084,Buffalo,005bbb,totalYdsAllowed,389.333,105
+2084,Buffalo,005bbb,thirdDownPct,35.849,102
+2084,Buffalo,005bbb,thirdDownPctAllowed,33.333,42
+2084,Buffalo,005bbb,rushYpc,3.7,111
+2084,Buffalo,005bbb,rushYpcAllowed,4.587,107
+2084,Buffalo,005bbb,sacksMade,7,113
+2084,Buffalo,005bbb,gamesPlayed,6,0
+2084,Buffalo,005bbb,yardsPerPlay,4.318,137
+2084,Buffalo,005bbb,yardsPerPlayAllowed,5.99,108
+2116,UCF,000000,pointsFor,31.67,57
+2116,UCF,000000,pointsAgainst,21.667,53
+2116,UCF,000000,rushYds,162.2,64
+2116,UCF,000000,rushYdsAllowed,118.333,40
+2116,UCF,000000,passYds,192.7,103
+2116,UCF,000000,passYdsAllowed,236.833,105
+2116,UCF,000000,totalYds,354.8,100
+2116,UCF,000000,totalYdsAllowed,355.167,75
+2116,UCF,000000,thirdDownPct,35.616,105
+2116,UCF,000000,thirdDownPctAllowed,38.462,80
+2116,UCF,000000,rushYpc,5,40
+2116,UCF,000000,rushYpcAllowed,3.213,31
+2116,UCF,000000,sacksMade,12,56
+2116,UCF,000000,gamesPlayed,6,0
+2116,UCF,000000,yardsPerPlay,5.833,77
+2116,UCF,000000,yardsPerPlayAllowed,5.074,52
+2117,C Michigan,4c0027,pointsFor,17,127
+2117,C Michigan,4c0027,pointsAgainst,26.333,96
+2117,C Michigan,4c0027,rushYds,188.7,42
+2117,C Michigan,4c0027,rushYdsAllowed,177.667,113
+2117,C Michigan,4c0027,passYds,96.3,135
+2117,C Michigan,4c0027,passYdsAllowed,195.333,50
+2117,C Michigan,4c0027,totalYds,285,132
+2117,C Michigan,4c0027,totalYdsAllowed,373,90
+2117,C Michigan,4c0027,thirdDownPct,36.364,97
+2117,C Michigan,4c0027,thirdDownPctAllowed,50,134
+2117,C Michigan,4c0027,rushYpc,4.8,46
+2117,C Michigan,4c0027,rushYpcAllowed,4.78,116
+2117,C Michigan,4c0027,sacksMade,10,81
+2117,C Michigan,4c0027,gamesPlayed,6,0
+2117,C Michigan,4c0027,yardsPerPlay,4.942,123
+2117,C Michigan,4c0027,yardsPerPlayAllowed,5.695,94
+2132,Cincinnati,000000,pointsFor,33.8,49
+2132,Cincinnati,000000,pointsAgainst,23.2,66
+2132,Cincinnati,000000,rushYds,230.8,12
+2132,Cincinnati,000000,rushYdsAllowed,141.6,70
+2132,Cincinnati,000000,passYds,196.8,98
+2132,Cincinnati,000000,passYdsAllowed,260,124
+2132,Cincinnati,000000,totalYds,427.6,46
+2132,Cincinnati,000000,totalYdsAllowed,401.6,115
+2132,Cincinnati,000000,thirdDownPct,48.438,26
+2132,Cincinnati,000000,thirdDownPctAllowed,45.588,122
+2132,Cincinnati,000000,rushYpc,5.9,12
+2132,Cincinnati,000000,rushYpcAllowed,4.51,100
+2132,Cincinnati,000000,sacksMade,11,69
+2132,Cincinnati,000000,gamesPlayed,5,0
+2132,Cincinnati,000000,yardsPerPlay,6.578,31
+2132,Cincinnati,000000,yardsPerPlayAllowed,5.837,100
+2199,E Michigan,006938,pointsFor,22.57,107
+2199,E Michigan,006938,pointsAgainst,24.714,79
+2199,E Michigan,006938,rushYds,115.1,122
+2199,E Michigan,006938,rushYdsAllowed,135.143,54
+2199,E Michigan,006938,passYds,211.1,86
+2199,E Michigan,006938,passYdsAllowed,229.714,97
+2199,E Michigan,006938,totalYds,326.3,117
+2199,E Michigan,006938,totalYdsAllowed,364.857,84
+2199,E Michigan,006938,thirdDownPct,43.137,55
+2199,E Michigan,006938,thirdDownPctAllowed,42.391,109
+2199,E Michigan,006938,rushYpc,3.8,106
+2199,E Michigan,006938,rushYpcAllowed,4.261,83
+2199,E Michigan,006938,sacksMade,12,56
+2199,E Michigan,006938,gamesPlayed,7,0
+2199,E Michigan,006938,yardsPerPlay,4.912,124
+2199,E Michigan,006938,yardsPerPlayAllowed,5.858,102
+2226,FAU,003366,pointsFor,37.2,28
+2226,FAU,003366,pointsAgainst,26.6,98
+2226,FAU,003366,rushYds,116.4,121
+2226,FAU,003366,rushYdsAllowed,166,106
+2226,FAU,003366,passYds,304.4,13
+2226,FAU,003366,passYdsAllowed,237.6,107
+2226,FAU,003366,totalYds,420.8,49
+2226,FAU,003366,totalYdsAllowed,403.6,117
+2226,FAU,003366,thirdDownPct,50,20
+2226,FAU,003366,thirdDownPctAllowed,36.232,66
+2226,FAU,003366,rushYpc,3.2,131
+2226,FAU,003366,rushYpcAllowed,4.586,106
+2226,FAU,003366,sacksMade,7,113
+2226,FAU,003366,gamesPlayed,5,0
+2226,FAU,003366,yardsPerPlay,5.581,91
+2226,FAU,003366,yardsPerPlayAllowed,6.097,113
+2229,FIU,091f3f,pointsFor,18.8,121
+2229,FIU,091f3f,pointsAgainst,12.2,6
+2229,FIU,091f3f,rushYds,119.2,119
+2229,FIU,091f3f,rushYdsAllowed,85.4,13
+2229,FIU,091f3f,passYds,259.2,41
+2229,FIU,091f3f,passYdsAllowed,156.4,13
+2229,FIU,091f3f,totalYds,378.4,80
+2229,FIU,091f3f,totalYdsAllowed,241.8,4
+2229,FIU,091f3f,thirdDownPct,45.122,39
+2229,FIU,091f3f,thirdDownPctAllowed,29.167,14
+2229,FIU,091f3f,rushYpc,3.3,123
+2229,FIU,091f3f,rushYpcAllowed,2.737,12
+2229,FIU,091f3f,sacksMade,13,45
+2229,FIU,091f3f,gamesPlayed,5,0
+2229,FIU,091f3f,yardsPerPlay,5.33,112
+2229,FIU,091f3f,yardsPerPlayAllowed,4.003,1
+2247,Georgia St,0039a6,pointsFor,39.4,17
+2247,Georgia St,0039a6,pointsAgainst,19,34
+2247,Georgia St,0039a6,rushYds,209.6,30
+2247,Georgia St,0039a6,rushYdsAllowed,127,49
+2247,Georgia St,0039a6,passYds,259,42
+2247,Georgia St,0039a6,passYdsAllowed,174,27
+2247,Georgia St,0039a6,totalYds,468.6,19
+2247,Georgia St,0039a6,totalYdsAllowed,301,28
+2247,Georgia St,0039a6,thirdDownPct,50.746,18
+2247,Georgia St,0039a6,thirdDownPctAllowed,26.154,7
+2247,Georgia St,0039a6,rushYpc,5.3,24
+2247,Georgia St,0039a6,rushYpcAllowed,4.071,73
+2247,Georgia St,0039a6,sacksMade,19,4
+2247,Georgia St,0039a6,gamesPlayed,5,0
+2247,Georgia St,0039a6,yardsPerPlay,6.694,23
+2247,Georgia St,0039a6,yardsPerPlayAllowed,5,44
+2294,Iowa,231f20,pointsFor,31,62
+2294,Iowa,231f20,pointsAgainst,14.5,14
+2294,Iowa,231f20,rushYds,194,38
+2294,Iowa,231f20,rushYdsAllowed,84.667,12
+2294,Iowa,231f20,passYds,209.2,90
+2294,Iowa,231f20,passYdsAllowed,208.667,74
+2294,Iowa,231f20,totalYds,403.2,62
+2294,Iowa,231f20,totalYdsAllowed,293.333,24
+2294,Iowa,231f20,thirdDownPct,39.437,80
+2294,Iowa,231f20,thirdDownPctAllowed,33.708,45
+2294,Iowa,231f20,rushYpc,6.1,5
+2294,Iowa,231f20,rushYpcAllowed,2.515,7
+2294,Iowa,231f20,sacksMade,19,4
+2294,Iowa,231f20,gamesPlayed,6,0
+2294,Iowa,231f20,yardsPerPlay,6.538,32
+2294,Iowa,231f20,yardsPerPlayAllowed,4.583,18
+2305,Kansas,0051ba,pointsFor,33.6,50
+2305,Kansas,0051ba,pointsAgainst,21.8,55
+2305,Kansas,0051ba,rushYds,214.8,25
+2305,Kansas,0051ba,rushYdsAllowed,137.4,61
+2305,Kansas,0051ba,passYds,260.8,39
+2305,Kansas,0051ba,passYdsAllowed,167.4,21
+2305,Kansas,0051ba,totalYds,475.6,15
+2305,Kansas,0051ba,totalYdsAllowed,304.8,31
+2305,Kansas,0051ba,thirdDownPct,40.58,74
+2305,Kansas,0051ba,thirdDownPctAllowed,29.577,17
+2305,Kansas,0051ba,rushYpc,5.2,28
+2305,Kansas,0051ba,rushYpcAllowed,3.817,53
+2305,Kansas,0051ba,sacksMade,9,94
+2305,Kansas,0051ba,gamesPlayed,5,0
+2305,Kansas,0051ba,yardsPerPlay,6.642,28
+2305,Kansas,0051ba,yardsPerPlayAllowed,4.916,38
+2306,Kansas St,330a57,pointsFor,35.6,36
+2306,Kansas St,330a57,pointsAgainst,19.2,39
+2306,Kansas St,330a57,rushYds,216,24
+2306,Kansas St,330a57,rushYdsAllowed,158.4,95
+2306,Kansas St,330a57,passYds,228,74
+2306,Kansas St,330a57,passYdsAllowed,133.4,3
+2306,Kansas St,330a57,totalYds,444,38
+2306,Kansas St,330a57,totalYdsAllowed,291.8,23
+2306,Kansas St,330a57,thirdDownPct,61.644,2
+2306,Kansas St,330a57,thirdDownPctAllowed,36.765,68
+2306,Kansas St,330a57,rushYpc,6,8
+2306,Kansas St,330a57,rushYpcAllowed,4.328,90
+2306,Kansas St,330a57,sacksMade,12,56
+2306,Kansas St,330a57,gamesPlayed,5,0
+2306,Kansas St,330a57,yardsPerPlay,6.361,41
+2306,Kansas St,330a57,yardsPerPlayAllowed,5.014,46
+2309,Kent State,002664,pointsFor,13.67,137
+2309,Kent State,002664,pointsAgainst,32.5,123
+2309,Kent State,002664,rushYds,109.2,125
+2309,Kent State,002664,rushYdsAllowed,152,88
+2309,Kent State,002664,passYds,171.5,123
+2309,Kent State,002664,passYdsAllowed,227.167,94
+2309,Kent State,002664,totalYds,280.7,134
+2309,Kent State,002664,totalYdsAllowed,379.167,95
+2309,Kent State,002664,thirdDownPct,36.957,94
+2309,Kent State,002664,thirdDownPctAllowed,35.385,58
+2309,Kent State,002664,rushYpc,3.1,132
+2309,Kent State,002664,rushYpcAllowed,4.385,92
+2309,Kent State,002664,sacksMade,12,56
+2309,Kent State,002664,gamesPlayed,6,0
+2309,Kent State,002664,yardsPerPlay,4.467,136
+2309,Kent State,002664,yardsPerPlayAllowed,6.233,121
+2335,Liberty,0a254e,pointsFor,31.17,61
+2335,Liberty,0a254e,pointsAgainst,15.333,18
+2335,Liberty,0a254e,rushYds,223,18
+2335,Liberty,0a254e,rushYdsAllowed,124.167,45
+2335,Liberty,0a254e,passYds,192.8,102
+2335,Liberty,0a254e,passYdsAllowed,167.5,22
+2335,Liberty,0a254e,totalYds,415.8,50
+2335,Liberty,0a254e,totalYdsAllowed,291.667,22
+2335,Liberty,0a254e,thirdDownPct,45.205,36
+2335,Liberty,0a254e,thirdDownPctAllowed,28.767,12
+2335,Liberty,0a254e,rushYpc,5.3,24
+2335,Liberty,0a254e,rushYpcAllowed,4.049,72
+2335,Liberty,0a254e,sacksMade,12,56
+2335,Liberty,0a254e,gamesPlayed,6,0
+2335,Liberty,0a254e,yardsPerPlay,6.514,35
+2335,Liberty,0a254e,yardsPerPlayAllowed,4.848,30
+2348,Louisiana Tech,003087,pointsFor,35.2,38
+2348,Louisiana Tech,003087,pointsAgainst,29.4,116
+2348,Louisiana Tech,003087,rushYds,151.6,77
+2348,Louisiana Tech,003087,rushYdsAllowed,165.6,104
+2348,Louisiana Tech,003087,passYds,251.8,50
+2348,Louisiana Tech,003087,passYdsAllowed,213.4,78
+2348,Louisiana Tech,003087,totalYds,403.4,61
+2348,Louisiana Tech,003087,totalYdsAllowed,379,94
+2348,Louisiana Tech,003087,thirdDownPct,43.75,47
+2348,Louisiana Tech,003087,thirdDownPctAllowed,39.726,92
+2348,Louisiana Tech,003087,rushYpc,4.5,64
+2348,Louisiana Tech,003087,rushYpcAllowed,3.924,62
+2348,Louisiana Tech,003087,sacksMade,13,45
+2348,Louisiana Tech,003087,gamesPlayed,5,0
+2348,Louisiana Tech,003087,yardsPerPlay,6.187,53
+2348,Louisiana Tech,003087,yardsPerPlayAllowed,5.574,86
+2390,Miami,f47423,pointsFor,49.6,1
+2390,Miami,f47423,pointsAgainst,9.8,1
+2390,Miami,f47423,rushYds,220.4,20
+2390,Miami,f47423,rushYdsAllowed,42.6,1
+2390,Miami,f47423,passYds,334.4,5
+2390,Miami,f47423,passYdsAllowed,207,70
+2390,Miami,f47423,totalYds,554.8,1
+2390,Miami,f47423,totalYdsAllowed,249.6,6
+2390,Miami,f47423,thirdDownPct,51.064,16
+2390,Miami,f47423,thirdDownPctAllowed,32.877,39
+2390,Miami,f47423,rushYpc,6.2,3
+2390,Miami,f47423,rushYpcAllowed,1.836,1
+2390,Miami,f47423,sacksMade,16,19
+2390,Miami,f47423,gamesPlayed,5,0
+2390,Miami,f47423,yardsPerPlay,8.207,1
+2390,Miami,f47423,yardsPerPlayAllowed,4.16,7
+2393,MTSU,036eb7,pointsFor,20.8,116
+2393,MTSU,036eb7,pointsAgainst,28,108
+2393,MTSU,036eb7,rushYds,124,112
+2393,MTSU,036eb7,rushYdsAllowed,225,135
+2393,MTSU,036eb7,passYds,182.6,114
+2393,MTSU,036eb7,passYdsAllowed,195.6,51
+2393,MTSU,036eb7,totalYds,306.6,127
+2393,MTSU,036eb7,totalYdsAllowed,420.6,125
+2393,MTSU,036eb7,thirdDownPct,26.316,135
+2393,MTSU,036eb7,thirdDownPctAllowed,39.286,88
+2393,MTSU,036eb7,rushYpc,4.8,46
+2393,MTSU,036eb7,rushYpcAllowed,5.769,135
+2393,MTSU,036eb7,sacksMade,2,137
+2393,MTSU,036eb7,gamesPlayed,5,0
+2393,MTSU,036eb7,yardsPerPlay,5.398,107
+2393,MTSU,036eb7,yardsPerPlayAllowed,6.634,129
+2426,Navy,00225b,pointsFor,27,84
+2426,Navy,00225b,pointsAgainst,23.4,68
+2426,Navy,00225b,rushYds,299.4,3
+2426,Navy,00225b,rushYdsAllowed,96.6,22
+2426,Navy,00225b,passYds,102,134
+2426,Navy,00225b,passYdsAllowed,225.4,92
+2426,Navy,00225b,totalYds,401.4,65
+2426,Navy,00225b,totalYdsAllowed,322,40
+2426,Navy,00225b,thirdDownPct,43.333,49
+2426,Navy,00225b,thirdDownPctAllowed,46.377,126
+2426,Navy,00225b,rushYpc,5.7,15
+2426,Navy,00225b,rushYpcAllowed,2.611,9
+2426,Navy,00225b,sacksMade,11,69
+2426,Navy,00225b,gamesPlayed,5,0
+2426,Navy,00225b,yardsPerPlay,6.063,59
+2426,Navy,00225b,yardsPerPlayAllowed,5.227,60
+2429,Charlotte,005035,pointsFor,16,131
+2429,Charlotte,005035,pointsAgainst,42.167,137
+2429,Charlotte,005035,rushYds,101.5,129
+2429,Charlotte,005035,rushYdsAllowed,184,118
+2429,Charlotte,005035,passYds,186.3,111
+2429,Charlotte,005035,passYdsAllowed,282.833,132
+2429,Charlotte,005035,totalYds,287.8,131
+2429,Charlotte,005035,totalYdsAllowed,466.833,132
+2429,Charlotte,005035,thirdDownPct,26.316,135
+2429,Charlotte,005035,thirdDownPctAllowed,44.304,115
+2429,Charlotte,005035,rushYpc,3.7,111
+2429,Charlotte,005035,rushYpcAllowed,4.506,99
+2429,Charlotte,005035,sacksMade,9,94
+2429,Charlotte,005035,gamesPlayed,6,0
+2429,Charlotte,005035,yardsPerPlay,5.14,114
+2429,Charlotte,005035,yardsPerPlayAllowed,6.454,124
+2433,UL Monroe,840029,pointsFor,24,97
+2433,UL Monroe,840029,pointsAgainst,44.6,138
+2433,UL Monroe,840029,rushYds,132,107
+2433,UL Monroe,840029,rushYdsAllowed,243.6,137
+2433,UL Monroe,840029,passYds,233.4,65
+2433,UL Monroe,840029,passYdsAllowed,268.2,130
+2433,UL Monroe,840029,totalYds,365.4,93
+2433,UL Monroe,840029,totalYdsAllowed,511.8,138
+2433,UL Monroe,840029,thirdDownPct,31.884,117
+2433,UL Monroe,840029,thirdDownPctAllowed,52.778,136
+2433,UL Monroe,840029,rushYpc,3.9,99
+2433,UL Monroe,840029,rushYpcAllowed,5.745,131
+2433,UL Monroe,840029,sacksMade,5,128
+2433,UL Monroe,840029,gamesPlayed,5,0
+2433,UL Monroe,840029,yardsPerPlay,5.454,101
+2433,UL Monroe,840029,yardsPerPlayAllowed,7.188,136
+2439,UNLV,cf0a2c,pointsFor,23,101
+2439,UNLV,cf0a2c,pointsAgainst,20.833,47
+2439,UNLV,cf0a2c,rushYds,178.2,53
+2439,UNLV,cf0a2c,rushYdsAllowed,141.333,68
+2439,UNLV,cf0a2c,passYds,191.5,104
+2439,UNLV,cf0a2c,passYdsAllowed,228.833,95
+2439,UNLV,cf0a2c,totalYds,369.7,91
+2439,UNLV,cf0a2c,totalYdsAllowed,370.167,89
+2439,UNLV,cf0a2c,thirdDownPct,37.363,89
+2439,UNLV,cf0a2c,thirdDownPctAllowed,37.931,78
+2439,UNLV,cf0a2c,rushYpc,4.4,72
+2439,UNLV,cf0a2c,rushYpcAllowed,4.24,79
+2439,UNLV,cf0a2c,sacksMade,16,19
+2439,UNLV,cf0a2c,gamesPlayed,6,0
+2439,UNLV,cf0a2c,yardsPerPlay,5.545,95
+2439,UNLV,cf0a2c,yardsPerPlayAllowed,5.484,75
+2440,Nevada,041e42,pointsFor,27.8,78
+2440,Nevada,041e42,pointsAgainst,22,57
+2440,Nevada,041e42,rushYds,212.2,28
+2440,Nevada,041e42,rushYdsAllowed,181.6,116
+2440,Nevada,041e42,passYds,168.2,124
+2440,Nevada,041e42,passYdsAllowed,157,14
+2440,Nevada,041e42,totalYds,380.4,76
+2440,Nevada,041e42,totalYdsAllowed,338.6,56
+2440,Nevada,041e42,thirdDownPct,35.938,101
+2440,Nevada,041e42,thirdDownPctAllowed,31.169,28
+2440,Nevada,041e42,rushYpc,5.4,19
+2440,Nevada,041e42,rushYpcAllowed,4.243,81
+2440,Nevada,041e42,sacksMade,12,56
+2440,Nevada,041e42,gamesPlayed,5,0
+2440,Nevada,041e42,yardsPerPlay,5.834,76
+2440,Nevada,041e42,yardsPerPlayAllowed,4.893,36
+2449,N Dakota St,01402A,pointsFor,29.17,70
+2449,N Dakota St,01402A,pointsAgainst,10.333,2
+2449,N Dakota St,01402A,rushYds,171.8,56
+2449,N Dakota St,01402A,rushYdsAllowed,114.833,36
+2449,N Dakota St,01402A,passYds,193,101
+2449,N Dakota St,01402A,passYdsAllowed,124.5,1
+2449,N Dakota St,01402A,totalYds,364.8,94
+2449,N Dakota St,01402A,totalYdsAllowed,239.333,2
+2449,N Dakota St,01402A,thirdDownPct,41.558,66
+2449,N Dakota St,01402A,thirdDownPctAllowed,33.766,47
+2449,N Dakota St,01402A,rushYpc,4.3,79
+2449,N Dakota St,01402A,rushYpcAllowed,3.175,27
+2449,N Dakota St,01402A,sacksMade,11,69
+2449,N Dakota St,01402A,gamesPlayed,6,0
+2449,N Dakota St,01402A,yardsPerPlay,5.671,86
+2449,N Dakota St,01402A,yardsPerPlayAllowed,4.138,6
+2459,N Illinois,c8102e,pointsFor,12.4,138
+2459,N Illinois,c8102e,pointsAgainst,34.6,129
+2459,N Illinois,c8102e,rushYds,86,136
+2459,N Illinois,c8102e,rushYdsAllowed,211.4,130
+2459,N Illinois,c8102e,passYds,204.8,94
+2459,N Illinois,c8102e,passYdsAllowed,185.2,37
+2459,N Illinois,c8102e,totalYds,290.8,130
+2459,N Illinois,c8102e,totalYdsAllowed,396.6,112
+2459,N Illinois,c8102e,thirdDownPct,30.882,123
+2459,N Illinois,c8102e,thirdDownPctAllowed,61.538,138
+2459,N Illinois,c8102e,rushYpc,3,135
+2459,N Illinois,c8102e,rushYpcAllowed,5.207,123
+2459,N Illinois,c8102e,sacksMade,8,105
+2459,N Illinois,c8102e,gamesPlayed,5,0
+2459,N Illinois,c8102e,yardsPerPlay,4.783,128
+2459,N Illinois,c8102e,yardsPerPlayAllowed,6.009,110
+2483,Oregon,00934b,pointsFor,41,13
+2483,Oregon,00934b,pointsAgainst,22,57
+2483,Oregon,00934b,rushYds,141.8,89
+2483,Oregon,00934b,rushYdsAllowed,118.4,41
+2483,Oregon,00934b,passYds,317,7
+2483,Oregon,00934b,passYdsAllowed,226,93
+2483,Oregon,00934b,totalYds,458.8,25
+2483,Oregon,00934b,totalYdsAllowed,344.4,60
+2483,Oregon,00934b,thirdDownPct,41.538,67
+2483,Oregon,00934b,thirdDownPctAllowed,22.059,2
+2483,Oregon,00934b,rushYpc,4.3,79
+2483,Oregon,00934b,rushYpcAllowed,3.422,36
+2483,Oregon,00934b,sacksMade,9,94
+2483,Oregon,00934b,gamesPlayed,5,0
+2483,Oregon,00934b,yardsPerPlay,6.63,29
+2483,Oregon,00934b,yardsPerPlayAllowed,5.218,59
+2509,Purdue,ceb888,pointsFor,32.17,55
+2509,Purdue,ceb888,pointsAgainst,31.333,119
+2509,Purdue,ceb888,rushYds,133.5,104
+2509,Purdue,ceb888,rushYdsAllowed,157.5,93
+2509,Purdue,ceb888,passYds,282,19
+2509,Purdue,ceb888,passYdsAllowed,243.167,113
+2509,Purdue,ceb888,totalYds,415.5,53
+2509,Purdue,ceb888,totalYdsAllowed,400.667,114
+2509,Purdue,ceb888,thirdDownPct,44.737,42
+2509,Purdue,ceb888,thirdDownPctAllowed,46.479,127
+2509,Purdue,ceb888,rushYpc,3.7,111
+2509,Purdue,ceb888,rushYpcAllowed,5.108,122
+2509,Purdue,ceb888,sacksMade,7,113
+2509,Purdue,ceb888,gamesPlayed,6,0
+2509,Purdue,ceb888,yardsPerPlay,6.022,65
+2509,Purdue,ceb888,yardsPerPlayAllowed,6.533,126
+2534,Sam Houston,f56423,pointsFor,22.8,105
+2534,Sam Houston,f56423,pointsAgainst,26.2,95
+2534,Sam Houston,f56423,rushYds,101,130
+2534,Sam Houston,f56423,rushYdsAllowed,211.6,131
+2534,Sam Houston,f56423,passYds,274,24
+2534,Sam Houston,f56423,passYdsAllowed,139,4
+2534,Sam Houston,f56423,totalYds,375,85
+2534,Sam Houston,f56423,totalYdsAllowed,350.6,69
+2534,Sam Houston,f56423,thirdDownPct,40,77
+2534,Sam Houston,f56423,thirdDownPctAllowed,30.159,20
+2534,Sam Houston,f56423,rushYpc,3.3,123
+2534,Sam Houston,f56423,rushYpcAllowed,5.51,129
+2534,Sam Houston,f56423,sacksMade,10,81
+2534,Sam Houston,f56423,gamesPlayed,5,0
+2534,Sam Houston,f56423,yardsPerPlay,5.597,90
+2534,Sam Houston,f56423,yardsPerPlayAllowed,5.53,82
+2567,SMU,a80000,pointsFor,34.6,46
+2567,SMU,a80000,pointsAgainst,23,65
+2567,SMU,a80000,rushYds,138.2,94
+2567,SMU,a80000,rushYdsAllowed,141.6,70
+2567,SMU,a80000,passYds,341,3
+2567,SMU,a80000,passYdsAllowed,170.4,24
+2567,SMU,a80000,totalYds,479.2,14
+2567,SMU,a80000,totalYdsAllowed,312,34
+2567,SMU,a80000,thirdDownPct,51.562,12
+2567,SMU,a80000,thirdDownPctAllowed,25.714,5
+2567,SMU,a80000,rushYpc,4,94
+2567,SMU,a80000,rushYpcAllowed,4.24,79
+2567,SMU,a80000,sacksMade,17,14
+2567,SMU,a80000,gamesPlayed,5,0
+2567,SMU,a80000,yardsPerPlay,6.965,14
+2567,SMU,a80000,yardsPerPlayAllowed,4.952,42
+2572,Southern Miss,ffc72c,pointsFor,26.4,87
+2572,Southern Miss,ffc72c,pointsAgainst,34.6,129
+2572,Southern Miss,ffc72c,rushYds,144.2,85
+2572,Southern Miss,ffc72c,rushYdsAllowed,275.6,138
+2572,Southern Miss,ffc72c,passYds,271.4,27
+2572,Southern Miss,ffc72c,passYdsAllowed,200.2,57
+2572,Southern Miss,ffc72c,totalYds,415.6,52
+2572,Southern Miss,ffc72c,totalYdsAllowed,475.8,134
+2572,Southern Miss,ffc72c,thirdDownPct,32.258,115
+2572,Southern Miss,ffc72c,thirdDownPctAllowed,45.205,119
+2572,Southern Miss,ffc72c,rushYpc,4.2,87
+2572,Southern Miss,ffc72c,rushYpcAllowed,5.766,134
+2572,Southern Miss,ffc72c,sacksMade,10,81
+2572,Southern Miss,ffc72c,gamesPlayed,5,0
+2572,Southern Miss,ffc72c,yardsPerPlay,5.954,69
+2572,Southern Miss,ffc72c,yardsPerPlayAllowed,6.412,123
+2579,South Carolina,73000a,pointsFor,37.67,25
+2579,South Carolina,73000a,pointsAgainst,25.5,85
+2579,South Carolina,73000a,rushYds,232.3,10
+2579,South Carolina,73000a,rushYdsAllowed,103.667,30
+2579,South Carolina,73000a,passYds,242.3,57
+2579,South Carolina,73000a,passYdsAllowed,237.167,106
+2579,South Carolina,73000a,totalYds,474.7,17
+2579,South Carolina,73000a,totalYdsAllowed,340.833,58
+2579,South Carolina,73000a,thirdDownPct,47.674,28
+2579,South Carolina,73000a,thirdDownPctAllowed,37.179,74
+2579,South Carolina,73000a,rushYpc,6,8
+2579,South Carolina,73000a,rushYpcAllowed,3.223,33
+2579,South Carolina,73000a,sacksMade,16,19
+2579,South Carolina,73000a,gamesPlayed,6,0
+2579,South Carolina,73000a,yardsPerPlay,6.517,34
+2579,South Carolina,73000a,yardsPerPlayAllowed,5.367,67
+2623,Missouri St,5e0009,pointsFor,21.8,111
+2623,Missouri St,5e0009,pointsAgainst,32.4,122
+2623,Missouri St,5e0009,rushYds,135.2,97
+2623,Missouri St,5e0009,rushYdsAllowed,196.4,126
+2623,Missouri St,5e0009,passYds,209,91
+2623,Missouri St,5e0009,passYdsAllowed,248.2,117
+2623,Missouri St,5e0009,totalYds,344.2,105
+2623,Missouri St,5e0009,totalYdsAllowed,444.6,129
+2623,Missouri St,5e0009,thirdDownPct,30.303,125
+2623,Missouri St,5e0009,thirdDownPctAllowed,47.826,130
+2623,Missouri St,5e0009,rushYpc,4,94
+2623,Missouri St,5e0009,rushYpcAllowed,4.767,114
+2623,Missouri St,5e0009,sacksMade,6,122
+2623,Missouri St,5e0009,gamesPlayed,5,0
+2623,Missouri St,5e0009,yardsPerPlay,5.516,98
+2623,Missouri St,5e0009,yardsPerPlayAllowed,6.107,114
+2628,TCU,4d1979,pointsFor,25.4,92
+2628,TCU,4d1979,pointsAgainst,13.4,9
+2628,TCU,4d1979,rushYds,125.4,110
+2628,TCU,4d1979,rushYdsAllowed,99.6,24
+2628,TCU,4d1979,passYds,280,21
+2628,TCU,4d1979,passYdsAllowed,155.4,11
+2628,TCU,4d1979,totalYds,405.4,60
+2628,TCU,4d1979,totalYdsAllowed,255,9
+2628,TCU,4d1979,thirdDownPct,40.909,71
+2628,TCU,4d1979,thirdDownPctAllowed,30.769,24
+2628,TCU,4d1979,rushYpc,3.6,120
+2628,TCU,4d1979,rushYpcAllowed,3.152,23
+2628,TCU,4d1979,sacksMade,10,81
+2628,TCU,4d1979,gamesPlayed,5,0
+2628,TCU,4d1979,yardsPerPlay,6.142,56
+2628,TCU,4d1979,yardsPerPlayAllowed,4.57,17
+2633,Tennessee,ff8200,pointsFor,34.67,44
+2633,Tennessee,ff8200,pointsAgainst,15.5,19
+2633,Tennessee,ff8200,rushYds,228.3,15
+2633,Tennessee,ff8200,rushYdsAllowed,132.333,52
+2633,Tennessee,ff8200,passYds,186.5,110
+2633,Tennessee,ff8200,passYdsAllowed,161.333,17
+2633,Tennessee,ff8200,totalYds,414.8,54
+2633,Tennessee,ff8200,totalYdsAllowed,293.667,25
+2633,Tennessee,ff8200,thirdDownPct,35.443,107
+2633,Tennessee,ff8200,thirdDownPctAllowed,33.333,42
+2633,Tennessee,ff8200,rushYpc,5.2,28
+2633,Tennessee,ff8200,rushYpcAllowed,3.99,69
+2633,Tennessee,ff8200,sacksMade,25,1
+2633,Tennessee,ff8200,gamesPlayed,6,0
+2633,Tennessee,ff8200,yardsPerPlay,6.012,66
+2633,Tennessee,ff8200,yardsPerPlayAllowed,4.711,26
+2636,UTSA,0c2340,pointsFor,31.33,60
+2636,UTSA,0c2340,pointsAgainst,25.833,93
+2636,UTSA,0c2340,rushYds,191,41
+2636,UTSA,0c2340,rushYdsAllowed,184.667,119
+2636,UTSA,0c2340,passYds,210.5,87
+2636,UTSA,0c2340,passYdsAllowed,202.5,59
+2636,UTSA,0c2340,totalYds,401.5,64
+2636,UTSA,0c2340,totalYdsAllowed,387.167,103
+2636,UTSA,0c2340,thirdDownPct,37.037,92
+2636,UTSA,0c2340,thirdDownPctAllowed,36.17,65
+2636,UTSA,0c2340,rushYpc,5.4,19
+2636,UTSA,0c2340,rushYpcAllowed,4.579,105
+2636,UTSA,0c2340,sacksMade,6,122
+2636,UTSA,0c2340,gamesPlayed,6,0
+2636,UTSA,0c2340,yardsPerPlay,6.053,60
+2636,UTSA,0c2340,yardsPerPlayAllowed,5.244,62
+2638,UTEP,ff8200,pointsFor,15.83,132
+2638,UTEP,ff8200,pointsAgainst,39.5,135
+2638,UTEP,ff8200,rushYds,126.8,109
+2638,UTEP,ff8200,rushYdsAllowed,186.833,120
+2638,UTEP,ff8200,passYds,130.2,133
+2638,UTEP,ff8200,passYdsAllowed,206.833,69
+2638,UTEP,ff8200,totalYds,257,138
+2638,UTEP,ff8200,totalYdsAllowed,393.667,110
+2638,UTEP,ff8200,thirdDownPct,22.973,138
+2638,UTEP,ff8200,thirdDownPctAllowed,48.649,132
+2638,UTEP,ff8200,rushYpc,3.7,111
+2638,UTEP,ff8200,rushYpcAllowed,4.73,112
+2638,UTEP,ff8200,sacksMade,7,113
+2638,UTEP,ff8200,gamesPlayed,6,0
+2638,UTEP,ff8200,yardsPerPlay,4.716,132
+2638,UTEP,ff8200,yardsPerPlayAllowed,6.135,118
+2641,Texas Tech,da291c,pointsFor,34.8,41
+2641,Texas Tech,da291c,pointsAgainst,16.2,22
+2641,Texas Tech,da291c,rushYds,179,52
+2641,Texas Tech,da291c,rushYdsAllowed,91.4,16
+2641,Texas Tech,da291c,passYds,227.4,75
+2641,Texas Tech,da291c,passYdsAllowed,262.2,127
+2641,Texas Tech,da291c,totalYds,406.4,58
+2641,Texas Tech,da291c,totalYdsAllowed,353.6,73
+2641,Texas Tech,da291c,thirdDownPct,43.333,49
+2641,Texas Tech,da291c,thirdDownPctAllowed,38.961,86
+2641,Texas Tech,da291c,rushYpc,4.7,54
+2641,Texas Tech,da291c,rushYpcAllowed,3.174,26
+2641,Texas Tech,da291c,sacksMade,11,69
+2641,Texas Tech,da291c,gamesPlayed,5,0
+2641,Texas Tech,da291c,yardsPerPlay,6.03,62
+2641,Texas Tech,da291c,yardsPerPlayAllowed,5.023,48
+2649,Toledo,0b2240,pointsFor,36.67,30
+2649,Toledo,0b2240,pointsAgainst,25.167,81
+2649,Toledo,0b2240,rushYds,183.8,45
+2649,Toledo,0b2240,rushYdsAllowed,140.167,65
+2649,Toledo,0b2240,passYds,271,29
+2649,Toledo,0b2240,passYdsAllowed,189.5,43
+2649,Toledo,0b2240,totalYds,454.8,31
+2649,Toledo,0b2240,totalYdsAllowed,329.667,47
+2649,Toledo,0b2240,thirdDownPct,43.373,48
+2649,Toledo,0b2240,thirdDownPctAllowed,36.842,70
+2649,Toledo,0b2240,rushYpc,5.1,32
+2649,Toledo,0b2240,rushYpcAllowed,3.705,49
+2649,Toledo,0b2240,sacksMade,15,26
+2649,Toledo,0b2240,gamesPlayed,6,0
+2649,Toledo,0b2240,yardsPerPlay,6.656,26
+2649,Toledo,0b2240,yardsPerPlayAllowed,4.698,24
+2653,Troy,862633,pointsFor,28,76
+2653,Troy,862633,pointsAgainst,24,74
+2653,Troy,862633,rushYds,220.4,20
+2653,Troy,862633,rushYdsAllowed,113.6,34
+2653,Troy,862633,passYds,209.4,89
+2653,Troy,862633,passYdsAllowed,236.2,102
+2653,Troy,862633,totalYds,429.8,45
+2653,Troy,862633,totalYdsAllowed,349.8,67
+2653,Troy,862633,thirdDownPct,38.356,85
+2653,Troy,862633,thirdDownPctAllowed,31.034,27
+2653,Troy,862633,rushYpc,5.2,28
+2653,Troy,862633,rushYpcAllowed,3.917,61
+2653,Troy,862633,sacksMade,11,69
+2653,Troy,862633,gamesPlayed,5,0
+2653,Troy,862633,yardsPerPlay,5.872,74
+2653,Troy,862633,yardsPerPlayAllowed,5.811,98
+2655,Tulane,006747,pointsFor,18.4,124
+2655,Tulane,006747,pointsAgainst,22.6,63
+2655,Tulane,006747,rushYds,152.8,74
+2655,Tulane,006747,rushYdsAllowed,218.6,133
+2655,Tulane,006747,passYds,180.6,118
+2655,Tulane,006747,passYdsAllowed,188.6,42
+2655,Tulane,006747,totalYds,333.4,112
+2655,Tulane,006747,totalYdsAllowed,407.2,119
+2655,Tulane,006747,thirdDownPct,38.806,83
+2655,Tulane,006747,thirdDownPctAllowed,50,134
+2655,Tulane,006747,rushYpc,4.7,54
+2655,Tulane,006747,rushYpcAllowed,4.991,121
+2655,Tulane,006747,sacksMade,6,122
+2655,Tulane,006747,gamesPlayed,5,0
+2655,Tulane,006747,yardsPerPlay,5.651,87
+2655,Tulane,006747,yardsPerPlayAllowed,5.936,105
+2711,W Michigan,532e1f,pointsFor,25.67,90
+2711,W Michigan,532e1f,pointsAgainst,17.333,25
+2711,W Michigan,532e1f,rushYds,154.8,71
+2711,W Michigan,532e1f,rushYdsAllowed,142.667,74
+2711,W Michigan,532e1f,passYds,175.8,121
+2711,W Michigan,532e1f,passYdsAllowed,193.5,48
+2711,W Michigan,532e1f,totalYds,330.7,114
+2711,W Michigan,532e1f,totalYdsAllowed,336.167,53
+2711,W Michigan,532e1f,thirdDownPct,43.243,53
+2711,W Michigan,532e1f,thirdDownPctAllowed,40.741,98
+2711,W Michigan,532e1f,rushYpc,4.3,79
+2711,W Michigan,532e1f,rushYpcAllowed,3.643,45
+2711,W Michigan,532e1f,sacksMade,13,45
+2711,W Michigan,532e1f,gamesPlayed,6,0
+2711,W Michigan,532e1f,yardsPerPlay,5.436,103
+2711,W Michigan,532e1f,yardsPerPlayAllowed,5.068,51
+2751,Wyoming,492f24,pointsFor,14.5,135
+2751,Wyoming,492f24,pointsAgainst,20.5,44
+2751,Wyoming,492f24,rushYds,163.7,62
+2751,Wyoming,492f24,rushYdsAllowed,171.5,108
+2751,Wyoming,492f24,passYds,138.2,132
+2751,Wyoming,492f24,passYdsAllowed,190.667,45
+2751,Wyoming,492f24,totalYds,301.8,129
+2751,Wyoming,492f24,totalYdsAllowed,362.167,82
+2751,Wyoming,492f24,thirdDownPct,30.986,121
+2751,Wyoming,492f24,thirdDownPctAllowed,39.241,87
+2751,Wyoming,492f24,rushYpc,4.4,72
+2751,Wyoming,492f24,rushYpcAllowed,4.594,108
+2751,Wyoming,492f24,sacksMade,12,56
+2751,Wyoming,492f24,gamesPlayed,6,0
+2751,Wyoming,492f24,yardsPerPlay,5.045,116
+2751,Wyoming,492f24,yardsPerPlayAllowed,5.46,74
+2,Auburn,002b5c,turnoverMargin,1,51
+2,Auburn,002b5c,giveaways,9,102
+2,Auburn,002b5c,takeaways,10,14
+2,Auburn,002b5c,turnoverGames,5,0
+2,Auburn,002b5c,turnoverMarginPG,0.2,51
+2,Auburn,002b5c,giveawaysPG,1.8,118
+2,Auburn,002b5c,takeawaysPG,2,10
+5,UAB,1a5632,turnoverMargin,-1,102
+5,UAB,1a5632,giveaways,10,121
+5,UAB,1a5632,takeaways,9,35
+5,UAB,1a5632,turnoverGames,6,0
+5,UAB,1a5632,turnoverMarginPG,-0.167,102
+5,UAB,1a5632,giveawaysPG,1.667,111
+5,UAB,1a5632,takeawaysPG,1.5,47
+6,South Alabama,00205b,turnoverMargin,4,11
+6,South Alabama,00205b,giveaways,3,12
+6,South Alabama,00205b,takeaways,7,70
+6,South Alabama,00205b,turnoverGames,6,0
+6,South Alabama,00205b,turnoverMarginPG,0.667,16
+6,South Alabama,00205b,giveawaysPG,0.5,12
+6,South Alabama,00205b,takeawaysPG,1.167,82
+8,Arkansas,a32136,turnoverMargin,0,80
+8,Arkansas,a32136,giveaways,8,81
+8,Arkansas,a32136,takeaways,8,50
+8,Arkansas,a32136,turnoverGames,6,0
+8,Arkansas,a32136,turnoverMarginPG,0,80
+8,Arkansas,a32136,giveawaysPG,1.333,74
+8,Arkansas,a32136,takeawaysPG,1.333,62
+9,Arizona St,ffc627,turnoverMargin,-1,102
+9,Arizona St,ffc627,giveaways,8,81
+9,Arizona St,ffc627,takeaways,7,70
+9,Arizona St,ffc627,turnoverGames,5,0
+9,Arizona St,ffc627,turnoverMarginPG,-0.2,107
+9,Arizona St,ffc627,giveawaysPG,1.6,101
+9,Arizona St,ffc627,takeawaysPG,1.4,55
+12,Arizona,cc0033,turnoverMargin,2,27
+12,Arizona,cc0033,giveaways,8,81
+12,Arizona,cc0033,takeaways,10,14
+12,Arizona,cc0033,turnoverGames,6,0
+12,Arizona,cc0033,turnoverMarginPG,0.333,35
+12,Arizona,cc0033,giveawaysPG,1.333,74
+12,Arizona,cc0033,takeawaysPG,1.667,27
+16,Sacramento St,00573C,turnoverMargin,-3,125
+16,Sacramento St,00573C,giveaways,12,134
+16,Sacramento St,00573C,takeaways,9,35
+16,Sacramento St,00573C,turnoverGames,6,0
+16,Sacramento St,00573C,turnoverMarginPG,-0.5,125
+16,Sacramento St,00573C,giveawaysPG,2,131
+16,Sacramento St,00573C,takeawaysPG,1.5,47
+21,San Diego St,a6192e,turnoverMargin,-1,102
+21,San Diego St,a6192e,giveaways,9,102
+21,San Diego St,a6192e,takeaways,8,50
+21,San Diego St,a6192e,turnoverGames,6,0
+21,San Diego St,a6192e,turnoverMarginPG,-0.167,102
+21,San Diego St,a6192e,giveawaysPG,1.5,92
+21,San Diego St,a6192e,takeawaysPG,1.333,62
+23,San José St,0038a8,turnoverMargin,0,80
+23,San José St,0038a8,giveaways,8,81
+23,San José St,0038a8,takeaways,8,50
+23,San José St,0038a8,turnoverGames,6,0
+23,San José St,0038a8,turnoverMarginPG,0,80
+23,San José St,0038a8,giveawaysPG,1.333,74
+23,San José St,0038a8,takeawaysPG,1.333,62
+24,Stanford,8c1515,turnoverMargin,1,51
+24,Stanford,8c1515,giveaways,5,39
+24,Stanford,8c1515,takeaways,6,85
+24,Stanford,8c1515,turnoverGames,6,0
+24,Stanford,8c1515,turnoverMarginPG,0.167,62
+24,Stanford,8c1515,giveawaysPG,0.833,39
+24,Stanford,8c1515,takeawaysPG,1,92
+25,California,041e42,turnoverMargin,1,51
+25,California,041e42,giveaways,8,81
+25,California,041e42,takeaways,9,35
+25,California,041e42,turnoverGames,6,0
+25,California,041e42,turnoverMarginPG,0.167,62
+25,California,041e42,giveawaysPG,1.333,74
+25,California,041e42,takeawaysPG,1.5,47
+26,UCLA,2774ae,turnoverMargin,6,3
+26,UCLA,2774ae,giveaways,7,61
+26,UCLA,2774ae,takeaways,13,3
+26,UCLA,2774ae,turnoverGames,5,0
+26,UCLA,2774ae,turnoverMarginPG,1.2,3
+26,UCLA,2774ae,giveawaysPG,1.4,84
+26,UCLA,2774ae,takeawaysPG,2.6,1
+30,USC,9d2235,turnoverMargin,2,27
+30,USC,9d2235,giveaways,6,50
+30,USC,9d2235,takeaways,8,50
+30,USC,9d2235,turnoverGames,7,0
+30,USC,9d2235,turnoverMarginPG,0.286,50
+30,USC,9d2235,giveawaysPG,0.857,45
+30,USC,9d2235,takeawaysPG,1.143,90
+36,Colorado St,004c23,turnoverMargin,4,11
+36,Colorado St,004c23,giveaways,4,23
+36,Colorado St,004c23,takeaways,8,50
+36,Colorado St,004c23,turnoverGames,5,0
+36,Colorado St,004c23,turnoverMarginPG,0.8,11
+36,Colorado St,004c23,giveawaysPG,0.8,36
+36,Colorado St,004c23,takeawaysPG,1.6,42
+38,Colorado,cfb87c,turnoverMargin,-2,114
+38,Colorado,cfb87c,giveaways,11,130
+38,Colorado,cfb87c,takeaways,9,35
+38,Colorado,cfb87c,turnoverGames,5,0
+38,Colorado,cfb87c,turnoverMarginPG,-0.4,119
+38,Colorado,cfb87c,giveawaysPG,2.2,136
+38,Colorado,cfb87c,takeawaysPG,1.8,20
+41,UConn,0c2340,turnoverMargin,1,51
+41,UConn,0c2340,giveaways,7,61
+41,UConn,0c2340,takeaways,8,50
+41,UConn,0c2340,turnoverGames,6,0
+41,UConn,0c2340,turnoverMarginPG,0.167,62
+41,UConn,0c2340,giveawaysPG,1.167,58
+41,UConn,0c2340,takeawaysPG,1.333,62
+48,Delaware,00539f,turnoverMargin,6,3
+48,Delaware,00539f,giveaways,7,61
+48,Delaware,00539f,takeaways,13,3
+48,Delaware,00539f,turnoverGames,5,0
+48,Delaware,00539f,turnoverMarginPG,1.2,3
+48,Delaware,00539f,giveawaysPG,1.4,84
+48,Delaware,00539f,takeawaysPG,2.6,1
+52,Florida St,782f40,turnoverMargin,1,51
+52,Florida St,782f40,giveaways,8,81
+52,Florida St,782f40,takeaways,9,35
+52,Florida St,782f40,turnoverGames,6,0
+52,Florida St,782f40,turnoverMarginPG,0.167,62
+52,Florida St,782f40,giveawaysPG,1.333,74
+52,Florida St,782f40,takeawaysPG,1.5,47
+55,Jax State,cc0000,turnoverMargin,-4,132
+55,Jax State,cc0000,giveaways,9,102
+55,Jax State,cc0000,takeaways,5,99
+55,Jax State,cc0000,turnoverGames,6,0
+55,Jax State,cc0000,turnoverMarginPG,-0.667,132
+55,Jax State,cc0000,giveawaysPG,1.5,92
+55,Jax State,cc0000,takeawaysPG,0.833,106
+57,Florida,0021a5,turnoverMargin,3,20
+57,Florida,0021a5,giveaways,7,61
+57,Florida,0021a5,takeaways,10,14
+57,Florida,0021a5,turnoverGames,6,0
+57,Florida,0021a5,turnoverMarginPG,0.5,22
+57,Florida,0021a5,giveawaysPG,1.167,58
+57,Florida,0021a5,takeawaysPG,1.667,27
+58,South Florida,006747,turnoverMargin,0,80
+58,South Florida,006747,giveaways,4,23
+58,South Florida,006747,takeaways,4,120
+58,South Florida,006747,turnoverGames,6,0
+58,South Florida,006747,turnoverMarginPG,0,80
+58,South Florida,006747,giveawaysPG,0.667,23
+58,South Florida,006747,takeawaysPG,0.667,125
+59,Georgia Tech,b3a369,turnoverMargin,0,80
+59,Georgia Tech,b3a369,giveaways,5,39
+59,Georgia Tech,b3a369,takeaways,5,99
+59,Georgia Tech,b3a369,turnoverGames,5,0
+59,Georgia Tech,b3a369,turnoverMarginPG,0,80
+59,Georgia Tech,b3a369,giveawaysPG,1,46
+59,Georgia Tech,b3a369,takeawaysPG,1,92
+61,Georgia,ba0c2f,turnoverMargin,5,6
+61,Georgia,ba0c2f,giveaways,5,39
+61,Georgia,ba0c2f,takeaways,10,14
+61,Georgia,ba0c2f,turnoverGames,6,0
+61,Georgia,ba0c2f,turnoverMarginPG,0.833,6
+61,Georgia,ba0c2f,giveawaysPG,0.833,39
+61,Georgia,ba0c2f,takeawaysPG,1.667,27
+62,Hawai'i,005737,turnoverMargin,1,51
+62,Hawai'i,005737,giveaways,6,50
+62,Hawai'i,005737,takeaways,7,70
+62,Hawai'i,005737,turnoverGames,6,0
+62,Hawai'i,005737,turnoverMarginPG,0.167,62
+62,Hawai'i,005737,giveawaysPG,1,46
+62,Hawai'i,005737,takeawaysPG,1.167,82
+66,Iowa State,ae192d,turnoverMargin,5,6
+66,Iowa State,ae192d,giveaways,5,39
+66,Iowa State,ae192d,takeaways,10,14
+66,Iowa State,ae192d,turnoverGames,6,0
+66,Iowa State,ae192d,turnoverMarginPG,0.833,6
+66,Iowa State,ae192d,giveawaysPG,0.833,39
+66,Iowa State,ae192d,takeawaysPG,1.667,27
+68,Boise St,0033a0,turnoverMargin,0,80
+68,Boise St,0033a0,giveaways,3,12
+68,Boise St,0033a0,takeaways,3,131
+68,Boise St,0033a0,turnoverGames,6,0
+68,Boise St,0033a0,turnoverMarginPG,0,80
+68,Boise St,0033a0,giveawaysPG,0.5,12
+68,Boise St,0033a0,takeawaysPG,0.5,133
+77,Northwestern,492f92,turnoverMargin,0,80
+77,Northwestern,492f92,giveaways,2,4
+77,Northwestern,492f92,takeaways,2,136
+77,Northwestern,492f92,turnoverGames,5,0
+77,Northwestern,492f92,turnoverMarginPG,0,80
+77,Northwestern,492f92,giveawaysPG,0.4,6
+77,Northwestern,492f92,takeawaysPG,0.4,136
+84,Indiana,970310,turnoverMargin,2,27
+84,Indiana,970310,giveaways,1,1
+84,Indiana,970310,takeaways,3,131
+84,Indiana,970310,turnoverGames,6,0
+84,Indiana,970310,turnoverMarginPG,0.333,35
+84,Indiana,970310,giveawaysPG,0.167,1
+84,Indiana,970310,takeawaysPG,0.5,133
+87,Notre Dame,062340,turnoverMargin,8,1
+87,Notre Dame,062340,giveaways,1,1
+87,Notre Dame,062340,takeaways,9,35
+87,Notre Dame,062340,turnoverGames,6,0
+87,Notre Dame,062340,turnoverMarginPG,1.333,2
+87,Notre Dame,062340,giveawaysPG,0.167,1
+87,Notre Dame,062340,takeawaysPG,1.5,47
+96,Kentucky,0033a0,turnoverMargin,1,51
+96,Kentucky,0033a0,giveaways,5,39
+96,Kentucky,0033a0,takeaways,6,85
+96,Kentucky,0033a0,turnoverGames,6,0
+96,Kentucky,0033a0,turnoverMarginPG,0.167,62
+96,Kentucky,0033a0,giveawaysPG,0.833,39
+96,Kentucky,0033a0,takeawaysPG,1,92
+97,Louisville,c9001f,turnoverMargin,0,80
+97,Louisville,c9001f,giveaways,4,23
+97,Louisville,c9001f,takeaways,4,120
+97,Louisville,c9001f,turnoverGames,6,0
+97,Louisville,c9001f,turnoverMarginPG,0,80
+97,Louisville,c9001f,giveawaysPG,0.667,23
+97,Louisville,c9001f,takeawaysPG,0.667,125
+98,Western KY,e13a3e,turnoverMargin,-2,114
+98,Western KY,e13a3e,giveaways,9,102
+98,Western KY,e13a3e,takeaways,7,70
+98,Western KY,e13a3e,turnoverGames,6,0
+98,Western KY,e13a3e,turnoverMarginPG,-0.333,114
+98,Western KY,e13a3e,giveawaysPG,1.5,92
+98,Western KY,e13a3e,takeawaysPG,1.167,82
+99,LSU,461d76,turnoverMargin,0,80
+99,LSU,461d76,giveaways,10,121
+99,LSU,461d76,takeaways,10,14
+99,LSU,461d76,turnoverGames,6,0
+99,LSU,461d76,turnoverMarginPG,0,80
+99,LSU,461d76,giveawaysPG,1.667,111
+99,LSU,461d76,takeawaysPG,1.667,27
+103,Boston College,8c2232,turnoverMargin,1,51
+103,Boston College,8c2232,giveaways,8,81
+103,Boston College,8c2232,takeaways,9,35
+103,Boston College,8c2232,turnoverGames,5,0
+103,Boston College,8c2232,turnoverMarginPG,0.2,51
+103,Boston College,8c2232,giveawaysPG,1.6,101
+103,Boston College,8c2232,takeawaysPG,1.8,20
+113,UMass,881c1c,turnoverMargin,3,20
+113,UMass,881c1c,giveaways,4,23
+113,UMass,881c1c,takeaways,7,70
+113,UMass,881c1c,turnoverGames,6,0
+113,UMass,881c1c,turnoverMarginPG,0.5,22
+113,UMass,881c1c,giveawaysPG,0.667,23
+113,UMass,881c1c,takeawaysPG,1.167,82
+120,Maryland,ce1126,turnoverMargin,4,11
+120,Maryland,ce1126,giveaways,7,61
+120,Maryland,ce1126,takeaways,11,9
+120,Maryland,ce1126,turnoverGames,6,0
+120,Maryland,ce1126,turnoverMarginPG,0.667,16
+120,Maryland,ce1126,giveawaysPG,1.167,58
+120,Maryland,ce1126,takeawaysPG,1.833,17
+127,Michigan St,173f35,turnoverMargin,1,51
+127,Michigan St,173f35,giveaways,7,61
+127,Michigan St,173f35,takeaways,8,50
+127,Michigan St,173f35,turnoverGames,6,0
+127,Michigan St,173f35,turnoverMarginPG,0.167,62
+127,Michigan St,173f35,giveawaysPG,1.167,58
+127,Michigan St,173f35,takeawaysPG,1.333,62
+130,Michigan,00274c,turnoverMargin,-4,132
+130,Michigan,00274c,giveaways,9,102
+130,Michigan,00274c,takeaways,5,99
+130,Michigan,00274c,turnoverGames,5,0
+130,Michigan,00274c,turnoverMarginPG,-0.8,136
+130,Michigan,00274c,giveawaysPG,1.8,118
+130,Michigan,00274c,takeawaysPG,1,92
+135,Minnesota,5e0a2f,turnoverMargin,3,20
+135,Minnesota,5e0a2f,giveaways,7,61
+135,Minnesota,5e0a2f,takeaways,10,14
+135,Minnesota,5e0a2f,turnoverGames,6,0
+135,Minnesota,5e0a2f,turnoverMarginPG,0.5,22
+135,Minnesota,5e0a2f,giveawaysPG,1.167,58
+135,Minnesota,5e0a2f,takeawaysPG,1.667,27
+142,Missouri,f1b82d,turnoverMargin,1,51
+142,Missouri,f1b82d,giveaways,3,12
+142,Missouri,f1b82d,takeaways,4,120
+142,Missouri,f1b82d,turnoverGames,6,0
+142,Missouri,f1b82d,turnoverMarginPG,0.167,62
+142,Missouri,f1b82d,giveawaysPG,0.5,12
+142,Missouri,f1b82d,takeawaysPG,0.667,125
+145,Ole Miss,13294b,turnoverMargin,0,80
+145,Ole Miss,13294b,giveaways,7,61
+145,Ole Miss,13294b,takeaways,7,70
+145,Ole Miss,13294b,turnoverGames,5,0
+145,Ole Miss,13294b,turnoverMarginPG,0,80
+145,Ole Miss,13294b,giveawaysPG,1.4,84
+145,Ole Miss,13294b,takeawaysPG,1.4,55
+150,Duke,00539b,turnoverMargin,2,27
+150,Duke,00539b,giveaways,2,4
+150,Duke,00539b,takeaways,4,120
+150,Duke,00539b,turnoverGames,5,0
+150,Duke,00539b,turnoverMarginPG,0.4,27
+150,Duke,00539b,giveawaysPG,0.4,6
+150,Duke,00539b,takeawaysPG,0.8,120
+151,East Carolina,582c83,turnoverMargin,-1,102
+151,East Carolina,582c83,giveaways,8,81
+151,East Carolina,582c83,takeaways,7,70
+151,East Carolina,582c83,turnoverGames,5,0
+151,East Carolina,582c83,turnoverMarginPG,-0.2,107
+151,East Carolina,582c83,giveawaysPG,1.6,101
+151,East Carolina,582c83,takeawaysPG,1.4,55
+152,NC State,cc0000,turnoverMargin,1,51
+152,NC State,cc0000,giveaways,9,102
+152,NC State,cc0000,takeaways,10,14
+152,NC State,cc0000,turnoverGames,6,0
+152,NC State,cc0000,turnoverMarginPG,0.167,62
+152,NC State,cc0000,giveawaysPG,1.5,92
+152,NC State,cc0000,takeawaysPG,1.667,27
+153,North Carolina,7bafd4,turnoverMargin,1,51
+153,North Carolina,7bafd4,giveaways,8,81
+153,North Carolina,7bafd4,takeaways,9,35
+153,North Carolina,7bafd4,turnoverGames,5,0
+153,North Carolina,7bafd4,turnoverMarginPG,0.2,51
+153,North Carolina,7bafd4,giveawaysPG,1.6,101
+153,North Carolina,7bafd4,takeawaysPG,1.8,20
+154,Wake Forest,ceb888,turnoverMargin,2,27
+154,Wake Forest,ceb888,giveaways,3,12
+154,Wake Forest,ceb888,takeaways,5,99
+154,Wake Forest,ceb888,turnoverGames,6,0
+154,Wake Forest,ceb888,turnoverMarginPG,0.333,35
+154,Wake Forest,ceb888,giveawaysPG,0.5,12
+154,Wake Forest,ceb888,takeawaysPG,0.833,106
+158,Nebraska,e31937,turnoverMargin,2,27
+158,Nebraska,e31937,giveaways,3,12
+158,Nebraska,e31937,takeaways,5,99
+158,Nebraska,e31937,turnoverGames,6,0
+158,Nebraska,e31937,turnoverMarginPG,0.333,35
+158,Nebraska,e31937,giveawaysPG,0.5,12
+158,Nebraska,e31937,takeawaysPG,0.833,106
+164,Rutgers,ce0e2d,turnoverMargin,1,51
+164,Rutgers,ce0e2d,giveaways,10,121
+164,Rutgers,ce0e2d,takeaways,11,9
+164,Rutgers,ce0e2d,turnoverGames,5,0
+164,Rutgers,ce0e2d,turnoverMarginPG,0.2,51
+164,Rutgers,ce0e2d,giveawaysPG,2,131
+164,Rutgers,ce0e2d,takeawaysPG,2.2,6
+166,New Mexico St,7e141b,turnoverMargin,-1,102
+166,New Mexico St,7e141b,giveaways,11,130
+166,New Mexico St,7e141b,takeaways,10,14
+166,New Mexico St,7e141b,turnoverGames,6,0
+166,New Mexico St,7e141b,turnoverMarginPG,-0.167,102
+166,New Mexico St,7e141b,giveawaysPG,1.833,128
+166,New Mexico St,7e141b,takeawaysPG,1.667,27
+167,New Mexico,ba0c2f,turnoverMargin,8,1
+167,New Mexico,ba0c2f,giveaways,1,1
+167,New Mexico,ba0c2f,takeaways,9,35
+167,New Mexico,ba0c2f,turnoverGames,5,0
+167,New Mexico,ba0c2f,turnoverMarginPG,1.6,1
+167,New Mexico,ba0c2f,giveawaysPG,0.2,3
+167,New Mexico,ba0c2f,takeawaysPG,1.8,20
+183,Syracuse,000e54,turnoverMargin,4,11
+183,Syracuse,000e54,giveaways,7,61
+183,Syracuse,000e54,takeaways,11,9
+183,Syracuse,000e54,turnoverGames,5,0
+183,Syracuse,000e54,turnoverMarginPG,0.8,11
+183,Syracuse,000e54,giveawaysPG,1.4,84
+183,Syracuse,000e54,takeawaysPG,2.2,6
+189,Bowling Green,fd5000,turnoverMargin,0,80
+189,Bowling Green,fd5000,giveaways,7,61
+189,Bowling Green,fd5000,takeaways,7,70
+189,Bowling Green,fd5000,turnoverGames,6,0
+189,Bowling Green,fd5000,turnoverMarginPG,0,80
+189,Bowling Green,fd5000,giveawaysPG,1.167,58
+189,Bowling Green,fd5000,takeawaysPG,1.167,82
+193,Miami OH,c41230,turnoverMargin,2,27
+193,Miami OH,c41230,giveaways,4,23
+193,Miami OH,c41230,takeaways,6,85
+193,Miami OH,c41230,turnoverGames,6,0
+193,Miami OH,c41230,turnoverMarginPG,0.333,35
+193,Miami OH,c41230,giveawaysPG,0.667,23
+193,Miami OH,c41230,takeawaysPG,1,92
+194,Ohio State,ba0c2f,turnoverMargin,5,6
+194,Ohio State,ba0c2f,giveaways,6,50
+194,Ohio State,ba0c2f,takeaways,11,9
+194,Ohio State,ba0c2f,turnoverGames,6,0
+194,Ohio State,ba0c2f,turnoverMarginPG,0.833,6
+194,Ohio State,ba0c2f,giveawaysPG,1,46
+194,Ohio State,ba0c2f,takeawaysPG,1.833,17
+195,Ohio,154734,turnoverMargin,-1,102
+195,Ohio,154734,giveaways,8,81
+195,Ohio,154734,takeaways,7,70
+195,Ohio,154734,turnoverGames,6,0
+195,Ohio,154734,turnoverMarginPG,-0.167,102
+195,Ohio,154734,giveawaysPG,1.333,74
+195,Ohio,154734,takeawaysPG,1.167,82
+197,Oklahoma St,fe5c00,turnoverMargin,-2,114
+197,Oklahoma St,fe5c00,giveaways,9,102
+197,Oklahoma St,fe5c00,takeaways,7,70
+197,Oklahoma St,fe5c00,turnoverGames,5,0
+197,Oklahoma St,fe5c00,turnoverMarginPG,-0.4,119
+197,Oklahoma St,fe5c00,giveawaysPG,1.8,118
+197,Oklahoma St,fe5c00,takeawaysPG,1.4,55
+201,Oklahoma,990000,turnoverMargin,-2,114
+201,Oklahoma,990000,giveaways,10,121
+201,Oklahoma,990000,takeaways,8,50
+201,Oklahoma,990000,turnoverGames,5,0
+201,Oklahoma,990000,turnoverMarginPG,-0.4,119
+201,Oklahoma,990000,giveawaysPG,2,131
+201,Oklahoma,990000,takeawaysPG,1.6,42
+202,Tulsa,003595,turnoverMargin,4,11
+202,Tulsa,003595,giveaways,4,23
+202,Tulsa,003595,takeaways,8,50
+202,Tulsa,003595,turnoverGames,6,0
+202,Tulsa,003595,turnoverMarginPG,0.667,16
+202,Tulsa,003595,giveawaysPG,0.667,23
+202,Tulsa,003595,takeawaysPG,1.333,62
+204,Oregon St,dc4405,turnoverMargin,2,27
+204,Oregon St,dc4405,giveaways,4,23
+204,Oregon St,dc4405,takeaways,6,85
+204,Oregon St,dc4405,turnoverGames,6,0
+204,Oregon St,dc4405,turnoverMarginPG,0.333,35
+204,Oregon St,dc4405,giveawaysPG,0.667,23
+204,Oregon St,dc4405,takeawaysPG,1,92
+213,Penn State,061440,turnoverMargin,3,20
+213,Penn State,061440,giveaways,4,23
+213,Penn State,061440,takeaways,7,70
+213,Penn State,061440,turnoverGames,6,0
+213,Penn State,061440,turnoverMarginPG,0.5,22
+213,Penn State,061440,giveawaysPG,0.667,23
+213,Penn State,061440,takeawaysPG,1.167,82
+218,Temple,a41e35,turnoverMargin,-2,114
+218,Temple,a41e35,giveaways,6,50
+218,Temple,a41e35,takeaways,4,120
+218,Temple,a41e35,turnoverGames,6,0
+218,Temple,a41e35,turnoverMarginPG,-0.333,114
+218,Temple,a41e35,giveawaysPG,1,46
+218,Temple,a41e35,takeawaysPG,0.667,125
+221,Pitt,003594,turnoverMargin,1,51
+221,Pitt,003594,giveaways,4,23
+221,Pitt,003594,takeaways,5,99
+221,Pitt,003594,turnoverGames,6,0
+221,Pitt,003594,turnoverMarginPG,0.167,62
+221,Pitt,003594,giveawaysPG,0.667,23
+221,Pitt,003594,takeawaysPG,0.833,106
+228,Clemson,f56600,turnoverMargin,-2,114
+228,Clemson,f56600,giveaways,9,102
+228,Clemson,f56600,takeaways,7,70
+228,Clemson,f56600,turnoverGames,5,0
+228,Clemson,f56600,turnoverMarginPG,-0.4,119
+228,Clemson,f56600,giveawaysPG,1.8,118
+228,Clemson,f56600,takeawaysPG,1.4,55
+235,Memphis,004991,turnoverMargin,5,6
+235,Memphis,004991,giveaways,5,39
+235,Memphis,004991,takeaways,10,14
+235,Memphis,004991,turnoverGames,6,0
+235,Memphis,004991,turnoverMarginPG,0.833,6
+235,Memphis,004991,giveawaysPG,0.833,39
+235,Memphis,004991,takeawaysPG,1.667,27
+238,Vanderbilt,000000,turnoverMargin,-2,114
+238,Vanderbilt,000000,giveaways,10,121
+238,Vanderbilt,000000,takeaways,8,50
+238,Vanderbilt,000000,turnoverGames,6,0
+238,Vanderbilt,000000,turnoverMarginPG,-0.333,114
+238,Vanderbilt,000000,giveawaysPG,1.667,111
+238,Vanderbilt,000000,takeawaysPG,1.333,62
+239,Baylor,154734,turnoverMargin,2,27
+239,Baylor,154734,giveaways,8,81
+239,Baylor,154734,takeaways,10,14
+239,Baylor,154734,turnoverGames,5,0
+239,Baylor,154734,turnoverMarginPG,0.4,27
+239,Baylor,154734,giveawaysPG,1.6,101
+239,Baylor,154734,takeawaysPG,2,10
+242,Rice,00205b,turnoverMargin,-4,132
+242,Rice,00205b,giveaways,9,102
+242,Rice,00205b,takeaways,5,99
+242,Rice,00205b,turnoverGames,6,0
+242,Rice,00205b,turnoverMarginPG,-0.667,132
+242,Rice,00205b,giveawaysPG,1.5,92
+242,Rice,00205b,takeawaysPG,0.833,106
+245,Texas A&M,500000,turnoverMargin,5,6
+245,Texas A&M,500000,giveaways,8,81
+245,Texas A&M,500000,takeaways,13,3
+245,Texas A&M,500000,turnoverGames,6,0
+245,Texas A&M,500000,turnoverMarginPG,0.833,6
+245,Texas A&M,500000,giveawaysPG,1.333,74
+245,Texas A&M,500000,takeawaysPG,2.167,8
+248,Houston,c8102e,turnoverMargin,1,51
+248,Houston,c8102e,giveaways,4,23
+248,Houston,c8102e,takeaways,5,99
+248,Houston,c8102e,turnoverGames,6,0
+248,Houston,c8102e,turnoverMarginPG,0.167,62
+248,Houston,c8102e,giveawaysPG,0.667,23
+248,Houston,c8102e,takeawaysPG,0.833,106
+249,North Texas,068f33,turnoverMargin,1,51
+249,North Texas,068f33,giveaways,7,61
+249,North Texas,068f33,takeaways,8,50
+249,North Texas,068f33,turnoverGames,6,0
+249,North Texas,068f33,turnoverMarginPG,0.167,62
+249,North Texas,068f33,giveawaysPG,1.167,58
+249,North Texas,068f33,takeawaysPG,1.333,62
+251,Texas,af5c37,turnoverMargin,1,51
+251,Texas,af5c37,giveaways,7,61
+251,Texas,af5c37,takeaways,8,50
+251,Texas,af5c37,turnoverGames,5,0
+251,Texas,af5c37,turnoverMarginPG,0.2,51
+251,Texas,af5c37,giveawaysPG,1.4,84
+251,Texas,af5c37,takeawaysPG,1.6,42
+252,BYU,0047ba,turnoverMargin,0,80
+252,BYU,0047ba,giveaways,3,12
+252,BYU,0047ba,takeaways,3,131
+252,BYU,0047ba,turnoverGames,5,0
+252,BYU,0047ba,turnoverMarginPG,0,80
+252,BYU,0047ba,giveawaysPG,0.6,20
+252,BYU,0047ba,takeawaysPG,0.6,131
+254,Utah,be0000,turnoverMargin,0,80
+254,Utah,be0000,giveaways,4,23
+254,Utah,be0000,takeaways,4,120
+254,Utah,be0000,turnoverGames,5,0
+254,Utah,be0000,turnoverMarginPG,0,80
+254,Utah,be0000,giveawaysPG,0.8,36
+254,Utah,be0000,takeawaysPG,0.8,120
+256,James Madison,450084,turnoverMargin,1,51
+256,James Madison,450084,giveaways,4,23
+256,James Madison,450084,takeaways,5,99
+256,James Madison,450084,turnoverGames,6,0
+256,James Madison,450084,turnoverMarginPG,0.167,62
+256,James Madison,450084,giveawaysPG,0.667,23
+256,James Madison,450084,takeawaysPG,0.833,106
+258,Virginia,232d4b,turnoverMargin,1,51
+258,Virginia,232d4b,giveaways,2,4
+258,Virginia,232d4b,takeaways,3,131
+258,Virginia,232d4b,turnoverGames,6,0
+258,Virginia,232d4b,turnoverMarginPG,0.167,62
+258,Virginia,232d4b,giveawaysPG,0.333,4
+258,Virginia,232d4b,takeawaysPG,0.5,133
+259,Virginia Tech,6a2c3e,turnoverMargin,-4,132
+259,Virginia Tech,6a2c3e,giveaways,9,102
+259,Virginia Tech,6a2c3e,takeaways,5,99
+259,Virginia Tech,6a2c3e,turnoverGames,6,0
+259,Virginia Tech,6a2c3e,turnoverMarginPG,-0.667,132
+259,Virginia Tech,6a2c3e,giveawaysPG,1.5,92
+259,Virginia Tech,6a2c3e,takeawaysPG,0.833,106
+264,Washington,33006f,turnoverMargin,1,51
+264,Washington,33006f,giveaways,4,23
+264,Washington,33006f,takeaways,5,99
+264,Washington,33006f,turnoverGames,6,0
+264,Washington,33006f,turnoverMarginPG,0.167,62
+264,Washington,33006f,giveawaysPG,0.667,23
+264,Washington,33006f,takeawaysPG,0.833,106
+265,Washington St,a60f2d,turnoverMargin,-3,125
+265,Washington St,a60f2d,giveaways,11,130
+265,Washington St,a60f2d,takeaways,8,50
+265,Washington St,a60f2d,turnoverGames,6,0
+265,Washington St,a60f2d,turnoverMarginPG,-0.5,125
+265,Washington St,a60f2d,giveawaysPG,1.833,128
+265,Washington St,a60f2d,takeawaysPG,1.333,62
+275,Wisconsin,a00000,turnoverMargin,0,80
+275,Wisconsin,a00000,giveaways,6,50
+275,Wisconsin,a00000,takeaways,6,85
+275,Wisconsin,a00000,turnoverGames,5,0
+275,Wisconsin,a00000,turnoverMarginPG,0,80
+275,Wisconsin,a00000,giveawaysPG,1.2,70
+275,Wisconsin,a00000,takeawaysPG,1.2,75
+276,Marshall,00b140,turnoverMargin,-4,132
+276,Marshall,00b140,giveaways,14,137
+276,Marshall,00b140,takeaways,10,14
+276,Marshall,00b140,turnoverGames,6,0
+276,Marshall,00b140,turnoverMarginPG,-0.667,132
+276,Marshall,00b140,giveawaysPG,2.333,137
+276,Marshall,00b140,takeawaysPG,1.667,27
+277,West Virginia,eaaa00,turnoverMargin,-3,125
+277,West Virginia,eaaa00,giveaways,7,61
+277,West Virginia,eaaa00,takeaways,4,120
+277,West Virginia,eaaa00,turnoverGames,6,0
+277,West Virginia,eaaa00,turnoverMarginPG,-0.5,125
+277,West Virginia,eaaa00,giveawaysPG,1.167,58
+277,West Virginia,eaaa00,takeawaysPG,0.667,125
+278,Fresno St,b1102b,turnoverMargin,2,27
+278,Fresno St,b1102b,giveaways,3,12
+278,Fresno St,b1102b,takeaways,5,99
+278,Fresno St,b1102b,turnoverGames,6,0
+278,Fresno St,b1102b,turnoverMarginPG,0.333,35
+278,Fresno St,b1102b,giveawaysPG,0.5,12
+278,Fresno St,b1102b,takeawaysPG,0.833,106
+290,GA Southern,041e42,turnoverMargin,2,27
+290,GA Southern,041e42,giveaways,6,50
+290,GA Southern,041e42,takeaways,8,50
+290,GA Southern,041e42,turnoverGames,6,0
+290,GA Southern,041e42,turnoverMarginPG,0.333,35
+290,GA Southern,041e42,giveawaysPG,1,46
+290,GA Southern,041e42,takeawaysPG,1.333,62
+295,Old Dominion,003768,turnoverMargin,2,27
+295,Old Dominion,003768,giveaways,13,135
+295,Old Dominion,003768,takeaways,15,1
+295,Old Dominion,003768,turnoverGames,6,0
+295,Old Dominion,003768,turnoverMarginPG,0.333,35
+295,Old Dominion,003768,giveawaysPG,2.167,134
+295,Old Dominion,003768,takeawaysPG,2.5,4
+309,Louisiana,ce181e,turnoverMargin,3,20
+309,Louisiana,ce181e,giveaways,10,121
+309,Louisiana,ce181e,takeaways,13,3
+309,Louisiana,ce181e,turnoverGames,6,0
+309,Louisiana,ce181e,turnoverMarginPG,0.5,22
+309,Louisiana,ce181e,giveawaysPG,1.667,111
+309,Louisiana,ce181e,takeawaysPG,2.167,8
+324,Coastal,006f71,turnoverMargin,2,27
+324,Coastal,006f71,giveaways,9,102
+324,Coastal,006f71,takeaways,11,9
+324,Coastal,006f71,turnoverGames,6,0
+324,Coastal,006f71,turnoverMarginPG,0.333,35
+324,Coastal,006f71,giveawaysPG,1.5,92
+324,Coastal,006f71,takeawaysPG,1.833,17
+326,Texas St,501214,turnoverMargin,-2,114
+326,Texas St,501214,giveaways,9,102
+326,Texas St,501214,takeaways,7,70
+326,Texas St,501214,turnoverGames,5,0
+326,Texas St,501214,turnoverMarginPG,-0.4,119
+326,Texas St,501214,giveawaysPG,1.8,118
+326,Texas St,501214,takeawaysPG,1.4,55
+328,Utah State,0f2439,turnoverMargin,1,51
+328,Utah State,0f2439,giveaways,13,135
+328,Utah State,0f2439,takeaways,14,2
+328,Utah State,0f2439,turnoverGames,6,0
+328,Utah State,0f2439,turnoverMarginPG,0.167,62
+328,Utah State,0f2439,giveawaysPG,2.167,134
+328,Utah State,0f2439,takeawaysPG,2.333,5
+333,Alabama,9e1b32,turnoverMargin,0,80
+333,Alabama,9e1b32,giveaways,7,61
+333,Alabama,9e1b32,takeaways,7,70
+333,Alabama,9e1b32,turnoverGames,6,0
+333,Alabama,9e1b32,turnoverMarginPG,0,80
+333,Alabama,9e1b32,giveawaysPG,1.167,58
+333,Alabama,9e1b32,takeawaysPG,1.167,82
+338,Kennesaw St,fdbb30,turnoverMargin,4,11
+338,Kennesaw St,fdbb30,giveaways,6,50
+338,Kennesaw St,fdbb30,takeaways,10,14
+338,Kennesaw St,fdbb30,turnoverGames,5,0
+338,Kennesaw St,fdbb30,turnoverMarginPG,0.8,11
+338,Kennesaw St,fdbb30,giveawaysPG,1.2,70
+338,Kennesaw St,fdbb30,takeawaysPG,2,10
+344,Mississippi St,5d1725,turnoverMargin,-1,102
+344,Mississippi St,5d1725,giveaways,7,61
+344,Mississippi St,5d1725,takeaways,6,85
+344,Mississippi St,5d1725,turnoverGames,5,0
+344,Mississippi St,5d1725,turnoverMarginPG,-0.2,107
+344,Mississippi St,5d1725,giveawaysPG,1.4,84
+344,Mississippi St,5d1725,takeawaysPG,1.2,75
+349,Army,000000,turnoverMargin,-1,102
+349,Army,000000,giveaways,2,4
+349,Army,000000,takeaways,1,138
+349,Army,000000,turnoverGames,5,0
+349,Army,000000,turnoverMarginPG,-0.2,107
+349,Army,000000,giveawaysPG,0.4,6
+349,Army,000000,takeawaysPG,0.2,138
+356,Illinois,ff5f05,turnoverMargin,1,51
+356,Illinois,ff5f05,giveaways,4,23
+356,Illinois,ff5f05,takeaways,5,99
+356,Illinois,ff5f05,turnoverGames,6,0
+356,Illinois,ff5f05,turnoverMarginPG,0.167,62
+356,Illinois,ff5f05,giveawaysPG,0.667,23
+356,Illinois,ff5f05,takeawaysPG,0.833,106
+2005,Air Force,003594,turnoverMargin,1,51
+2005,Air Force,003594,giveaways,4,23
+2005,Air Force,003594,takeaways,5,99
+2005,Air Force,003594,turnoverGames,5,0
+2005,Air Force,003594,turnoverMarginPG,0.2,51
+2005,Air Force,003594,giveawaysPG,0.8,36
+2005,Air Force,003594,takeawaysPG,1,92
+2006,Akron,041e42,turnoverMargin,0,80
+2006,Akron,041e42,giveaways,9,102
+2006,Akron,041e42,takeaways,9,35
+2006,Akron,041e42,turnoverGames,6,0
+2006,Akron,041e42,turnoverMarginPG,0,80
+2006,Akron,041e42,giveawaysPG,1.5,92
+2006,Akron,041e42,takeawaysPG,1.5,47
+2026,App State,000000,turnoverMargin,-1,102
+2026,App State,000000,giveaways,6,50
+2026,App State,000000,takeaways,5,99
+2026,App State,000000,turnoverGames,5,0
+2026,App State,000000,turnoverMarginPG,-0.2,107
+2026,App State,000000,giveawaysPG,1.2,70
+2026,App State,000000,takeawaysPG,1,92
+2032,Arkansas St,cc092f,turnoverMargin,2,27
+2032,Arkansas St,cc092f,giveaways,8,81
+2032,Arkansas St,cc092f,takeaways,10,14
+2032,Arkansas St,cc092f,turnoverGames,6,0
+2032,Arkansas St,cc092f,turnoverMarginPG,0.333,35
+2032,Arkansas St,cc092f,giveawaysPG,1.333,74
+2032,Arkansas St,cc092f,takeawaysPG,1.667,27
+2050,Ball State,ba0c2f,turnoverMargin,0,80
+2050,Ball State,ba0c2f,giveaways,6,50
+2050,Ball State,ba0c2f,takeaways,6,85
+2050,Ball State,ba0c2f,turnoverGames,6,0
+2050,Ball State,ba0c2f,turnoverMarginPG,0,80
+2050,Ball State,ba0c2f,giveawaysPG,1,46
+2050,Ball State,ba0c2f,takeawaysPG,1,92
+2084,Buffalo,005bbb,turnoverMargin,0,80
+2084,Buffalo,005bbb,giveaways,9,102
+2084,Buffalo,005bbb,takeaways,9,35
+2084,Buffalo,005bbb,turnoverGames,6,0
+2084,Buffalo,005bbb,turnoverMarginPG,0,80
+2084,Buffalo,005bbb,giveawaysPG,1.5,92
+2084,Buffalo,005bbb,takeawaysPG,1.5,47
+2116,UCF,000000,turnoverMargin,2,27
+2116,UCF,000000,giveaways,7,61
+2116,UCF,000000,takeaways,9,35
+2116,UCF,000000,turnoverGames,6,0
+2116,UCF,000000,turnoverMarginPG,0.333,35
+2116,UCF,000000,giveawaysPG,1.167,58
+2116,UCF,000000,takeawaysPG,1.5,47
+2117,C Michigan,4c0027,turnoverMargin,-2,114
+2117,C Michigan,4c0027,giveaways,10,121
+2117,C Michigan,4c0027,takeaways,8,50
+2117,C Michigan,4c0027,turnoverGames,6,0
+2117,C Michigan,4c0027,turnoverMarginPG,-0.333,114
+2117,C Michigan,4c0027,giveawaysPG,1.667,111
+2117,C Michigan,4c0027,takeawaysPG,1.333,62
+2132,Cincinnati,000000,turnoverMargin,2,27
+2132,Cincinnati,000000,giveaways,2,4
+2132,Cincinnati,000000,takeaways,4,120
+2132,Cincinnati,000000,turnoverGames,5,0
+2132,Cincinnati,000000,turnoverMarginPG,0.4,27
+2132,Cincinnati,000000,giveawaysPG,0.4,6
+2132,Cincinnati,000000,takeawaysPG,0.8,120
+2199,E Michigan,006938,turnoverMargin,0,80
+2199,E Michigan,006938,giveaways,8,81
+2199,E Michigan,006938,takeaways,8,50
+2199,E Michigan,006938,turnoverGames,7,0
+2199,E Michigan,006938,turnoverMarginPG,0,80
+2199,E Michigan,006938,giveawaysPG,1.143,57
+2199,E Michigan,006938,takeawaysPG,1.143,90
+2226,FAU,003366,turnoverMargin,2,27
+2226,FAU,003366,giveaways,3,12
+2226,FAU,003366,takeaways,5,99
+2226,FAU,003366,turnoverGames,5,0
+2226,FAU,003366,turnoverMarginPG,0.4,27
+2226,FAU,003366,giveawaysPG,0.6,20
+2226,FAU,003366,takeawaysPG,1,92
+2229,FIU,091f3f,turnoverMargin,4,11
+2229,FIU,091f3f,giveaways,9,102
+2229,FIU,091f3f,takeaways,13,3
+2229,FIU,091f3f,turnoverGames,5,0
+2229,FIU,091f3f,turnoverMarginPG,0.8,11
+2229,FIU,091f3f,giveawaysPG,1.8,118
+2229,FIU,091f3f,takeawaysPG,2.6,1
+2247,Georgia St,0039a6,turnoverMargin,0,80
+2247,Georgia St,0039a6,giveaways,8,81
+2247,Georgia St,0039a6,takeaways,8,50
+2247,Georgia St,0039a6,turnoverGames,5,0
+2247,Georgia St,0039a6,turnoverMarginPG,0,80
+2247,Georgia St,0039a6,giveawaysPG,1.6,101
+2247,Georgia St,0039a6,takeawaysPG,1.6,42
+2294,Iowa,231f20,turnoverMargin,2,27
+2294,Iowa,231f20,giveaways,3,12
+2294,Iowa,231f20,takeaways,5,99
+2294,Iowa,231f20,turnoverGames,6,0
+2294,Iowa,231f20,turnoverMarginPG,0.333,35
+2294,Iowa,231f20,giveawaysPG,0.5,12
+2294,Iowa,231f20,takeawaysPG,0.833,106
+2305,Kansas,0051ba,turnoverMargin,1,51
+2305,Kansas,0051ba,giveaways,8,81
+2305,Kansas,0051ba,takeaways,9,35
+2305,Kansas,0051ba,turnoverGames,5,0
+2305,Kansas,0051ba,turnoverMarginPG,0.2,51
+2305,Kansas,0051ba,giveawaysPG,1.6,101
+2305,Kansas,0051ba,takeawaysPG,1.8,20
+2306,Kansas St,330a57,turnoverMargin,1,51
+2306,Kansas St,330a57,giveaways,5,39
+2306,Kansas St,330a57,takeaways,6,85
+2306,Kansas St,330a57,turnoverGames,5,0
+2306,Kansas St,330a57,turnoverMarginPG,0.2,51
+2306,Kansas St,330a57,giveawaysPG,1,46
+2306,Kansas St,330a57,takeawaysPG,1.2,75
+2309,Kent State,002664,turnoverMargin,0,80
+2309,Kent State,002664,giveaways,10,121
+2309,Kent State,002664,takeaways,10,14
+2309,Kent State,002664,turnoverGames,6,0
+2309,Kent State,002664,turnoverMarginPG,0,80
+2309,Kent State,002664,giveawaysPG,1.667,111
+2309,Kent State,002664,takeawaysPG,1.667,27
+2335,Liberty,0a254e,turnoverMargin,1,51
+2335,Liberty,0a254e,giveaways,5,39
+2335,Liberty,0a254e,takeaways,6,85
+2335,Liberty,0a254e,turnoverGames,6,0
+2335,Liberty,0a254e,turnoverMarginPG,0.167,62
+2335,Liberty,0a254e,giveawaysPG,0.833,39
+2335,Liberty,0a254e,takeawaysPG,1,92
+2348,Louisiana Tech,003087,turnoverMargin,-1,102
+2348,Louisiana Tech,003087,giveaways,7,61
+2348,Louisiana Tech,003087,takeaways,6,85
+2348,Louisiana Tech,003087,turnoverGames,5,0
+2348,Louisiana Tech,003087,turnoverMarginPG,-0.2,107
+2348,Louisiana Tech,003087,giveawaysPG,1.4,84
+2348,Louisiana Tech,003087,takeawaysPG,1.2,75
+2390,Miami,f47423,turnoverMargin,2,27
+2390,Miami,f47423,giveaways,2,4
+2390,Miami,f47423,takeaways,4,120
+2390,Miami,f47423,turnoverGames,5,0
+2390,Miami,f47423,turnoverMarginPG,0.4,27
+2390,Miami,f47423,giveawaysPG,0.4,6
+2390,Miami,f47423,takeawaysPG,0.8,120
+2393,MTSU,036eb7,turnoverMargin,3,20
+2393,MTSU,036eb7,giveaways,2,4
+2393,MTSU,036eb7,takeaways,5,99
+2393,MTSU,036eb7,turnoverGames,5,0
+2393,MTSU,036eb7,turnoverMarginPG,0.6,20
+2393,MTSU,036eb7,giveawaysPG,0.4,6
+2393,MTSU,036eb7,takeawaysPG,1,92
+2426,Navy,00225b,turnoverMargin,-6,138
+2426,Navy,00225b,giveaways,9,102
+2426,Navy,00225b,takeaways,3,131
+2426,Navy,00225b,turnoverGames,5,0
+2426,Navy,00225b,turnoverMarginPG,-1.2,138
+2426,Navy,00225b,giveawaysPG,1.8,118
+2426,Navy,00225b,takeawaysPG,0.6,131
+2429,Charlotte,005035,turnoverMargin,-3,125
+2429,Charlotte,005035,giveaways,15,138
+2429,Charlotte,005035,takeaways,12,8
+2429,Charlotte,005035,turnoverGames,6,0
+2429,Charlotte,005035,turnoverMarginPG,-0.5,125
+2429,Charlotte,005035,giveawaysPG,2.5,138
+2429,Charlotte,005035,takeawaysPG,2,10
+2433,UL Monroe,840029,turnoverMargin,0,80
+2433,UL Monroe,840029,giveaways,6,50
+2433,UL Monroe,840029,takeaways,6,85
+2433,UL Monroe,840029,turnoverGames,5,0
+2433,UL Monroe,840029,turnoverMarginPG,0,80
+2433,UL Monroe,840029,giveawaysPG,1.2,70
+2433,UL Monroe,840029,takeawaysPG,1.2,75
+2439,UNLV,cf0a2c,turnoverMargin,-3,125
+2439,UNLV,cf0a2c,giveaways,7,61
+2439,UNLV,cf0a2c,takeaways,4,120
+2439,UNLV,cf0a2c,turnoverGames,6,0
+2439,UNLV,cf0a2c,turnoverMarginPG,-0.5,125
+2439,UNLV,cf0a2c,giveawaysPG,1.167,58
+2439,UNLV,cf0a2c,takeawaysPG,0.667,125
+2440,Nevada,041e42,turnoverMargin,-2,114
+2440,Nevada,041e42,giveaways,9,102
+2440,Nevada,041e42,takeaways,7,70
+2440,Nevada,041e42,turnoverGames,5,0
+2440,Nevada,041e42,turnoverMarginPG,-0.4,119
+2440,Nevada,041e42,giveawaysPG,1.8,118
+2440,Nevada,041e42,takeawaysPG,1.4,55
+2449,N Dakota St,01402A,turnoverMargin,4,11
+2449,N Dakota St,01402A,giveaways,6,50
+2449,N Dakota St,01402A,takeaways,10,14
+2449,N Dakota St,01402A,turnoverGames,6,0
+2449,N Dakota St,01402A,turnoverMarginPG,0.667,16
+2449,N Dakota St,01402A,giveawaysPG,1,46
+2449,N Dakota St,01402A,takeawaysPG,1.667,27
+2459,N Illinois,c8102e,turnoverMargin,-1,102
+2459,N Illinois,c8102e,giveaways,7,61
+2459,N Illinois,c8102e,takeaways,6,85
+2459,N Illinois,c8102e,turnoverGames,5,0
+2459,N Illinois,c8102e,turnoverMarginPG,-0.2,107
+2459,N Illinois,c8102e,giveawaysPG,1.4,84
+2459,N Illinois,c8102e,takeawaysPG,1.2,75
+2483,Oregon,00934b,turnoverMargin,-5,137
+2483,Oregon,00934b,giveaways,9,102
+2483,Oregon,00934b,takeaways,4,120
+2483,Oregon,00934b,turnoverGames,5,0
+2483,Oregon,00934b,turnoverMarginPG,-1,137
+2483,Oregon,00934b,giveawaysPG,1.8,118
+2483,Oregon,00934b,takeawaysPG,0.8,120
+2509,Purdue,ceb888,turnoverMargin,-2,114
+2509,Purdue,ceb888,giveaways,4,23
+2509,Purdue,ceb888,takeaways,2,136
+2509,Purdue,ceb888,turnoverGames,6,0
+2509,Purdue,ceb888,turnoverMarginPG,-0.333,114
+2509,Purdue,ceb888,giveawaysPG,0.667,23
+2509,Purdue,ceb888,takeawaysPG,0.333,137
+2534,Sam Houston,f56423,turnoverMargin,1,51
+2534,Sam Houston,f56423,giveaways,5,39
+2534,Sam Houston,f56423,takeaways,6,85
+2534,Sam Houston,f56423,turnoverGames,5,0
+2534,Sam Houston,f56423,turnoverMarginPG,0.2,51
+2534,Sam Houston,f56423,giveawaysPG,1,46
+2534,Sam Houston,f56423,takeawaysPG,1.2,75
+2567,SMU,a80000,turnoverMargin,1,51
+2567,SMU,a80000,giveaways,9,102
+2567,SMU,a80000,takeaways,10,14
+2567,SMU,a80000,turnoverGames,5,0
+2567,SMU,a80000,turnoverMarginPG,0.2,51
+2567,SMU,a80000,giveawaysPG,1.8,118
+2567,SMU,a80000,takeawaysPG,2,10
+2572,Southern Miss,ffc72c,turnoverMargin,1,51
+2572,Southern Miss,ffc72c,giveaways,8,81
+2572,Southern Miss,ffc72c,takeaways,9,35
+2572,Southern Miss,ffc72c,turnoverGames,5,0
+2572,Southern Miss,ffc72c,turnoverMarginPG,0.2,51
+2572,Southern Miss,ffc72c,giveawaysPG,1.6,101
+2572,Southern Miss,ffc72c,takeawaysPG,1.8,20
+2579,South Carolina,73000a,turnoverMargin,-3,125
+2579,South Carolina,73000a,giveaways,8,81
+2579,South Carolina,73000a,takeaways,5,99
+2579,South Carolina,73000a,turnoverGames,6,0
+2579,South Carolina,73000a,turnoverMarginPG,-0.5,125
+2579,South Carolina,73000a,giveawaysPG,1.333,74
+2579,South Carolina,73000a,takeawaysPG,0.833,106
+2623,Missouri St,5e0009,turnoverMargin,3,20
+2623,Missouri St,5e0009,giveaways,5,39
+2623,Missouri St,5e0009,takeaways,8,50
+2623,Missouri St,5e0009,turnoverGames,5,0
+2623,Missouri St,5e0009,turnoverMarginPG,0.6,20
+2623,Missouri St,5e0009,giveawaysPG,1,46
+2623,Missouri St,5e0009,takeawaysPG,1.6,42
+2628,TCU,4d1979,turnoverMargin,2,27
+2628,TCU,4d1979,giveaways,8,81
+2628,TCU,4d1979,takeaways,10,14
+2628,TCU,4d1979,turnoverGames,5,0
+2628,TCU,4d1979,turnoverMarginPG,0.4,27
+2628,TCU,4d1979,giveawaysPG,1.6,101
+2628,TCU,4d1979,takeawaysPG,2,10
+2633,Tennessee,ff8200,turnoverMargin,2,27
+2633,Tennessee,ff8200,giveaways,8,81
+2633,Tennessee,ff8200,takeaways,10,14
+2633,Tennessee,ff8200,turnoverGames,6,0
+2633,Tennessee,ff8200,turnoverMarginPG,0.333,35
+2633,Tennessee,ff8200,giveawaysPG,1.333,74
+2633,Tennessee,ff8200,takeawaysPG,1.667,27
+2636,UTSA,0c2340,turnoverMargin,2,27
+2636,UTSA,0c2340,giveaways,3,12
+2636,UTSA,0c2340,takeaways,5,99
+2636,UTSA,0c2340,turnoverGames,6,0
+2636,UTSA,0c2340,turnoverMarginPG,0.333,35
+2636,UTSA,0c2340,giveawaysPG,0.5,12
+2636,UTSA,0c2340,takeawaysPG,0.833,106
+2638,UTEP,ff8200,turnoverMargin,0,80
+2638,UTEP,ff8200,giveaways,10,121
+2638,UTEP,ff8200,takeaways,10,14
+2638,UTEP,ff8200,turnoverGames,6,0
+2638,UTEP,ff8200,turnoverMarginPG,0,80
+2638,UTEP,ff8200,giveawaysPG,1.667,111
+2638,UTEP,ff8200,takeawaysPG,1.667,27
+2641,Texas Tech,da291c,turnoverMargin,2,27
+2641,Texas Tech,da291c,giveaways,8,81
+2641,Texas Tech,da291c,takeaways,10,14
+2641,Texas Tech,da291c,turnoverGames,5,0
+2641,Texas Tech,da291c,turnoverMarginPG,0.4,27
+2641,Texas Tech,da291c,giveawaysPG,1.6,101
+2641,Texas Tech,da291c,takeawaysPG,2,10
+2649,Toledo,0b2240,turnoverMargin,-1,102
+2649,Toledo,0b2240,giveaways,7,61
+2649,Toledo,0b2240,takeaways,6,85
+2649,Toledo,0b2240,turnoverGames,6,0
+2649,Toledo,0b2240,turnoverMarginPG,-0.167,102
+2649,Toledo,0b2240,giveawaysPG,1.167,58
+2649,Toledo,0b2240,takeawaysPG,1,92
+2653,Troy,862633,turnoverMargin,4,11
+2653,Troy,862633,giveaways,5,39
+2653,Troy,862633,takeaways,9,35
+2653,Troy,862633,turnoverGames,5,0
+2653,Troy,862633,turnoverMarginPG,0.8,11
+2653,Troy,862633,giveawaysPG,1,46
+2653,Troy,862633,takeawaysPG,1.8,20
+2655,Tulane,006747,turnoverMargin,2,27
+2655,Tulane,006747,giveaways,3,12
+2655,Tulane,006747,takeaways,5,99
+2655,Tulane,006747,turnoverGames,5,0
+2655,Tulane,006747,turnoverMarginPG,0.4,27
+2655,Tulane,006747,giveawaysPG,0.6,20
+2655,Tulane,006747,takeawaysPG,1,92
+2711,W Michigan,532e1f,turnoverMargin,6,3
+2711,W Michigan,532e1f,giveaways,2,4
+2711,W Michigan,532e1f,takeaways,8,50
+2711,W Michigan,532e1f,turnoverGames,6,0
+2711,W Michigan,532e1f,turnoverMarginPG,1,5
+2711,W Michigan,532e1f,giveawaysPG,0.333,4
+2711,W Michigan,532e1f,takeawaysPG,1.333,62
+2751,Wyoming,492f24,turnoverMargin,-3,125
+2751,Wyoming,492f24,giveaways,11,130
+2751,Wyoming,492f24,takeaways,8,50
+2751,Wyoming,492f24,turnoverGames,6,0
+2751,Wyoming,492f24,turnoverMarginPG,-0.5,125
+2751,Wyoming,492f24,giveawaysPG,1.833,128
+2751,Wyoming,492f24,takeawaysPG,1.333,62

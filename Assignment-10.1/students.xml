@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Id>1</Id>
+    <Name>Baker Mayfield</Name>
+    <Grade>A</Grade>
+  </Student>
+  <Student>
+    <Id>2</Id>
+    <Name>CeeDee Lamb</Name>
+    <Grade>B</Grade>
+  </Student>
+  <Student>
+    <Id>3</Id>
+    <Name>Jalen Hurts</Name>
+    <Grade>A</Grade>
+  </Student>
+</ArrayOfStudent>
